@@ -1,4 +1,4 @@
-### Hi there 👋
+### We are a group of scientists building wildlife resilience metrics for California's Sierra Nevada Forests
 
 <!--
 **wildliferesilience/wildliferesilience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
