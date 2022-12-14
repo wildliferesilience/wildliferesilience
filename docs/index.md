@@ -36,3 +36,5 @@ layout: default
   {% endif %}
 </div>
 {% endif %}
+
+![wildlifereseliencelogo](/assets/wildliferesilience.jpg)
