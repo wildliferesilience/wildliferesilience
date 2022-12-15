@@ -1,7 +1,7 @@
 ---
-title: "index"
-author: "Durrell D. Kapan"
-date: "2022-12-14"
+title: "Wildlife Resilience"
+# author: "Durrell D. Kapan"
+# date: "2022-12-14"
 output: html_document
 email_address: wildliferesilience@gmail.com
 github_repo: https://github.com/wildliferesilience/wildliferesilience
