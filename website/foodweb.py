@@ -1,4 +1,3 @@
-```{shinylive-python}
 #| standalone: true
 from shiny import *
 from shinywidgets import output_widget, render_widget, register_widget
@@ -81,4 +80,3 @@ def server(input, output, session):
 
 app = App(app_ui, server)
 
-```
