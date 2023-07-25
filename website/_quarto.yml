@@ -16,6 +16,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - biodiversity.qmd
       - foodweb.qmd
       - about.qmd
 
