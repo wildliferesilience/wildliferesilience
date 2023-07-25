@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: ../docs
+  resources: input/*
+  preview: 
+    port: 4321
+    browser: true
 
 filters: 
   - shinylive
