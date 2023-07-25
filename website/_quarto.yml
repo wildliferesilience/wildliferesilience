@@ -13,6 +13,7 @@ website:
   title: " "
   
   navbar:
+    search: false
     left:
       - href: index.qmd
         text: Resilience
