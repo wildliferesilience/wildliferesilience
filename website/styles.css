@@ -33,3 +33,17 @@
     margin-right: 0px;
   }
 
+
+.quarto-title > h1.title {
+    opacity: 0 !important;
+}
+
+.shinylive-wrapper {
+    background-color: #141d26;
+    height: 1000px;
+    border: none;
+}
+
+div.shinylive-wrapper {
+    border: none;
+}

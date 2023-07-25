@@ -2,4 +2,15 @@
 title: "About"
 ---
 
-About this site
+:::: {.columns}
+
+::: {.column width="50%"}
+We are a group of scientists from the California Academy of Sciences...
+:::
+
+::: {.column width="50%"}
+![](images/Academy_Logo-Horizontal-Academy_Green.png)
+:::
+
+
+::::
