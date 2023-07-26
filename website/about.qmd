@@ -18,9 +18,6 @@ To develop metrics to assess the current and future resilience of forest wildlif
 -   How would wildlife community resilience metrics be useful in your work and/or study system?
 -   What would make them more useful to you? (e.g., specific scenario examples) -Any comments, questions, or suggestions?
 
-### Contact
-
-<p><a href="mailto:wildliferesilience@gmail.com">Send email</a></p>
 
 ## Who we are
 
@@ -33,6 +30,10 @@ We are a group of scientists from the United States Forest Service Pacific SW Re
 -   [Dr. Peter Roopnarine](https://www.calacademy.org/staff/ibss/invertebrate-zoology-and-geology/peter-roopnarine) (Curator of Geology at the California Academy of Sciences).
 -   [Dr. Angela M. White](https://www.fs.usda.gov/research/about/people/angelawhite) (Scientist, Research Wildlife Biologist, USDA Forest Service, [Pacific Southwest Research Station](https://www.fs.usda.gov/research/psw)).
 -   [Dr. Rebecca Wilcox](https://scholar.google.com/citations?hl=en&user=1uCsxdkAAAAJ&view_op=list_works&sortby=pubdate) (Metrics of Wildlife Resilience Post-doc, California Academy of Sciences).
+
+### Contact
+
+<p><a href="mailto:wildliferesilience@gmail.com">Send email</a></p>
 
 <!-- ::: columns -->
 
