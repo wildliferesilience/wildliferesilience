@@ -7,7 +7,9 @@ title: "Study Area"
 ---
 ## The Tahoe Central Sierra Initiative Study Region
 ```{r study_area}
-#| column: screen
+#| echo: false
+#| warning: false
+#| message: false
 library(dplyr)
 library(leaflet)
 leaflet() %>%
