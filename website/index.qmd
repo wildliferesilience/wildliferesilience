@@ -21,7 +21,7 @@ One goal of wildlife and forest management is to support the health and resilien
 :::
 
 ::: column-screen
-![](images/Roopnarine_Angielczyk_2016_Resilience_Image.png){fig-align="center"}
+[![Resilience in a complex system is illustrated by the different positions of the ball along the surface. The deeper the 'trough' the more resilient the system is. If a disturbance can push the ball sufficiently far from it's center of attraction then the system can move to a new dynamic regime (follow arrows to the new trough on the right).](images/Roopnarine_Angielczyk_2016_Resilience_Image.png){fig-alt="Figure from Roopnarine and Angielczyk 2016." fig-align="center"}](https://www.researchgate.net/publication/309242056_The_Stability_of_Ecological_Communities_as_an_Agent_of_Evolutionary_Selection)
 :::
 
 ## Why Care About Resilience?
