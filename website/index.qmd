@@ -8,7 +8,7 @@ title: "Wildlife Resilience"
 
 ## Wildlife Resilience
 
-One goal of wildlife and forest management is to support the health and resilience of forested habitats, and biodiversity can be important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience can prove difficult. Therefore, our interdisciplinary group is developing metrics to quantify and evaluate wildlife community health and resilience.
+One goal of conservation and management is to support the health and resilience of forested landscapes. Biodiversity is important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience is challenging. To address this challenge, we are developing metrics to quantify and evaluate wildlife community health and resilience.
 
 ::: callout-tip
 ## Definitions
@@ -20,13 +20,13 @@ One goal of wildlife and forest management is to support the health and resilien
 **Health**: communities that are supportive of a variety of ecological processes.
 :::
 
-::: column-screen
-[![Resilience in a complex system is illustrated by the different positions of the ball along the surface. The deeper the 'trough' the more resilient the system is. If a disturbance can push the ball sufficiently far from it's center of attraction then the system can move to a new dynamic regime (follow arrows to the new trough on the right).](images/Roopnarine_Angielczyk_2016_Resilience_Image.png){fig-alt="Figure from Roopnarine and Angielczyk 2016." fig-align="center"}](https://www.researchgate.net/publication/309242056_The_Stability_of_Ecological_Communities_as_an_Agent_of_Evolutionary_Selection)
+::: column-body
+[![Resilience in a complex system is illustrated by the green surface. As the system evolves, it's current 'state' is defined by a ball travelling to different positions along the surface. Deeper 'troughs' represent increased resilience. If a disturbance can push the system sufficiently far (e.g. push a ball out of a trough) then the system can move to a new state (follow the dashed arrow to the new trough on the right).](images/Roopnarine_Angielczyk_2016_Resilience_Image.png){fig-alt="Figure from Roopnarine and Angielczyk 2016." fig-align="center"}](https://www.researchgate.net/publication/309242056_The_Stability_of_Ecological_Communities_as_an_Agent_of_Evolutionary_Selection)
 :::
 
 ## Why Care About Resilience?
 
-Over the last 10+ years, the increase in wildfire places much of Western forests at risk. In the face of climate-driven increases in fire conditions exacerbated by a long history of forest fuel buildup due to fire suppression, state and federal government, along with industry, forest communities and NGOs are all working together to increase the pace and scale of the restoration of forest resilience. In California, both state and federal agencies are spending billions of dollars to manage forests for climate and fire resilience. But what does this resilience management mean for the conservation and enhancement of the state's wildlife?
+Over the last 10+ years, the increase in wildfire places much of Western forests at risk. In the face of climate-driven increases in fire conditions exacerbated by a long history of forest fuel buildup due to fire suppression, federal and state governments, industry, forest communities and NGOs are all working together to increase the pace and scale of the restoration of forest resilience. In California, both state and federal agencies are spending billions of dollars to manage forests for climate and fire resilience. But what does this resilience management mean for the conservation and enhancement of the state's wildlife?
 
 ## Why Care About Biodiversity?
 
@@ -34,4 +34,4 @@ The world's forests harbor the vast majority of terrestrial species (FAO 2020), 
 
 Globally biodiversity is in crisis, therefore it is important to have integrative tools that better equip us to evaluate and support healthy, resilient, biodiverse communities as we plan major interventions to enhance forest resilience to fire.
 
-<iframe src="pdf/Metrics_Wildlife_Community_Resilience_Summary.pdf" width="100%" height="1000px">
+<!-- <iframe src="pdf/Metrics_Wildlife_Community_Resilience_Summary.pdf" width="100%" height="1000px"> -->
