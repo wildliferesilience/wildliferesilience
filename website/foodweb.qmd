@@ -14,7 +14,7 @@ Food webs connect species through their interactions (e.g., mutualistic, competi
 
 However, food webs can get complicated fast. That's why it's important to have metrics that describe the composition, structure, and function of the communities. 
 
-![](pdf/FoodWeb.svg){fig-align="center"}
+![](pdf/FoodWeb.png){fig-align="center"}
 :::
 
 ::: {.column width="40%"}
