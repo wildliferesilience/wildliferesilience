@@ -4,16 +4,24 @@ title: "Food Webs"
 
 # Overview
 
+:::: {.columns}
+
+::: {.column width="60%"}
 Food webs, are a valuable way to represent the complexity of trophic interactions within a local wildlife community and simultaneously evaluate community health and resilience. 
 
 Food webs connect species through their interactions (e.g., mutualistic, competitive, trophic). In this case, we show, who is eating whom. Primary producers are at the bottom of the food web, followed by primary consumers, secondary consumers, tertiary consumers, and apex predators at the top. 
 
-![](pdf/TrophicLevels.pdf){fig-align="center" width="100%"}
-Can we make this a static image without the scroll? And a little smaller? Same with the one below
 
 However, food webs can get complicated fast. That's why it's important to have metrics that describe the composition, structure, and function of the communities. 
 
-![](pdf/FoodWeb.pdf){fig-align="center" width="100%"}
+![](pdf/FoodWeb.svg){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+![](pdf/TrophicLevels.svg){fig-align="center"}
+:::
+
+::::
 
 # Metrics
 
