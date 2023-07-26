@@ -3,3 +3,27 @@ title: "Food Webs"
 ---
 
 # Overview
+
+Food webs, are a valuable way to represent the complexity of trophic interactions within a local wildlife community and simultaneously evaluate community health and resilience. 
+
+Food webs connect species through their interactions (e.g., mutualistic, competitive, trophic). In this case, we show, who is eating whom. Primary producers are at the bottom of the food web, followed by primary consumers, secondary consumers, tertiary consumers, and apex predators at the top. 
+
+![](pdf/TrophicLevels.pdf){fig-align="center" width="100%"}
+Can we make this a static image without the scroll? And a little smaller? Same with the one below
+
+However, food webs can get complicated fast. That's why it's important to have metrics that describe the composition, structure, and function of the communities. 
+
+![](pdf/FoodWeb.pdf){fig-align="center" width="100%"}
+
+# Metrics
+
+Functional dissimilarity describes the variety of functions present in a wildlife community. Communities with higher functional dissimilarity may support a higher diversity of ecosystem functions that in turn support ecosystem health. 
+
+Functional similarity (redundanacy) describes how species perform similar functions within a wildlife community. Communities with higher functional redundancy are predicted to be more resilient to species loss.
+
+Guild richness describes how many different functional groups are present in a wildlife community. This is one way to describe biodiversity and health present in a community. 
+
+
+Can the image credits be at the bottom in smaller size? 
+#Image credits: 
+Oncopeltus fasciatus - milkweed bug - Public domain, Moutain quail by: Gabriela Palomo-Munoz [license](https://creativecommons.org/licenses/by/4.0/), Fox by: Rebecca Groom [license]( https://creativecommons.org/licenses/by/3.0/), Moutain lion by: Gabriela Palomo-Munoz [license](https://creativecommons.org/licenses/by/3.0/), Asclepias syriaca by: Ian Medeiros [license](https://creativecommons.org/licenses/by/4.0/)
