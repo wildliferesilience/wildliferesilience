@@ -18,8 +18,8 @@ website:
       - href: index.qmd
         text: Resilience
       - foodweb.qmd
-      - study_site.qmd
-      - research_highlights.qmd
+      - study_area.qmd
+      - highlights.qmd
       - about.qmd
 
 format:

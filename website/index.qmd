@@ -2,6 +2,10 @@
 title: "Wildlife Resilience"
 ---
 
+::: column-screen
+![](images/IMG_6851.png){fig-align="center"}
+:::
+
 ## Wildlife Resilience
 
 One goal of wildlife and forest management is to support the health and resilience of habitats, and biodiversity can be important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience can prove difficult. Therefore, our interdisciplinary group is developing metrics to quantify and evaluate wildlife community health and resilience.
@@ -14,6 +18,10 @@ One goal of wildlife and forest management is to support the health and resilien
 **Biodiversity**: the variety of life, in all forms. This includes the variety of species, interactions between species, and communities.
 
 **Health**: communities that are supportive of a variety of ecological processes.
+:::
+
+::: column-screen
+![](images/Roopnarine_Angielczyk_2016_Resilience_Image.png){fig-align="center"}
 :::
 
 ## Why Care About Resilience?

@@ -1,0 +1,17 @@
+---
+title: "Study Area"
+# note we should get the TCSI boundary
+# and each watershed in the study area (LTB, King, Sagehen, Caples)
+# and then get the layers for each habitat divided by elevation.
+# and work from there
+---
+## The Tahoe Central Sierra Initiative Study Region
+```{r study_area}
+#| column: screen
+library(dplyr)
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  setView(lng=-120.155262, lat=38.705416, zoom = 06) %>%
+  addMarkers(lng=-120.155262, lat=38.705416, popup="Central Sierra Nevada")
+```
