@@ -5,10 +5,8 @@ title: "Study Area"
 # and then get the layers for each habitat divided by elevation.
 # and work from there
 ---
-
-```{r}
 ## The Tahoe Central Sierra Initiative Study Region
-
+```{r study_area}
 #| column: screen
 library(dplyr)
 library(leaflet)

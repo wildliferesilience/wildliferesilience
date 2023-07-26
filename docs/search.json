@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Resilience",
     "section": "",
-    "text": "One goal of wildlife and forest management is to support the health and resilience of habitats, and biodiversity can be important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience can prove difficult. Therefore, our interdisciplinary group is developing metrics to quantify and evaluate wildlife community health and resilience.\n\n\n\n\n\n\nDefinitions\n\n\n\nResilience: the ability of a community to maintain integrity/character after a disturbance.\nBiodiversity: the variety of life, in all forms. This includes the variety of species, interactions between species, and communities.\nHealth: communities that are supportive of a variety of ecological processes."
+    "text": "::: column-screen  ## Wildlife Resilience\nOne goal of wildlife and forest management is to support the health and resilience of habitats, and biodiversity can be important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience can prove difficult. Therefore, our interdisciplinary group is developing metrics to quantify and evaluate wildlife community health and resilience."
   },
   {
     "objectID": "about.html",
@@ -53,6 +53,13 @@
     "href": "about.html#who-we-are",
     "title": "About",
     "section": "Who we are",
-    "text": "Who we are\nWe are a group of scientists from the United States Forest Service Pacific SW Research Lab, The USFS National Forest System and the California Academy of Sciences. Our collaborative transdisciplinary team includes alphabetically:\n\nDr. Jack Dumbacher (Curator of Ornithology and Mammalogy, California Academy of Sciences).\nDr. Becky Estes (Central Sierra Province Ecologist, USDA Forest Service).\nDr. Durrell D. Kapan (Senior Research Fellow, Entomology, Ornithology and the Center for Comparative Genomics at the California Academy of Sciences).\nDr. Patricia Manley (Supervisory Biological Scientist, Conservation of Biodiversity Program, USDA Forest Service, Pacific Southwest Research Station).\nDr. Peter Roopnarine (Curator of Geology at the California Academy of Sciences).\nDr. Angela M. White (Scientist, Research Wildlife Biologist, USDA Forest Service, Pacific Southwest Research Station).\nDr. Rebecca Wilcox (Metrics of Wildlife Resilience Post-doc, California Academy of Sciences)."
+    "text": "Who we are\nWe are a group of scientists from the United States Forest Service Pacific SW Research Lab, The USFS National Forest System and the California Academy of Sciences. Our collaborative transdisciplinary team includes alphabetically:\n\nDr. Jack Dumbacher (Curator of Ornithology and Mammalogy, California Academy of Sciences).\nDr. Becky Estes (Central Sierra Province Ecologist, USDA Forest Service).\nDr. Durrell D. Kapan (Senior Research Fellow, Entomology, Ornithology and the Center for Comparative Genomics at the California Academy of Sciences).\nDr. Patricia Manley (Supervisory Biological Scientist, Conservation of Biodiversity Program, USDA Forest Service, Pacific Southwest Research Station).\nDr. Peter Roopnarine (Curator of Geology at the California Academy of Sciences).\nDr. Angela M. White (Scientist, Research Wildlife Biologist, USDA Forest Service, Pacific Southwest Research Station).\nDr. Rebecca Wilcox (Metrics of Wildlife Resilience Post-doc, California Academy of Sciences).\n\n\n\n\n::: :::"
+  },
+  {
+    "objectID": "index.html#wildlife-resilience",
+    "href": "index.html#wildlife-resilience",
+    "title": "Resilience",
+    "section": "Wildlife Resilience",
+    "text": "Wildlife Resilience\nOne goal of wildlife and forest management is to support the health and resilience of habitats, and biodiversity can be important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience can prove difficult. Therefore, our interdisciplinary group is developing metrics to quantify and evaluate wildlife community health and resilience.\n\n\n\n\n\n\nDefinitions\n\n\n\nResilience: the ability of a community to maintain integrity/character after a disturbance.\nBiodiversity: the variety of life, in all forms. This includes the variety of species, interactions between species, and communities.\nHealth: communities that are supportive of a variety of ecological processes."
   }
 ]

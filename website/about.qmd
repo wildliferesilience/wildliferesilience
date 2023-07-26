@@ -18,8 +18,8 @@ We are a group of scientists from the United States Forest Service Pacific SW Re
 -   [Dr. Angela M. White](https://www.fs.usda.gov/research/about/people/angelawhite) (Scientist, Research Wildlife Biologist, USDA Forest Service, [Pacific Southwest Research Station](https://www.fs.usda.gov/research/psw)).
 -   [Dr. Rebecca Wilcox](https://scholar.google.com/citations?hl=en&user=1uCsxdkAAAAJ&view_op=list_works&sortby=pubdate) (Metrics of Wildlife Resilience Post-doc, California Academy of Sciences).
 
-::: columns
-::: {.column width="100%"}
-![](images/Logo_of_the_United_States_Forest_Service.svg.png){alt="United States Forest Service" fig-align="left" width="90"} ![](images/Academy_Logo-Horizontal-Academy_Green.png){fig-align="right" width="270"}
+<!-- ::: columns -->
+<!-- ::: {.column width="100%"} -->
+<!-- ![](images/Logo_of_the_United_States_Forest_Service.svg.png){alt="United States Forest Service" fig-align="left" width="90"} ![](images/Academy_Logo-Horizontal-Academy_Green.png){fig-align="right" width="270"} -->
 :::
 :::
