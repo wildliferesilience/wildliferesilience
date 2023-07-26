@@ -5,12 +5,15 @@ project:
   preview: 
     port: 4321
     browser: true
+  render: 
+    - "*.qmd"
 
 filters: 
   - shinylive
 
 website:
   title: " "
+  reader-mode: false
   
   navbar:
     search: false
