@@ -1,0 +1,13 @@
+---
+title: "Highlights"
+listing: 
+    contents: posts/*.qmd
+    type: default
+    categories: true
+page-layout: full
+---
+
+## Highlights
+
+::: {#sample-listings}
+:::
