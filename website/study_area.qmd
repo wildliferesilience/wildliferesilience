@@ -1,0 +1,15 @@
+---
+title: "Study Site"
+---
+
+```{r}
+## The Tahoe Central Sierra Initiative Study Region
+
+#| column: screen
+library(dplyr)
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  setView(lng=-120.155262, lat=38.705416, zoom = 06) %>%
+  addMarkers(lng=-120.155262, lat=38.705416, popup="Central Sierra Nevada")
+```
