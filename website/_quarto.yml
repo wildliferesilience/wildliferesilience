@@ -5,6 +5,8 @@ project:
   preview: 
     port: 4321
     browser: true
+  render: 
+    - "*.qmd"
 
 filters: 
   - shinylive
