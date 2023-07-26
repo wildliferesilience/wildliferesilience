@@ -21,5 +21,5 @@ We are a group of scientists from the United States Forest Service Pacific SW Re
 <!-- ::: columns -->
 <!-- ::: {.column width="100%"} -->
 <!-- ![](images/Logo_of_the_United_States_Forest_Service.svg.png){alt="United States Forest Service" fig-align="left" width="90"} ![](images/Academy_Logo-Horizontal-Academy_Green.png){fig-align="right" width="270"} -->
-:::
-:::
+<!-- ::: -->
+<!-- ::: -->
