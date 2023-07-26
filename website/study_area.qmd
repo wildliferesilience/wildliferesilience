@@ -12,8 +12,13 @@ title: "Study Area"
 #| message: false
 library(dplyr)
 library(leaflet)
+library(leafem)
 leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  setView(lng=-120.155262, lat=38.705416, zoom = 06) %>%
-  addMarkers(lng=-120.155262, lat=38.705416, popup="Central Sierra Nevada")
+    addTiles() %>% # Add default OpenStreetMap map tiles
+    addGeotiff("input/f3veg_NLCD_300m_TCSI.tif", opacity = 0.7, colorOptions = colorOptions(
+        palette = hcl.colors(256, palette = "fall"),
+        na.color = "transparent"
+    )) %>%
+    setView(lng = -120.155262, lat = 38.705416, zoom = 06) # %>%
+# addMarkers(lng=-120.155262, lat=38.705416, popup="Central Sierra Nevada")
 ```
