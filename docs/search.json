@@ -40,5 +40,19 @@
     "title": "About",
     "section": "Who we are",
     "text": "Who we are\nWe are a group of scientists from the United States Forest Service Pacific SW Research Lab, The USFS National Forest System and the California Academy of Sciences. Our collaborative transdisciplinary team includes alphabetically:\n\nDr. Jack Dumbacher (Curator of Ornithology and Mammalogy, California Academy of Sciences).\nDr. Becky Estes (Central Sierra Province Ecologist, USDA Forest Service).\nDr. Durrell D. Kapan (Senior Research Fellow, Entomology, Ornithology and the Center for Comparative Genomics at the California Academy of Sciences).\nDr. Patricia Manley (Supervisory Biological Scientist, Conservation of Biodiversity Program, USDA Forest Service, Pacific Southwest Research Station).\nDr. Peter Roopnarine (Curator of Geology at the California Academy of Sciences).\nDr. Angela M. White (Scientist, Research Wildlife Biologist, USDA Forest Service, Pacific Southwest Research Station).\nDr. Rebecca Wilcox (Metrics of Wildlife Resilience Post-doc, California Academy of Sciences)."
+  },
+  {
+    "objectID": "study_area.html",
+    "href": "study_area.html",
+    "title": "Study Area",
+    "section": "",
+    "text": "library(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(leaflet)\nleaflet() %&gt;%\n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  setView(lng=-120.155262, lat=38.705416, zoom = 06) %&gt;%\n  addMarkers(lng=-120.155262, lat=38.705416, popup=\"Central Sierra Nevada\")"
+  },
+  {
+    "objectID": "study_area.html#the-tahoe-central-sierra-initiative-study-region",
+    "href": "study_area.html#the-tahoe-central-sierra-initiative-study-region",
+    "title": "Study Area",
+    "section": "",
+    "text": "library(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(leaflet)\nleaflet() %&gt;%\n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  setView(lng=-120.155262, lat=38.705416, zoom = 06) %&gt;%\n  addMarkers(lng=-120.155262, lat=38.705416, popup=\"Central Sierra Nevada\")"
   }
 ]
