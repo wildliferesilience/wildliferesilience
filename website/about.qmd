@@ -4,7 +4,7 @@ title: "About"
 
 ## The project
 
-In December of 2020 the [California Wildlife Conservation Board](https://wcb.ca.gov/) funded a planning and technical assistance project to develop "Metrics of Wildlife Community Resilience for Sierra Nevada Forests." This project allowed us to conduct a series of workshops, outreach meetings and underlying scientific, data and computational work to develop the links between wildlife, plant communities and forest resilience. We are using this site to communicate to the broadest audience possible.
+In December of 2020 the [California Wildlife Conservation Board](https://wcb.ca.gov/) funded a planning and technical assistance project to develop "Metrics of Wildlife Community Resilience for Sierra Nevada Forests." This project allowed us to conduct a series of workshops, outreach meetings and underlying scientific, data and computational work to develop the links between wildlife, plant communities and forest resilience. We are using this site to communicate the resulting work the broadest audience possible.
 
 ## Who we are
 
