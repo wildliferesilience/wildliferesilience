@@ -4,34 +4,38 @@ title: "Food Webs"
 
 # Overview
 
-:::: {.columns}
-
+::: columns
 ::: {.column width="60%"}
-Food webs, are a valuable way to represent the complexity of trophic interactions within a local wildlife community and simultaneously evaluate community health and resilience. 
+Food webs are a valuable way to represent the complexity of interactions within a local wildlife community and simultaneously evaluate community health and resilience.
 
-Food webs connect species through their interactions (e.g., mutualistic, competitive, trophic). In this case, we show, who is eating whom. Primary producers are at the bottom of the food web, followed by primary consumers, secondary consumers, tertiary consumers, and apex predators at the top. 
+Species have a variety of interactions in wildlife communities (e.g., mutualistic, competitive, or trophic -- that is who is eating whom). Food webs illustrate the latter: Primary producers are at the bottom of the food web, followed by primary consumers, secondary consumers, tertiary consumers, and apex predators at the top.
 
-
-However, food webs can get complicated fast. That's why it's important to have metrics that describe the composition, structure, and function of the communities. 
+However, food webs can get complicated fast. That's why it's important to describe the composition, structure, and function of the communities with summary measurements or *metrics*.
 
 ![](pdf/FoodWeb.png){fig-align="center"}
 :::
 
 ::: {.column width="40%"}
-![](pdf/TrophicLevels.svg){fig-align="center"}
+![A simple food web illustrating different feeding relationships.[^1]](pdf/TrophicLevels.svg){fig-align="center"}
+:::
 :::
 
-::::
+[^1]: Image credits: [*Puma concolor* - Moutain lion](phylopic.org/images/cbe2a3c9-2c11-4f36-a51f-8a6c8de6a420/puma-concolor) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Vulpes vulpes* - Red Fox](https://www.phylopic.org/images/76352962-1eeb-4197-acdd-e3c7eeab839d/vulpes-vulpes) by [Rebecca Groom](https://www.flickr.com/photos/39125441@N05/) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Oreortyx pictus* - Mountain Quail](https://www.phylopic.org/images/ee3501c1-7bd3-444b-b060-d7adaa04193b/oreortyx-pictus) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [*Oncopeltus fasciatus* - Milkweed bug](https://www.phylopic.org/images/ee3501c1-7bd3-444b-b060-d7adaa04193b/oreortyx-pictus) Public domain, [*Asclepias syriaca* - Common Milkweed](https://www.phylopic.org/images/e4c0def8-3903-4665-b79a-816e9e6311b0/asclepias-syriaca) by [Ian Medeiros](https://www.phylopic.org/contributors/78f98587-fb1e-4ba5-a798-bddb9379c7ee/ian-medeiros-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+[^2]: Image credits: [*Puma concolor* - Moutain lion](phylopic.org/images/cbe2a3c9-2c11-4f36-a51f-8a6c8de6a420/puma-concolor) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Vulpes vulpes* - Red Fox](https://www.phylopic.org/images/76352962-1eeb-4197-acdd-e3c7eeab839d/vulpes-vulpes) by [Rebecca Groom](https://www.flickr.com/photos/39125441@N05/) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Oreortyx pictus* - Mountain Quail](https://www.phylopic.org/images/ee3501c1-7bd3-444b-b060-d7adaa04193b/oreortyx-pictus) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [*Oncopeltus fasciatus* - Milkweed bug](https://www.phylopic.org/images/ee3501c1-7bd3-444b-b060-d7adaa04193b/oreortyx-pictus) Public domain, [*Asclepias syriaca* - Common Milkweed](https://www.phylopic.org/images/e4c0def8-3903-4665-b79a-816e9e6311b0/asclepias-syriaca) by [Ian Medeiros](https://www.phylopic.org/contributors/78f98587-fb1e-4ba5-a798-bddb9379c7ee/ian-medeiros-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 # Metrics
 
-Functional dissimilarity describes the variety of functions present in a wildlife community. Communities with higher functional dissimilarity may support a higher diversity of ecosystem functions that in turn support ecosystem health. 
+Three basic metrics include **guild richness**, and **functional** **dissimilarity**, vs **functional similarity**.
 
-Functional similarity (redundanacy) describes how species perform similar functions within a wildlife community. Communities with higher functional redundancy are predicted to be more resilient to species loss.
+::: callout-tip
+## Basic metrics
 
-Guild richness describes how many different functional groups are present in a wildlife community. This is one way to describe biodiversity and health present in a community. 
+**Guild richness** describes how many different functional groups are present in a wildlife community. This is one way to describe biodiversity and health present in a community.
 
+**Functional dissimilarity** describes the variety of functions present in a wildlife community. Communities with higher functional dissimilarity may support a higher diversity of ecosystem functions that in turn support ecosystem health.
 
-Can the image credits be at the bottom in smaller size? 
-#Image credits: 
-Oncopeltus fasciatus - milkweed bug - Public domain, Moutain quail by: Gabriela Palomo-Munoz [license](https://creativecommons.org/licenses/by/4.0/), Fox by: Rebecca Groom [license]( https://creativecommons.org/licenses/by/3.0/), Moutain lion by: Gabriela Palomo-Munoz [license](https://creativecommons.org/licenses/by/3.0/), Asclepias syriaca by: Ian Medeiros [license](https://creativecommons.org/licenses/by/4.0/)
+**Functional similarity** (redundancy) describes how species perform similar functions within a wildlife community. Communities with higher functional redundancy are predicted to be more resilient to species loss.
+:::
+
+<!-- Credits Example: "Creative Commons 10th Birthday Celebration San Francisco" by Timothy Vollmer is licensed under CC BY 4.0 -->

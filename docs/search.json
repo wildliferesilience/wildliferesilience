@@ -67,7 +67,7 @@
     "href": "foodweb.html",
     "title": "Food Webs",
     "section": "",
-    "text": "Overview\n\n\nFood webs, are a valuable way to represent the complexity of trophic interactions within a local wildlife community and simultaneously evaluate community health and resilience.\nFood webs connect species through their interactions (e.g., mutualistic, competitive, trophic). In this case, we show, who is eating whom. Primary producers are at the bottom of the food web, followed by primary consumers, secondary consumers, tertiary consumers, and apex predators at the top.\nHowever, food webs can get complicated fast. That’s why it’s important to have metrics that describe the composition, structure, and function of the communities.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetrics\nFunctional dissimilarity describes the variety of functions present in a wildlife community. Communities with higher functional dissimilarity may support a higher diversity of ecosystem functions that in turn support ecosystem health.\nFunctional similarity (redundanacy) describes how species perform similar functions within a wildlife community. Communities with higher functional redundancy are predicted to be more resilient to species loss.\nGuild richness describes how many different functional groups are present in a wildlife community. This is one way to describe biodiversity and health present in a community.\nCan the image credits be at the bottom in smaller size? #Image credits: Oncopeltus fasciatus - milkweed bug - Public domain, Moutain quail by: Gabriela Palomo-Munoz license, Fox by: Rebecca Groom license, Moutain lion by: Gabriela Palomo-Munoz license, Asclepias syriaca by: Ian Medeiros license"
+    "text": "Food webs are a valuable way to represent the complexity of interactions within a local wildlife community and simultaneously evaluate community health and resilience.\nSpecies have a variety of interactions in wildlife communities (e.g., mutualistic, competitive, or trophic – that is who is eating whom). Food webs illustrate the latter: Primary producers are at the bottom of the food web, followed by primary consumers, secondary consumers, tertiary consumers, and apex predators at the top.\nHowever, food webs can get complicated fast. That’s why it’s important to describe the composition, structure, and function of the communities with summary measurements or metrics.\n\n\n\n\n\n\n\n\n\nA simple food web illustrating different feeding relationships.1"
   },
   {
     "objectID": "highlights.html",
@@ -82,5 +82,12 @@
     "title": "January 2021",
     "section": "",
     "text": "January 2021"
+  },
+  {
+    "objectID": "foodweb.html#footnotes",
+    "href": "foodweb.html#footnotes",
+    "title": "Food Webs",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nImage credits: Puma concolor - Moutain lion by Gabriela Palomo-Munoz CC BY 3.0, Vulpes vulpes - Red Fox by Rebecca Groom CC BY 3.0, Oreortyx pictus - Mountain Quail by Gabriela Palomo-Munoz CC BY 4.0, Oncopeltus fasciatus - Milkweed bug Public domain, Asclepias syriaca - Common Milkweed by Ian Medeiros CC BY 4.0.↩︎"
   }
 ]
