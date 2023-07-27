@@ -10,8 +10,8 @@
     "objectID": "index.html#why-care-about-resilience",
     "href": "index.html#why-care-about-resilience",
     "title": "Wildlife Resilience",
-    "section": "Why Care About Resilience?",
-    "text": "Why Care About Resilience?\nOver the last 10+ years, the increase in wildfire places much of Western forests at risk. In the face of climate-driven increases in fire conditions exacerbated by a long history of forest fuel buildup due to fire suppression, federal and state governments, industry, forest communities and NGOs are all working together to increase the pace and scale of the restoration of forest resilience. In California, both state and federal agencies are spending billions of dollars to manage forests for climate and fire resilience. But what does this resilience management mean for the conservation and enhancement of the state’s wildlife?"
+    "section": "",
+    "text": "Over the last 10+ years, the increase in wildfire places much of Western forests at risk. In the face of climate-driven increases in fire conditions exacerbated by a long history of forest fuel buildup due to fire suppression, federal and state governments, industry, forest communities and NGOs are all working together to increase the pace and scale of the restoration of forest resilience. In California, both state and federal agencies are spending billions of dollars to manage forests for climate and fire resilience. But what does this resilience management mean for the conservation and enhancement of the state’s wildlife?"
   },
   {
     "objectID": "index.html#why-care-about-biodiversity",
@@ -60,14 +60,14 @@
     "href": "about.html#the-project",
     "title": "About",
     "section": "",
-    "text": "In December of 2020 the California Wildlife Conservation Board funded a planning and technical assistance project to develop “Metrics of Wildlife Community Resilience for Sierra Nevada Forests.” This project allowed us to conduct a series of workshops, outreach meetings and underlying scientific, data and computational work to develop the links between wildlife, plant communities and forest resilience. We are using this site to communicate the resulting work the broadest audience possible."
+    "text": "In December of 2020 the California Wildlife Conservation Board funded a planning and technical assistance project to develop “Metrics of Wildlife Community Resilience for Sierra Nevada Forests.” This project allowed us to conduct a series of workshops, outreach meetings and underlying scientific, data and computational work to develop the links between wildlife, plant communities and forest resilience. We are using this site to communicate the resulting work the broadest audience possible.\n\n\nTo develop metrics to assess the current and future resilience of forest wildlife communities to stressors associated with climate change that will help inform land managers how different management actions may influence wildlife community resilience into the future.These metrics will ultimately contribute to the management, conservation and restoration of Sierra Nevada wildlife communities.\n\n\n\n\nHow would wildlife community resilience metrics be useful in your work and/or study system?\nWhat would make them more useful to you? (e.g., specific scenario examples) -Any comments, questions, or suggestions?"
   },
   {
     "objectID": "foodweb.html",
     "href": "foodweb.html",
     "title": "Food Webs",
     "section": "",
-    "text": "Overview"
+    "text": "Overview\n\n\nFood webs, are a valuable way to represent the complexity of trophic interactions within a local wildlife community and simultaneously evaluate community health and resilience.\nFood webs connect species through their interactions (e.g., mutualistic, competitive, trophic). In this case, we show, who is eating whom. Primary producers are at the bottom of the food web, followed by primary consumers, secondary consumers, tertiary consumers, and apex predators at the top.\nHowever, food webs can get complicated fast. That’s why it’s important to have metrics that describe the composition, structure, and function of the communities.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetrics\nFunctional dissimilarity describes the variety of functions present in a wildlife community. Communities with higher functional dissimilarity may support a higher diversity of ecosystem functions that in turn support ecosystem health.\nFunctional similarity (redundanacy) describes how species perform similar functions within a wildlife community. Communities with higher functional redundancy are predicted to be more resilient to species loss.\nGuild richness describes how many different functional groups are present in a wildlife community. This is one way to describe biodiversity and health present in a community.\nCan the image credits be at the bottom in smaller size? #Image credits: Oncopeltus fasciatus - milkweed bug - Public domain, Moutain quail by: Gabriela Palomo-Munoz license, Fox by: Rebecca Groom license, Moutain lion by: Gabriela Palomo-Munoz license, Asclepias syriaca by: Ian Medeiros license"
   },
   {
     "objectID": "highlights.html",
