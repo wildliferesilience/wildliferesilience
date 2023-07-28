@@ -1,9 +1,10 @@
 ---
-title: "January 2021"
+title: "2021-01-15"
 linkTitle: "January 2021"
 author: "Durrell Kapan"
 ---
-
 # January 2021
+<!-- add info here -->
+## Getting started with the Metrics of Wildlife Resilience project!
 
-<!-- Durrell add info here -->
+Happy New Year! The [California Wildlife Conservation Board (WCB)](https://wcb.ca.gov/) funded our "Metrics of Wildlife Community Resilience for Sierra Nevada Forests." This support will make it possible to conduct a series of workshops, outreach meetings and importantly hire a post-doc to work with our team to develop the underlying theory, data and computer code to connect wildlife, plant communities and forest resilience. Thank you WCB!

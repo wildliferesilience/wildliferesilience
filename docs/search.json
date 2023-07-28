@@ -18,14 +18,14 @@
     "href": "index.html#why-care-about-biodiversity",
     "title": "Wildlife Resilience",
     "section": "Why Care About Biodiversity?",
-    "text": "Why Care About Biodiversity?\nThe world’s forests harbor the vast majority of terrestrial species2, therefore they are an important source of biodiversity worldwide. Species provide critical ecosystem services, including clean water, pollination, seed dispersal, and pest and disease control. Sierra Nevada forests are home to charismatic species, including mountain lions, fishers, martins, spotted owls, and goshawks. Healthy forests provide ample opportunities for bird watching, hunting, fishing, and other activities. More importantly, biodiversity provides the raw material for ecosystems to respond to change, bounce back or completely regenerate after a major disturbance.\nGlobally biodiversity is in crisis, therefore it is important to have integrative tools that better equip us to evaluate and support healthy, resilient, biodiverse communities as we plan major interventions to enhance forest resilience to fire."
+    "text": "Why Care About Biodiversity?\nThe world’s forests harbor the vast majority of terrestrial species1, therefore they are an important source of biodiversity worldwide. Species provide critical ecosystem services, including clean water, pollination, seed dispersal, and pest and disease control. Sierra Nevada forests are home to charismatic species, including mountain lions, fishers, martins, spotted owls, and goshawks. Healthy forests provide ample opportunities for bird watching, hunting, fishing, and other activities. More importantly, biodiversity provides the raw material for ecosystems to respond to change, bounce back or completely regenerate after a major disturbance.\nGlobally biodiversity is in crisis, therefore it is important to have integrative tools that better equip us to evaluate and support healthy, resilient, biodiverse communities as we plan major interventions to enhance forest resilience to fire.\nTo learn more, see food webs."
   },
   {
     "objectID": "index.html#wildlife-resilience",
     "href": "index.html#wildlife-resilience",
     "title": "Wildlife Resilience",
     "section": "Wildlife Resilience",
-    "text": "Wildlife Resilience\nOne goal of conservation and management is to support the health and resilience of forested landscapes. Biodiversity is important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience is challenging. To address this challenge, we are developing metrics to quantify and evaluate wildlife community health and resilience.\n\n\n\n\n\n\nDefinitions\n\n\n\nResilience: the ability of a community to maintain integrity/character after a disturbance.\nBiodiversity: the variety of life, in all forms. This includes the variety of species, interactions between species, and communities.\nHealth: communities that are supportive of a variety of ecological processes.\n\n\n\n\n\n\nResilience in a complex system is illustrated by the green surface. As the system evolves, it's current ‘state’ is defined by a ball travelling to different positions along the surface. Deeper ‘troughs’ represent increased resilience. If a disturbance can push the system sufficiently far (e.g. push a ball out of a trough) then the system can move to a new state (follow the dashed arrow to the new trough on the right)1."
+    "text": "Wildlife Resilience\nOne goal of conservation and management is to support the health and resilience of forested landscapes. Biodiversity is important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience is challenging. To address this challenge, we are developing metrics to quantify and evaluate wildlife community health and resilience.\n\n\n\n\n\n\nDefinitions\n\n\n\nResilience: the ability of a community to maintain integrity/character after a disturbance.\nBiodiversity: the variety of life, in all forms. This includes the variety of species, interactions between species, and communities.\nHealth: communities that are supportive of a variety of ecological processes.\n\n\n\n\n\n\nResilience in a complex system is illustrated by the green surface. As the system evolves, it’s current ‘state’ is defined by a ball travelling to different positions along the surface. Deeper ‘troughs’ represent increased resilience. If a disturbance can push the system sufficiently far (e.g. push a ball out of a trough) then the system can move to a new state (follow the dashed arrow to the new trough on the right)."
   },
   {
     "objectID": "about.html",
@@ -79,15 +79,50 @@
   {
     "objectID": "posts/jan-2021.html",
     "href": "posts/jan-2021.html",
-    "title": "January 2021",
+    "title": "2021-01-15",
     "section": "",
-    "text": "January 2021"
+    "text": "Happy New Year! The California Wildlife Conservation Board (WCB) funded our “Metrics of Wildlife Community Resilience for Sierra Nevada Forests.” This support will make it possible to conduct a series of workshops, outreach meetings and importantly hire a post-doc to work with our team to develop the underlying theory, data and computer code to connect wildlife, plant communities and forest resilience. Thank you WCB!"
   },
   {
     "objectID": "foodweb.html#footnotes",
     "href": "foodweb.html#footnotes",
     "title": "Food Webs",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nImage credits: Puma concolor - Moutain lion by Gabriela Palomo-Munoz CC BY 3.0, Vulpes vulpes - Red Fox by Rebecca Groom CC BY 3.0, Oreortyx pictus - Mountain Quail by Gabriela Palomo-Munoz CC BY 4.0, Oncopeltus fasciatus - Milkweed bug Public domain, Asclepias syriaca - Common Milkweed by Ian Medeiros CC BY 4.0.↩︎"
+    "text": "Footnotes\n\n\nImage credits: Puma concolor - Moutain lion by Gabriela Palomo-Munoz CC BY 3.0, Vulpes vulpes - Red Fox by Rebecca Groom CC BY 3.0, Oreortyx pictus - Mountain Quail by Gabriela Palomo-Munoz CC BY 4.0, Oncopeltus fasciatus - Milkweed bug by Andy Wilson CC0 1.0 Universal Public Domain, Asclepias syriaca - Common Milkweed by Ian Medeiros CC BY 4.0.↩︎"
+  },
+  {
+    "objectID": "posts/jan-2021.html#getting-started-with-the-metrics-of-wildlife-resilience-project",
+    "href": "posts/jan-2021.html#getting-started-with-the-metrics-of-wildlife-resilience-project",
+    "title": "2021-01-15",
+    "section": "",
+    "text": "Happy New Year! The California Wildlife Conservation Board (WCB) funded our “Metrics of Wildlife Community Resilience for Sierra Nevada Forests.” This support will make it possible to conduct a series of workshops, outreach meetings and importantly hire a post-doc to work with our team to develop the underlying theory, data and computer code to connect wildlife, plant communities and forest resilience. Thank you WCB!"
+  },
+  {
+    "objectID": "posts/dec-2021.html",
+    "href": "posts/dec-2021.html",
+    "title": "2021-12-15",
+    "section": "",
+    "text": "We had a busy year despite the mandatory social distancing! This year our interdisciplinary team met remotely over 20 times and build a draft a dynamic food web for Sierra Nevada forests from the TCSI study area. We started by compiling an all taxa species list (&gt;5800 entries) put together by USFS co-PIs Dr. Manley, Dr. White and Dr. Estes and used this to query online databases to compile biotic interactions between known species (over 2700 species). These interaction data were then filtered for predator-prey (tropic) interactions yielding over 12000 interactions with both predator and prey present on the landscape. These data were then curated by Dr. Jack Dumbacher and wildlife biologist from USFS PNW lab, Linda Long. Interactions are checked with guild and taxonomic information and then the food-webs are then analyzed for various properties and summarized for various key wildlife species (e.g. number of prey or predators, for an example see Table 1).\n\nTable 1. Example of number of prey and number of predators for birds with the most known number of prey queried from Global Biotic Interactions Database. Note that the bird with the largest number of prey on the landscape is also one of the most well studied (Bald Eagle). This species is rare and highly water dependent, so it may not interact strongly with other species across forests in the TCSI study area, but the CWHR database will allow us to determine which species occur in each habitat allowing us to calculate the impact of species on local food webs based on their occupancy.\n\n\nScientific Name\nCommon Name\nNumber of prey\nNumber of predators\n\n\nHaliaeetus leucocephalus\nBald Eagle\n104\n1\n\n\nAccipiter cooperii\nCooper's Hawk\n89\n4\n\n\nAquila chrysaetos\nGolden Eagle\n80\n0\n\n\nAccipiter striatus\nSharp-shinned Hawk\n78\n1\n\n\nBubo virginianus\nGreat-horned Owl\n74\n4\n\n\nButeo jamaicensis\nRed-tailed Hawk\n56\n3\n\n\nFalco peregrinus\nPeregrine Falcon\n53\n3\n\n\nAccipiter gentilis\nGoshawk\n50\n1\n\n\nFalco mexicanus\nPrairie Falcon\n42\n1\n\n\nAsio otus\nLong-eared Owl\n38\n5"
+  },
+  {
+    "objectID": "posts/dec-2021.html#working-on-wildlife-resilience-during-a-pandemic",
+    "href": "posts/dec-2021.html#working-on-wildlife-resilience-during-a-pandemic",
+    "title": "2021-12-15",
+    "section": "",
+    "text": "We had a busy year despite the mandatory social distancing! This year our interdisciplinary team met remotely over 20 times and build a draft a dynamic food web for Sierra Nevada forests from the TCSI study area. We started by compiling an all taxa species list (&gt;5800 entries) put together by USFS co-PIs Dr. Manley, Dr. White and Dr. Estes and used this to query online databases to compile biotic interactions between known species (over 2700 species). These interaction data were then filtered for predator-prey (tropic) interactions yielding over 12000 interactions with both predator and prey present on the landscape. These data were then curated by Dr. Jack Dumbacher and wildlife biologist from USFS PNW lab, Linda Long. Interactions are checked with guild and taxonomic information and then the food-webs are then analyzed for various properties and summarized for various key wildlife species (e.g. number of prey or predators, for an example see Table 1).\n\nTable 1. Example of number of prey and number of predators for birds with the most known number of prey queried from Global Biotic Interactions Database. Note that the bird with the largest number of prey on the landscape is also one of the most well studied (Bald Eagle). This species is rare and highly water dependent, so it may not interact strongly with other species across forests in the TCSI study area, but the CWHR database will allow us to determine which species occur in each habitat allowing us to calculate the impact of species on local food webs based on their occupancy.\n\n\nScientific Name\nCommon Name\nNumber of prey\nNumber of predators\n\n\nHaliaeetus leucocephalus\nBald Eagle\n104\n1\n\n\nAccipiter cooperii\nCooper's Hawk\n89\n4\n\n\nAquila chrysaetos\nGolden Eagle\n80\n0\n\n\nAccipiter striatus\nSharp-shinned Hawk\n78\n1\n\n\nBubo virginianus\nGreat-horned Owl\n74\n4\n\n\nButeo jamaicensis\nRed-tailed Hawk\n56\n3\n\n\nFalco peregrinus\nPeregrine Falcon\n53\n3\n\n\nAccipiter gentilis\nGoshawk\n50\n1\n\n\nFalco mexicanus\nPrairie Falcon\n42\n1\n\n\nAsio otus\nLong-eared Owl\n38\n5"
+  },
+  {
+    "objectID": "posts/nov-2021.html",
+    "href": "posts/nov-2021.html",
+    "title": "2021-11-15",
+    "section": "",
+    "text": "We are excited to welcome Dr. Rebecca Wilcox, a community ecologist specializing in birds, climate change, and novel ecosystems with experience ranging from the Pacific Islands to across the US from California to Florida. Dr. Wilcox is now on-site working full time on the Metrics of Wildlife Resilience project. You can find her on the first floor and online: rwilcox “at” calacademy “dot” org."
+  },
+  {
+    "objectID": "posts/nov-2021.html#welcome-rebecca-wilcox",
+    "href": "posts/nov-2021.html#welcome-rebecca-wilcox",
+    "title": "2021-11-15",
+    "section": "",
+    "text": "We are excited to welcome Dr. Rebecca Wilcox, a community ecologist specializing in birds, climate change, and novel ecosystems with experience ranging from the Pacific Islands to across the US from California to Florida. Dr. Wilcox is now on-site working full time on the Metrics of Wildlife Resilience project. You can find her on the first floor and online: rwilcox “at” calacademy “dot” org."
   }
 ]
