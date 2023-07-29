@@ -1,5 +1,6 @@
 ---
-title: "2021-01-15"
+date: "1/15/2021"
+title: "January 2021"
 linkTitle: "January 2021"
 author: "Durrell Kapan"
 ---

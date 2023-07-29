@@ -4,6 +4,7 @@ listing:
     contents: posts/*.qmd
     type: default
     categories: true
+    sort: "date desc"
 page-layout: full
 ---
 
