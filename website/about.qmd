@@ -18,10 +18,9 @@ To develop metrics to assess the current and future resilience of forest wildlif
 -   How would wildlife community resilience metrics be useful in your work and/or study system?
 -   What would make them more useful to you? (e.g., specific scenario examples) -Any comments, questions, or suggestions?
 
-
 ## Who we are
 
-We are a group of scientists from the United States Forest Service Pacific SW Research Lab, The USFS National Forest System and the California Academy of Sciences. Our collaborative transdisciplinary team includes alphabetically:
+We are a group of scientists from the United States Forest Service Pacific SW Research Lab, The USFS National Forest System and the California Academy of Sciences. Our collaborative transdisciplinary team includes (listed alphabetically):
 
 -   [Dr. Jack Dumbacher](https://www.calacademy.org/staff/ibss/ornithology-and-mammalogy/jack-dumbacher) (Curator of Ornithology and Mammalogy, California Academy of Sciences).
 -   [Dr. Becky Estes](https://www.fs.usda.gov/detail/r5/plants-animals/?cid=stelprdb5437882) (Central Sierra Province Ecologist, USDA Forest Service).
