@@ -46,14 +46,14 @@
     "href": "study_area.html",
     "title": "Study Area",
     "section": "",
-    "text": "Attaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union"
+    "text": "OGR data source with driver: GeoJSON \nSource: \"/home/mschulist/Github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields"
   },
   {
     "objectID": "study_area.html#the-tahoe-central-sierra-initiative-study-region",
     "href": "study_area.html#the-tahoe-central-sierra-initiative-study-region",
     "title": "Study Area",
     "section": "",
-    "text": "Attaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union"
+    "text": "OGR data source with driver: GeoJSON \nSource: \"/home/mschulist/Github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields"
   },
   {
     "objectID": "about.html#the-project",
