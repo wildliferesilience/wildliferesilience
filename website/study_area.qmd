@@ -30,9 +30,11 @@ library(rgdal)
 # TCSI_outline <- readLines("input/TCSI_boundary.geojson") %>% paste(collapse = "\n")
 TCSI_outline <- readOGR("input/TCSI_boundary.geojson")
 tahoe_outline <- readLines("input/tahoe_outline.geojson") %>% paste(collapse = "\n")
+caples_outline <- readLines("input/caples_boundary.geojson") %>% paste(collapse = "\n")
 
 TCSI_popup <- "Tahoe Central Sierra Initiative"
 tahoe_popup <- "Lake Tahoe Basin"
+caples_popup <- "Caples Creek Watershed"
 
 
 leaflet(TCSI_outline) %>%
@@ -42,7 +44,8 @@ leaflet(TCSI_outline) %>%
     #     na.color = "transparent"
     # )) %>%
     addPolygons(weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = "green", label = TCSI_popup, labelOptions = labelOptions(textsize = "1.25em")) %>%
-    # addGeoJSON(tahoe_outline, weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = "orange") %>%
+    addGeoJSON(tahoe_outline, weight = 1, opacity = 1, color = "blue") %>%
+    addGeoJSON(caples_outline, weight = 1, opacity = 1, color = "red") %>%
     # addGeoJSON(TCSI_outline, weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = "green", label = TCSI_popup) %>%
     setView(lng = -120.155262, lat = 38.705416, zoom = 06) # %>%
 # addMarkers(lng=-120.155262, lat=38.705416, popup="Central Sierra Nevada")
