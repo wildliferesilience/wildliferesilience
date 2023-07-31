@@ -24,6 +24,7 @@ website:
       - study_area.qmd
       - highlights.qmd
       - about.qmd
+      - resources.qmd
 
 format:
   html:
