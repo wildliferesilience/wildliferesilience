@@ -44,6 +44,6 @@ leaflet(TCSI_outline) %>%
     addPolygons(weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = "green", label = TCSI_popup, labelOptions = labelOptions(textsize = "1.25em")) %>%
     # addGeoJSON(tahoe_outline, weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = "orange") %>%
     # addGeoJSON(TCSI_outline, weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = "green", label = TCSI_popup) %>%
-    setView(lng = -120, lat = 39, zoom = 07) # %>%
+    setView(lng = -120.155262, lat = 38.705416, zoom = 06) # %>%
 # addMarkers(lng=-120.155262, lat=38.705416, popup="Central Sierra Nevada")
 ```
