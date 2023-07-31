@@ -12,7 +12,7 @@ Species have a variety of interactions in wildlife communities (e.g., mutualisti
 
 However, food webs can get complicated fast. That's why it's important to describe the composition, structure, and function of the communities with summary measurements or *metrics*.
 
-![](pdf/FoodWeb.png){fig-align="center"}
+![](pdf/FoodWeb_TrophicLevels.svg){fig-align="center"}
 :::
 
 ::: {.column width="40%"}
