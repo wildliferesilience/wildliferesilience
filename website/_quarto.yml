@@ -23,7 +23,9 @@ website:
       - foodweb.qmd
       - study_area.qmd
       - highlights.qmd
+      - resources.qmd
       - about.qmd
+
 
 format:
   html:
