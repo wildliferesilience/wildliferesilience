@@ -9,6 +9,7 @@ format:
     fig-height: 10
 ---
 
+
 <style>
   .cell-output {
     display: none;
@@ -17,6 +18,7 @@ format:
 
 
 ## The Tahoe Central Sierra Initiative Study Region
+
 ```{r study_area}
 #| echo: false
 #| warning: false
