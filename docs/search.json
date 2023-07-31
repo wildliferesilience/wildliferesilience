@@ -39,21 +39,21 @@
     "href": "about.html#who-we-are",
     "title": "About",
     "section": "Who we are",
-    "text": "Who we are\nWe are a group of scientists from the United States Forest Service Pacific SW Research Lab, The USFS National Forest System and the California Academy of Sciences. Our collaborative transdisciplinary team includes alphabetically:\n\nDr. Jack Dumbacher (Curator of Ornithology and Mammalogy, California Academy of Sciences).\nDr. Becky Estes (Central Sierra Province Ecologist, USDA Forest Service).\nDr. Durrell D. Kapan (Senior Research Fellow, Entomology, Ornithology and the Center for Comparative Genomics at the California Academy of Sciences).\nDr. Patricia Manley (Supervisory Biological Scientist, Conservation of Biodiversity Program, USDA Forest Service, Pacific Southwest Research Station).\nDr. Peter Roopnarine (Curator of Geology at the California Academy of Sciences).\nDr. Angela M. White (Scientist, Research Wildlife Biologist, USDA Forest Service, Pacific Southwest Research Station).\nDr. Rebecca Wilcox (Metrics of Wildlife Resilience Post-doc, California Academy of Sciences).\n\n\nContact\n\nSend email"
+    "text": "Who we are\nWe are a group of scientists from the United States Forest Service Pacific SW Research Lab, The USFS National Forest System and the California Academy of Sciences. Our collaborative transdisciplinary team includes (listed alphabetically):\n\nDr. Jack Dumbacher (Curator of Ornithology and Mammalogy, California Academy of Sciences).\nDr. Becky Estes (Central Sierra Province Ecologist, USDA Forest Service).\nDr. Durrell D. Kapan (Senior Research Fellow, Entomology, Ornithology and the Center for Comparative Genomics at the California Academy of Sciences).\nDr. Patricia Manley (Supervisory Biological Scientist, Conservation of Biodiversity Program, USDA Forest Service, Pacific Southwest Research Station).\nDr. Peter Roopnarine (Curator of Geology at the California Academy of Sciences).\nDr. Angela M. White (Scientist, Research Wildlife Biologist, USDA Forest Service, Pacific Southwest Research Station).\nDr. Rebecca Wilcox (Metrics of Wildlife Resilience Post-doc, California Academy of Sciences).\n\n\nContact\n\nSend email"
   },
   {
     "objectID": "study_area.html",
     "href": "study_area.html",
     "title": "Study Area",
     "section": "",
-    "text": "Attaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union"
+    "text": "OGR data source with driver: GeoJSON \nSource: \"/home/mschulist/Github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields"
   },
   {
     "objectID": "study_area.html#the-tahoe-central-sierra-initiative-study-region",
     "href": "study_area.html#the-tahoe-central-sierra-initiative-study-region",
     "title": "Study Area",
     "section": "",
-    "text": "Attaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union"
+    "text": "OGR data source with driver: GeoJSON \nSource: \"/home/mschulist/Github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields"
   },
   {
     "objectID": "about.html#the-project",
@@ -79,7 +79,7 @@
   {
     "objectID": "posts/jan-2021.html",
     "href": "posts/jan-2021.html",
-    "title": "2021-01-15",
+    "title": "January 2021",
     "section": "",
     "text": "Happy New Year! The California Wildlife Conservation Board (WCB) funded our “Metrics of Wildlife Community Resilience for Sierra Nevada Forests.” This support will make it possible to conduct a series of workshops, outreach meetings and importantly hire a post-doc to work with our team to develop the underlying theory, data and computer code to connect wildlife, plant communities and forest resilience. Thank you WCB!"
   },
@@ -93,35 +93,35 @@
   {
     "objectID": "posts/jan-2021.html#getting-started-with-the-metrics-of-wildlife-resilience-project",
     "href": "posts/jan-2021.html#getting-started-with-the-metrics-of-wildlife-resilience-project",
-    "title": "2021-01-15",
+    "title": "January 2021",
     "section": "",
     "text": "Happy New Year! The California Wildlife Conservation Board (WCB) funded our “Metrics of Wildlife Community Resilience for Sierra Nevada Forests.” This support will make it possible to conduct a series of workshops, outreach meetings and importantly hire a post-doc to work with our team to develop the underlying theory, data and computer code to connect wildlife, plant communities and forest resilience. Thank you WCB!"
   },
   {
     "objectID": "posts/dec-2021.html",
     "href": "posts/dec-2021.html",
-    "title": "2021-12-15",
+    "title": "December 2021",
     "section": "",
     "text": "We had a busy year despite the mandatory social distancing! This year our interdisciplinary team met remotely over 20 times and build a draft a dynamic food web for Sierra Nevada forests from the TCSI study area. We started by compiling an all taxa species list (&gt;5800 entries) put together by USFS co-PIs Dr. Manley, Dr. White and Dr. Estes and used this to query online databases to compile biotic interactions between known species (over 2700 species). These interaction data were then filtered for predator-prey (tropic) interactions yielding over 12000 interactions with both predator and prey present on the landscape. These data were then curated by Dr. Jack Dumbacher and wildlife biologist from USFS PNW lab, Linda Long. Interactions are checked with guild and taxonomic information and then the food-webs are then analyzed for various properties and summarized for various key wildlife species (e.g. number of prey or predators, for an example see Table 1).\n\nTable 1. Example of number of prey and number of predators for birds with the most known number of prey queried from Global Biotic Interactions Database. Note that the bird with the largest number of prey on the landscape is also one of the most well studied (Bald Eagle). This species is rare and highly water dependent, so it may not interact strongly with other species across forests in the TCSI study area, but the CWHR database will allow us to determine which species occur in each habitat allowing us to calculate the impact of species on local food webs based on their occupancy.\n\n\nScientific Name\nCommon Name\nNumber of prey\nNumber of predators\n\n\nHaliaeetus leucocephalus\nBald Eagle\n104\n1\n\n\nAccipiter cooperii\nCooper's Hawk\n89\n4\n\n\nAquila chrysaetos\nGolden Eagle\n80\n0\n\n\nAccipiter striatus\nSharp-shinned Hawk\n78\n1\n\n\nBubo virginianus\nGreat-horned Owl\n74\n4\n\n\nButeo jamaicensis\nRed-tailed Hawk\n56\n3\n\n\nFalco peregrinus\nPeregrine Falcon\n53\n3\n\n\nAccipiter gentilis\nGoshawk\n50\n1\n\n\nFalco mexicanus\nPrairie Falcon\n42\n1\n\n\nAsio otus\nLong-eared Owl\n38\n5"
   },
   {
     "objectID": "posts/dec-2021.html#working-on-wildlife-resilience-during-a-pandemic",
     "href": "posts/dec-2021.html#working-on-wildlife-resilience-during-a-pandemic",
-    "title": "2021-12-15",
+    "title": "December 2021",
     "section": "",
     "text": "We had a busy year despite the mandatory social distancing! This year our interdisciplinary team met remotely over 20 times and build a draft a dynamic food web for Sierra Nevada forests from the TCSI study area. We started by compiling an all taxa species list (&gt;5800 entries) put together by USFS co-PIs Dr. Manley, Dr. White and Dr. Estes and used this to query online databases to compile biotic interactions between known species (over 2700 species). These interaction data were then filtered for predator-prey (tropic) interactions yielding over 12000 interactions with both predator and prey present on the landscape. These data were then curated by Dr. Jack Dumbacher and wildlife biologist from USFS PNW lab, Linda Long. Interactions are checked with guild and taxonomic information and then the food-webs are then analyzed for various properties and summarized for various key wildlife species (e.g. number of prey or predators, for an example see Table 1).\n\nTable 1. Example of number of prey and number of predators for birds with the most known number of prey queried from Global Biotic Interactions Database. Note that the bird with the largest number of prey on the landscape is also one of the most well studied (Bald Eagle). This species is rare and highly water dependent, so it may not interact strongly with other species across forests in the TCSI study area, but the CWHR database will allow us to determine which species occur in each habitat allowing us to calculate the impact of species on local food webs based on their occupancy.\n\n\nScientific Name\nCommon Name\nNumber of prey\nNumber of predators\n\n\nHaliaeetus leucocephalus\nBald Eagle\n104\n1\n\n\nAccipiter cooperii\nCooper's Hawk\n89\n4\n\n\nAquila chrysaetos\nGolden Eagle\n80\n0\n\n\nAccipiter striatus\nSharp-shinned Hawk\n78\n1\n\n\nBubo virginianus\nGreat-horned Owl\n74\n4\n\n\nButeo jamaicensis\nRed-tailed Hawk\n56\n3\n\n\nFalco peregrinus\nPeregrine Falcon\n53\n3\n\n\nAccipiter gentilis\nGoshawk\n50\n1\n\n\nFalco mexicanus\nPrairie Falcon\n42\n1\n\n\nAsio otus\nLong-eared Owl\n38\n5"
   },
   {
     "objectID": "posts/nov-2021.html",
     "href": "posts/nov-2021.html",
-    "title": "2021-11-15",
+    "title": "November 2021",
     "section": "",
     "text": "We are excited to welcome Dr. Rebecca Wilcox, a community ecologist specializing in birds, climate change, and novel ecosystems with experience ranging from the Pacific Islands to across the US from California to Florida. Dr. Wilcox is now on-site working full time on the Metrics of Wildlife Resilience project. You can find her on the first floor and online: rwilcox “at” calacademy “dot” org."
   },
   {
     "objectID": "posts/nov-2021.html#welcome-rebecca-wilcox",
     "href": "posts/nov-2021.html#welcome-rebecca-wilcox",
-    "title": "2021-11-15",
+    "title": "November 2021",
     "section": "",
     "text": "We are excited to welcome Dr. Rebecca Wilcox, a community ecologist specializing in birds, climate change, and novel ecosystems with experience ranging from the Pacific Islands to across the US from California to Florida. Dr. Wilcox is now on-site working full time on the Metrics of Wildlife Resilience project. You can find her on the first floor and online: rwilcox “at” calacademy “dot” org."
   },
