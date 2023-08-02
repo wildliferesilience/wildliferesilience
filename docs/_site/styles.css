@@ -1,0 +1,35 @@
+/* css styles */
+
+.navbar {
+    background-color: #243447;
+    color: #ffffff;
+    height: 100px;
+}
+
+.quarto-content {
+    background-color: #141d26;
+    color: #ffffff;
+}
+
+.menu-text{
+    -moz-transition: all .1s ease-in;
+    -o-transition: all .1s ease-in;
+    -webkit-transition: all .1s ease-in;
+    transition: all .1s ease-in;
+}
+
+.menu-text:hover {
+    color: #c51f5d;
+}
+
+.navbar-brand {
+    background-image: url(images/wildliferesilience.png);
+    background-size: 130px, 150px;
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 150px;
+    margin-left: 20px;
+    margin-right: 0px;
+  }
+

@@ -1,0 +1,45 @@
+---
+title: "Home"
+format: 
+    html:
+        css: index.css
+        anchor-sections: false
+---
+
+<!-- Learn about [<span id="resilience">resilience</span>](resilience.qmd), [<span id="food-webs">food webs</span>](foodweb.qmd), and [<span id="study-area"> our study area </span>](study_area.qmd). 
+
+Read our [<span id="blog">blog</span>](highlights.qmd) and the [<span id="resources">resources</span>](resources.qmd) we have created. -->
+
+
+<div class="container">
+
+
+
+<a href="resilience.qmd">
+<div class="popout">
+<h2> Resilience </h2>
+<img src="images/Roopnarine_Angielczyk_2016_Resilience_Image_transparent.png" alt="resilience">
+</div>
+</a>
+
+<a href="foodweb.qmd">
+<div class="popout">
+<h2> Food Webs </h2>
+<img src="pdf/FoodWeb_TrophicLevels.svg" alt="food web">
+</div>
+</a>
+
+</div>
+
+<div class="container">
+
+<a href="study_area.qmd">
+<div class="popout">
+<h2> Study Area </h2>
+<img src="images/IMG_6851.png" alt="study area">
+</div>
+</a>
+
+</div>
+
+

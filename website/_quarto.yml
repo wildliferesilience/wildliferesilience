@@ -18,7 +18,8 @@ website:
   navbar:
     search: false
     left:
-      - href: index.qmd
+      - href: index.html
+      - href: resilience.qmd
         text: Resilience
       - foodweb.qmd
       - study_area.qmd

@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: ../docs
+  resources: input/*
+  preview: 
+    port: 4321
+    browser: true
+  render: 
+    - "*.qmd"
+
+filters: 
+  - shinylive
+
+website:
+  title: " "
+  reader-mode: false
+  
+  navbar:
+    search: false
+    left:
+      - href: index.html
+      - href: resilience.qmd
+        text: Resilience
+      - foodweb.qmd
+      - study_area.qmd
+      - highlights.qmd
+      - resources.qmd
+      - about.qmd
+
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+    page-layout: full
+    grid: 
+      body-width: 1000px
+
+

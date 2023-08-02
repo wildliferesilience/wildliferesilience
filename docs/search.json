@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Wildlife Resilience",
+    "title": "Home",
     "section": "",
-    "text": "One goal of conservation and management is to support the health and resilience of forested landscapes. Biodiversity is important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience is challenging. To address this challenge, we are developing metrics to quantify and evaluate wildlife community health and resilience.\n\n\n\n\n\n\nDefinitions\n\n\n\nResilience: the ability of a community to maintain integrity/character after a disturbance.\nBiodiversity: the variety of life, in all forms. This includes the variety of species, interactions between species, and communities.\nHealth: communities that are supportive of a variety of ecological processes.\n\n\n\n\n\n\nResilience in a complex system is illustrated by the green surface. As the system evolves, it’s current ‘state’ is defined by a ball travelling to different positions along the surface. Deeper ‘troughs’ represent increased resilience. If a disturbance can push the system sufficiently far (e.g. push a ball out of a trough) then the system can move to a new state (follow the dashed arrow to the new trough on the right).\n\n\n\n\n\nOver the last 10+ years, the increase in wildfire places much of Western forests at risk. In the face of climate-driven increases in fire conditions exacerbated by a long history of forest fuel buildup due to fire suppression, federal and state governments, industry, forest communities and NGOs are all working together to increase the pace and scale of the restoration of forest resilience. In California, both state and federal agencies are spending billions of dollars to manage forests for climate and fire resilience. But what does this resilience management mean for the conservation and enhancement of the state’s wildlife?\n\n\n\nThe world’s forests harbor the vast majority of terrestrial species (FAO 2020), therefore they are an important source of biodiversity worldwide. Species provide critical ecosystem services, including clean water, pollination, seed dispersal, and pest and disease control. Sierra Nevada forests are home to charismatic species, including mountain lions, fishers, martins, spotted owls, and goshawks. Healthy forests provide ample opportunities for bird watching, hunting, fishing, and other activities. More importantly, biodiversity provides the raw material for ecosystems to respond to change, bounce back or completely regenerate after a major disturbance.\nGlobally biodiversity is in crisis, therefore it is important to have integrative tools that better equip us to evaluate and support healthy, resilient, biodiverse communities as we plan major interventions to enhance forest resilience to fire."
+    "text": "Resilience\n\n\n\n\n\n\n\nFood Webs\n\n\n\n\n\n\n\n\n\nStudy Area"
   },
   {
     "objectID": "index.html#why-care-about-resilience",
@@ -173,5 +173,26 @@
     "title": "Biodiversity",
     "section": "Why Care About Biodiversity",
     "text": "Why Care About Biodiversity\nThe world’s forests harbor the vast majority of terrestrial species (FAO 2020), therefore they are an important source of biodiversity worldwide. Species provide critical ecosystem services, including pollination, seed dispersal, and pest and disease control. Sierra Nevada forests are home to charismatic species, including mountain lions, fishers, martins, spotted owls, and goshawks. Healthy forests provide ample opportunities for bird watching, hunting, fishing, and other activities."
+  },
+  {
+    "objectID": "resilience.html#wildlife-resilience",
+    "href": "resilience.html#wildlife-resilience",
+    "title": "Wildlife Resilience",
+    "section": "Wildlife Resilience",
+    "text": "Wildlife Resilience\nOne goal of conservation and management is to support the health and resilience of forested landscapes. Biodiversity is important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience is challenging. To address this challenge, we are developing metrics to quantify and evaluate wildlife community health and resilience.\n\n\n\n\n\n\nDefinitions\n\n\n\nResilience: the ability of a community to maintain integrity/character after a disturbance.\nBiodiversity: the variety of life, in all forms. This includes the variety of species, interactions between species, and communities.\nHealth: communities that are supportive of a variety of ecological processes.\n\n\n\n\n\n\nResilience in a complex system is illustrated by the green surface. As the system evolves, it’s current ‘state’ is defined by a ball travelling to different positions along the surface. Deeper ‘troughs’ represent increased resilience. If a disturbance can push the system sufficiently far (e.g. push a ball out of a trough) then the system can move to a new state (follow the dashed arrow to the new trough on the right)1."
+  },
+  {
+    "objectID": "resilience.html#why-care-about-resilience",
+    "href": "resilience.html#why-care-about-resilience",
+    "title": "Wildlife Resilience",
+    "section": "Why Care About Resilience?",
+    "text": "Why Care About Resilience?\nOver the last 10+ years, the increase in wildfire places much of Western forests at risk. In the face of climate-driven increases in fire conditions exacerbated by a long history of forest fuel buildup due to fire suppression, federal and state governments, industry, forest communities and NGOs are all working together to increase the pace and scale of the restoration of forest resilience. In California, both state and federal agencies are spending billions of dollars to manage forests for climate and fire resilience. But what does this resilience management mean for the conservation and enhancement of the state’s wildlife?"
+  },
+  {
+    "objectID": "resilience.html#why-care-about-biodiversity",
+    "href": "resilience.html#why-care-about-biodiversity",
+    "title": "Wildlife Resilience",
+    "section": "Why Care About Biodiversity?",
+    "text": "Why Care About Biodiversity?\nThe world’s forests harbor the vast majority of terrestrial species2, therefore they are an important source of biodiversity worldwide. Species provide critical ecosystem services, including clean water, pollination, seed dispersal, and pest and disease control. Sierra Nevada forests are home to charismatic species, including mountain lions, fishers, martins, spotted owls, and goshawks. Healthy forests provide ample opportunities for bird watching, hunting, fishing, and other activities. More importantly, biodiversity provides the raw material for ecosystems to respond to change, bounce back or completely regenerate after a major disturbance.\nGlobally biodiversity is in crisis, therefore it is important to have integrative tools that better equip us to evaluate and support healthy, resilient, biodiverse communities as we plan major interventions to enhance forest resilience to fire.\nTo learn more, see food webs."
   }
 ]

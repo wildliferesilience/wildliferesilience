@@ -1,0 +1,47 @@
+---
+title: "Resources"
+---
+
+# Resources
+
+## Tahoe Central Sierra Initiative
+
+### [Tahoe-Central Sierra Initiative](https://sierranevada.ca.gov/what-we-do/tcsi/ "The Tahoe-Central Sierra Initiative (TCSI), the first pilot project under the Watershed Improvement Program (WIP), aims to restore the resilience of 2.4 million acres of Sierra Nevada forests and watersheds. It focuses on developing and demonstrating innovative planning, investment, and management tools across all lands. The TCSI is led by state, federal, nonprofit, and private partners, and responds to state and federal mandates that call for increasing pace and scale of forest management and restoration and better protection of communities from wildfire.")
+
+"The Tahoe-Central Sierra Initiative (TCSI), the first pilot project under the [Watershed Improvement Program (WIP)](https://sierranevada.ca.gov/what-we-do/#SNWIP), aims to restore the resilience of 2.4 million acres of Sierra Nevada forests and watersheds. It focuses on developing and demonstrating innovative planning, investment, and management tools across all lands. The TCSI is led by state, federal, nonprofit, and private partners, and responds to state and federal mandates that call for increasing pace and scale of forest management and restoration and better protection of communities from wildfire."
+
+## Planscape
+
+### [Planscape](https://www.planscape.org/ "A decision support tool for planning to maximize wildfire resilience and ecological benefits")
+
+"Planscape is a new wildfire resilience decision support tool designed to bring the best available state and federal data and science together in a user-friendly, accessible format to help with planning. 
+
+Planscape will help regional planners prioritize landscape treatments to mitigate fire risk, maximize ecological benefits and help California's landscapes adapt to climate change."
+
+### [Planscape app (preview)](https://app.planscape.org/map)
+
+"This version of Planscape is intended to give you a preview into the tool with limited data and capabilities for the Sierra Nevada region. This preview version:
+
+-   Considers everyone as guest users and does not require you to login
+
+-   Includes data from the [Regional Resource Kits](https://wildfiretaskforce.org/regional-resource-kits-page/) for the Sierra Nevada region
+
+-   Provides the ability to explore and view maps but not create or save plans yet"
+
+## Lake Tahoe
+
+### [Lake Tahoe West Restoration Partnership](https://www.nationalforests.org/regional-programs/california-program/laketahoewest)
+
+"The Lake Tahoe West Restoration Partnership (Lake Tahoe West) is a collaborative effort to restore the resilience of forests, watersheds, and communities on 59,000 acres of Lake Tahoe's west shore.
+
+The forests, lakes, and alpine peaks of Lake Tahoe's west shore make it one of America's iconic landscapes. The region as a whole is home to 54,000 residents and attracts over 6.4 million annual visitors.
+
+Wildfire, drought, and insects and disease epidemics---pressures that are amplified by climate change---threaten forests, watersheds, and communities across the Lake Tahoe West landscape."
+
+## Resilience
+
+### [Resilience Alliance](https://www.resalliance.org/)
+
+"Advancing research and understanding
+
+\...on social-ecological systems for resilient and sustainable futures."
