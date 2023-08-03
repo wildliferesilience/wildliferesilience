@@ -1,5 +1,9 @@
 /* css styles */
 
+:root {
+    color-scheme: dark;
+}
+
 .navbar {
     background-color: #243447;
     color: #ffffff;

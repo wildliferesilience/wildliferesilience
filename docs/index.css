@@ -6,6 +6,7 @@ h2 {
   color: 00bc8c;
   border-bottom: 0;
   text-align: center;
+  z-index: 5;
 }
 
 
@@ -25,15 +26,49 @@ a {
     text-decoration: none;
     color: inherit;
     display: flex;
+    margin: 10px;
+}
+
+a:hover .overlay {
+    opacity: 1;
 }
 
 .popout {
   transition: transform .2s ease-in-out;
-  margin: -em -em -em -em;
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  position: relative;
 }
 
 .popout:hover {
   transform: scale(1.1);
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  opacity: 0;
+  transition: .3s ease-in-out;
+  background-color: #243447;
+  border-radius: 15px;
+  transform: scale(1.02);
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
 
 /* #resilience {
