@@ -21,6 +21,7 @@ website:
       - href: index.html
       - href: resilience.qmd
         text: Resilience
+      - biodiversity.qmd
       - foodweb.qmd
       - study_area.qmd
       - highlights.qmd
