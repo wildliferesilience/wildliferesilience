@@ -53,7 +53,7 @@ a:hover .overlay {
   right: 0;
   height: 100%;
   opacity: 0;
-  transition: .3s ease-in-out;
+  transition: .2s ease-in-out;
   background-color: #243447;
   border-radius: 15px;
   transform: scale(1.02);
