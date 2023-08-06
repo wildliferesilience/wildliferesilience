@@ -15,7 +15,7 @@ Read our [<span id="blog">blog</span>](highlights.qmd) and the [<span id="resour
 
 
 
-<a href="resilience.qmd">
+<a href="resilience.qmd" class="tile">
 <div class="popout">
 <h2> Resilience </h2>
 <img src="images/Roopnarine_Angielczyk_2016_Resilience_Image_transparent.png" alt="resilience">
@@ -25,7 +25,7 @@ Read our [<span id="blog">blog</span>](highlights.qmd) and the [<span id="resour
 </div>
 </a>
 
-<a href="foodweb.qmd">
+<a href="foodweb.qmd" class="tile">
 <div class="popout">
 <h2> Food Webs </h2>
 <img src="pdf/FoodWeb_TrophicLevels.svg" alt="food web">
@@ -39,7 +39,7 @@ Read our [<span id="blog">blog</span>](highlights.qmd) and the [<span id="resour
 
 <div class="container">
 
-<a href="study_area.qmd">
+<a href="study_area.qmd" class="tile">
 <div class="popout">
 <h2> Study Area </h2>
 <img src="images/study_area_logo.png" alt="study area">
@@ -49,7 +49,7 @@ Read our [<span id="blog">blog</span>](highlights.qmd) and the [<span id="resour
 </div>
 </a>
 
-<a href="highlights.qmd">
+<a href="highlights.qmd" class="tile">
 <div class="popout">
 <h2> Highlights </h2>
 <img src="https://cdn-icons-png.flaticon.com/512/6114/6114045.png" alt="blog">

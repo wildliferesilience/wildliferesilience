@@ -22,7 +22,7 @@ img {
     height: fit-content;
 }
 
-a {
+.tile {
     text-decoration: none;
     color: inherit;
     display: flex;
