@@ -4,14 +4,26 @@ title: "Biodiversity"
 
 **Biodiversity** is the variety of life, in all forms. This encompasses all different species from viruses, microbes, and fungi to plants and animals, the genetic information they contain, the variety of structures, forms, and functions they realize, and critically the roles they play in the communities and ecosystems they form.
 
-Globally biodiversity is in crisis, therefore it is important to have integrative tools that better equip us to evaluate and support healthy, resilient, biodiverse communities as we plan major interventions to enhance forest resilience to fire.
+Biodiversity is in crisis, therefore it is important to have integrative tools that better equip us to evaluate and support healthy, resilient, biodiverse communities as we plan major interventions to enhance forest resilience.
 
-###put in a table of classic biodiversity metrics
+## Classic biodiversity metrics
+Biologists perform biodiversity inventories focused on *species*.  Species metrics have long formed the basis of conservation and management research and policy.
 
-### describe types of biodiversity
+::: callout-tip
+## Biodiversity basics: species
 
-### describe strengths of metrics describing these types
+**Species**: A fundamental unit of biodiversity, though often hard to precisely define, species can be thought of as the largest natural group that share a common gene-pool.
 
-### describe shortcomings of these metrics
+**Species richness**: The count of the total number of different species in a given area.
 
-Next, utilizing biodiversity information (e.g. a list of species for a given locality), we work to construct [food webs](foodweb.qmd).
+**Species diversity**: Diversity measures summarize both *richness* and distribution of numbers for each species in a community (known as their *relative abundance*).
+
+:::
+
+## Wildlife diversity
+
+Sierra Nevada forests are home to charismatic species, including mountain lions, fishers, martins, spotted owls, and goshawks. Forests that include many of these species and a variety of other species are recognized as *healthy* and *biodiverse*. But are they resilient?
+
+It turns out that biodiversity is more than species diversity, it encompasses different levels of living diversity from variation within individuals (in behavior or physiology), to genetic variation within species, to differences between species, to the differences that distinguish the structure and function of entire ecological communities and ecosystems.
+
+Our work utilizes both classic biodiversity data (e.g. a list of species for a given locality, and if available their relative abundance) as well as information on the role or 'jobs' they perform in that location to move beyond classic metrics.  Using these data we are constructing novel measures to characterize the functions diverse species in their communities. For more see [food webs](foodweb.qmd).
