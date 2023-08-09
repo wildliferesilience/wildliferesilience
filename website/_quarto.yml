@@ -23,6 +23,7 @@ website:
         text: Resilience
       - biodiversity.qmd
       - foodweb.qmd
+      - metrics.qmd
       - study_area.qmd
       - highlights.qmd
       - resources.qmd
