@@ -33,10 +33,12 @@ website:
 format:
   html:
     theme: darkly
+    fontsize: 1.3em
     css: styles.css
     toc: true
     page-layout: full
     grid: 
-      body-width: 1000px
+      body-width: 1500px
+      gutter-width: 3em
 
 
