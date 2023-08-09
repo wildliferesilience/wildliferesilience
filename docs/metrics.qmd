@@ -4,6 +4,7 @@ title: "Metrics"
 
 # Metrics
 
+# Metrics
 
 Three basic metrics include **guild richness**, and **functional** **dissimilarity**, vs **functional similarity**.
 
