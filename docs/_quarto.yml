@@ -36,6 +36,6 @@ format:
     toc: true
     page-layout: full
     grid: 
-      body-width: 1000px
+      body-width: 800px
 
 

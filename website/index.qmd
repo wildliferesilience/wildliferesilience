@@ -6,59 +6,89 @@ format:
         anchor-sections: false
 ---
 
+# Introduction
+
+California forests are important cultural, economic, and ecological systems, however more than a century of fire suppression has only amplified the threats they face as climate change and other stressors snowball. In the face of these threats, one of the goals of forest management is to support the health and resilience of habitats. Resilience is the ability of a system to rebound and maintain its identity after a disturbance such as fire or warming temperatures, but what exactly does this mean for assemblages of thousands of interacting species?
+
+Historically, measures of resilience have often focused on a few individual species or structural elements with inferred influence on the rest of the community. However, given that resilience is an emergent property of complex systems, considering all species (trees, mammals, birds, butterflies, etc.) and their interactions is critical to efforts that quantify resilience and our understanding of how wildlife communities will respond to different disturbances. Integrating biodiversity into plans for resilience will provide a more holistic picture of wildlife communities and will be critical for how we track, regenerate, and steward forests to be more resilient in an uncertain future with the compounding threats associated with climate change.
+
+# Metrics of Wildlife Resilience
+
+To integrate biodiversity into resilience planning our team from the United States Forest Services (USFS) Pacific SW Research Station, the USFS National forest system and the California Academy of Sciences is working to understand and define ways to measure wildlife communities resilience borrowing methods from Paleontology[^1] to develop models of interacting wildlife species for different Sierra Nevada forests. This work is made possibly by generous funding from the Wildlife Conservation Board[^2]. This website gives an overview of the basic background and process to create metrics of wildlife resilience for a large region in the central Sierra Nevada. To learn more follow the links on this page.
+
+[^1]: Utilizing a method pioneered by Academy curator of Geology and Paleontology Dr. Peter Roopnarine, for an example see [@Roopnarine2018-jw]\]
+
+[^2]: (see [About](About.html) for more information)
+
+```{=html}
 <!-- Learn about [<span id="resilience">resilience</span>](resilience.qmd), [<span id="food-webs">food webs</span>](foodweb.qmd), and [<span id="study-area"> our study area </span>](study_area.qmd). 
 
 Read our [<span id="blog">blog</span>](highlights.qmd) and the [<span id="resources">resources</span>](resources.qmd) we have created. -->
-
-
-<div class="container">
-
-
-
+```
+::: container
 <a href="resilience.qmd" class="tile">
-<div class="popout">
-<h2> Resilience </h2>
-<img src="images/Roopnarine_Angielczyk_2016_Resilience_Image_transparent.png" alt="resilience">
-<div class="overlay">
-<div class="text">Additional resilience information</div>
-</div>
-</div>
+
+::: popout
+<h2>Resilience</h2>
+
+<img src="images/Roopnarine_Angielczyk_2016_Resilience_Image_transparent.png" alt="resilience"/>
+
+::: overlay
+::: text
+Additional resilience information
+:::
+:::
+:::
+
 </a>
 
 <a href="foodweb.qmd" class="tile">
-<div class="popout">
-<h2> Food Webs </h2>
-<img src="pdf/FoodWeb_TrophicLevels.svg" alt="food web">
-<div class="overlay">
-<div class="text">Additional food web information</div>
-</div>
-</div>
+
+::: popout
+<h2>Food Webs</h2>
+
+<img src="pdf/FoodWeb_TrophicLevels.svg" alt="food web"/>
+
+::: overlay
+::: text
+Additional food web information
+:::
+:::
+:::
+
 </a>
+:::
 
-</div>
-
-<div class="container">
-
+::: container
 <a href="study_area.qmd" class="tile">
-<div class="popout">
-<h2> Study Area </h2>
-<img src="images/study_area_logo.png" alt="study area">
-<div class="overlay">
-<div class="text">Additional study area information</div>
-</div>
-</div>
+
+::: popout
+<h2>Study Area</h2>
+
+<img src="images/study_area_logo.png" alt="study area"/>
+
+::: overlay
+::: text
+Additional study area information
+:::
+:::
+:::
+
 </a>
 
 <a href="highlights.qmd" class="tile">
-<div class="popout">
-<h2> Highlights </h2>
-<img src="https://cdn-icons-png.flaticon.com/512/6114/6114045.png" alt="blog">
-<div class="overlay">
-<div class="text">Blog...</div>
-</div>
-</div>
+
+::: popout
+<h2>Highlights</h2>
+
+<img src="https://cdn-icons-png.flaticon.com/512/6114/6114045.png" alt="blog"/>
+
+::: overlay
+::: text
+Blog...
+:::
+:::
+:::
+
 </a>
-
-</div>
-
-
+:::
