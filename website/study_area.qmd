@@ -47,7 +47,7 @@ jsCode <- paste0('
   for(var i=0; i < marker.length; i++){
     (function(){
       var v = data.url[i];
-      marker[i].addEventListener("click", function() { window.open(v);}, false);
+      marker[i].addEventListener("click", function() { window.open(v, "_self");}, false);
   }()); 
   }
  }
