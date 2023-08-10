@@ -23,6 +23,7 @@ website:
         text: Resilience
       - biodiversity.qmd
       - foodweb.qmd
+      - metrics.qmd
       - study_area.qmd
       - highlights.qmd
       - resources.qmd
@@ -32,10 +33,13 @@ website:
 format:
   html:
     theme: darkly
+    fontsize: 1.3em
     css: styles.css
     toc: true
     page-layout: full
     grid: 
-      body-width: 800px
+      body-width: 1500px
+      gutter-width: 4em
+
 
 
