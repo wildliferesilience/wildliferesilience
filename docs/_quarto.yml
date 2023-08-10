@@ -39,6 +39,7 @@ format:
     page-layout: full
     grid: 
       body-width: 1500px
-      gutter-width: 3em
+      gutter-width: 4em
+
 
 

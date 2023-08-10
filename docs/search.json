@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Resilience\n\n\n\n\nAdditional resilience information\n\n\n\n\n\n\n\nFood Webs\n\n\n\n\nAdditional food web information\n\n\n\n\n\n\n\n\n\nStudy Area\n\n\n\n\nAdditional study area information\n\n\n\n\n\n\n\nHighlights\n\n\n\n\nBlog…"
+    "text": "California forests are important cultural, economic, and ecological systems, however more than a century of fire suppression has only amplified the threats they face as climate change and other stressors snowball. In the face of these threats, one of the goals of forest management is to support the health and resilience of habitats. Resilience is the ability of a system to rebound and maintain its identity after a disturbance such as fire or warming temperatures, but what exactly does this mean for assemblages of thousands of interacting species?\nHistorically, measures of resilience have often focused on a few individual species or structural elements with inferred influence on the rest of the community. However, given that resilience is an emergent property of complex systems, considering all species (trees, mammals, birds, butterflies, etc.) and their interactions is critical to efforts that quantify resilience and our understanding of how wildlife communities will respond to different disturbances. Integrating biodiversity into plans for resilience will provide a more holistic picture of wildlife communities and will be critical for how we track, regenerate, and steward forests to be more resilient in an uncertain future with the compounding threats associated with climate change."
   },
   {
     "objectID": "index.html#why-care-about-resilience",
@@ -46,14 +46,22 @@
     "href": "study_area.html",
     "title": "Study Area",
     "section": "",
+<<<<<<< HEAD
+    "text": "OGR data source with driver: GeoJSON \nSource: \"/Users/dkapan/GitHub/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields"
+=======
     "text": "OGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields\n\n\nOGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/all.geojson\", layer: \"all\"\nwith 3 features\nIt has 9 fields"
+>>>>>>> main
   },
   {
     "objectID": "study_area.html#the-tahoe-central-sierra-initiative-study-region",
     "href": "study_area.html#the-tahoe-central-sierra-initiative-study-region",
     "title": "Study Area",
     "section": "",
+<<<<<<< HEAD
+    "text": "OGR data source with driver: GeoJSON \nSource: \"/Users/dkapan/GitHub/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields"
+=======
     "text": "OGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields"
+>>>>>>> main
   },
   {
     "objectID": "about.html#the-project",
@@ -217,6 +225,16 @@
     "text": "The link between resilience and biodiversity\nThe world’s forests harbor the vast majority of terrestrial species2, therefore they are an important source of biodiversity worldwide. Species provide critical ecosystem services, including clean water, pollination, seed dispersal, and pest and disease control. Importantly, biodiversity provides the raw material for ecosystems to respond to change, bounce back or completely regenerate after a major disturbance. Biodiversity is critical for ecosystem health. To learn more, see Biodiversity."
   },
   {
+<<<<<<< HEAD
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Home",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nUtilizing a method pioneered by Academy curator of Geology and Paleontology Dr. Peter Roopnarine, for an example see [@Roopnarine2018-jw]]↩︎\n(see About for more information)↩︎"
+  },
+  {
+=======
+>>>>>>> main
     "objectID": "biodiversity.html#classic-biodiversity-metrics",
     "href": "biodiversity.html#classic-biodiversity-metrics",
     "title": "Biodiversity",
@@ -229,6 +247,8 @@
     "title": "Biodiversity",
     "section": "Wildlife diversity",
     "text": "Wildlife diversity\nSierra Nevada forests are home to charismatic species, including mountain lions, fishers, martins, spotted owls, and goshawks. Forests that include many of these species and a variety of other species are recognized as healthy and biodiverse. But are they resilient?\nIt turns out that biodiversity is more than species diversity, it encompasses different levels of living diversity from variation within individuals (in behavior or physiology), to genetic variation within species, to differences between species, to the differences that distinguish the structure and function of entire ecological communities and ecosystems.\nOur work utilizes both classic biodiversity data (e.g. a list of species for a given locality, and if available their relative abundance) as well as information on the role or ‘jobs’ they perform in that location to move beyond classic metrics. Using these data we are constructing novel measures to characterize the functions diverse species in their communities. For more see food webs."
+<<<<<<< HEAD
+=======
   },
   {
     "objectID": "metrics.html",
@@ -271,5 +291,6 @@
     "title": "Resources",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nTCSI is the first pilot project under the Watershed Improvement Program (WIP).↩︎"
+>>>>>>> main
   }
 ]
