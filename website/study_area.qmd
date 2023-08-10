@@ -16,7 +16,7 @@ format:
 </style>
 
 
-## The Tahoe Central Sierra Initiative Study Region
+## Overview Map
 ```{r study_area}
 #| echo: false
 #| warning: false
@@ -36,19 +36,29 @@ TCSI_popup <- "Tahoe Central Sierra Initiative"
 tahoe_popup <- "Lake Tahoe Basin"
 caples_popup <- "Caples Creek Watershed"
 
+tsci_all <- readOGR("input/all.geojson")
+
 palette <- hcl.colors(256, palette = "fall")
 palette[1] <- "#0000FF00"
 
-leaflet(TCSI_outline) %>%
+leaflet(tsci_all) %>% 
+    addMapPane("outer", zIndex = 420) %>%
+    addMapPane("inner", zIndex = 400) %>%
     addTiles("https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}") %>% # Add default OpenStreetMap map tiles
-    addGeotiff("input/f3veg_NLCD_300m_TCSI.tif", opacity = 0.7, colorOptions = colorOptions(
-        palette = palette,
-        na.color = "transparent"
-    )) %>%
-    addPolygons(weight = 0, fillOpacity = 0, opacity = 1, fillColor = "green", label = TCSI_popup, labelOptions = labelOptions(textsize = "1.25em")) %>%
-    addGeoJSON(tahoe_outline, weight = 1, opacity = 1, color = "blue") %>%
-    addGeoJSON(caples_outline, weight = 1, opacity = 1, color = "red") %>%
+    # addGeotiff("input/f3veg_NLCD_300m_TCSI.tif", opacity = 0.7, colorOptions = colorOptions(
+    #     palette = palette,
+    #     na.color = "transparent"
+    # )) %>%
+    addPolygons(weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = ~ color, label = ~ name, labelOptions = labelOptions(textsize = "1.25em"), options = pathOptions(pane = ~ pane)) %>%
     # addGeoJSON(TCSI_outline, weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = "green", label = TCSI_popup) %>%
     setView(lng = -121, lat = 38.5, zoom = 08) # %>%
 # addMarkers(lng=-120.155262, lat=38.705416, popup="Central Sierra Nevada")
 ```
+
+
+
+## Tahoe Central Sierra Intitiative 
+
+## Lake Tahoe Basin
+
+## Caples Creek Watershed
