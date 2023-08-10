@@ -51,8 +51,18 @@ leaflet(tsci_all) %>%
     # )) %>%
     addPolygons(weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = ~ color, label = ~ name, labelOptions = labelOptions(textsize = "1.25em"), options = pathOptions(pane = ~ pane)) %>%
     # addGeoJSON(TCSI_outline, weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = "green", label = TCSI_popup) %>%
-    setView(lng = -121, lat = 38.5, zoom = 08) # %>%
-# addMarkers(lng=-120.155262, lat=38.705416, popup="Central Sierra Nevada")
+    setView(lng = -121, lat = 38.5, zoom = 08) %>%
+    htmlwidgets::onRender('
+            function(el, x, data) {
+  var marker = document.getElementsByClassName("leaflet-interactive");
+  for(var i=0; i < marker.length; i++){
+    (function(){
+      var v = data.url[i];
+      marker[i].addEventListener("click", function() { window.open(v);}, false);
+  }()); 
+  }
+ }
+    ', data = tsci_all)
 ```
 
 

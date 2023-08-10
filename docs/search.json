@@ -46,7 +46,7 @@
     "href": "study_area.html",
     "title": "Study Area",
     "section": "",
-    "text": "OGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields\n\n\nOGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/all.geojson\", layer: \"all\"\nwith 3 features\nIt has 8 fields"
+    "text": "OGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields\n\n\nOGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/all.geojson\", layer: \"all\"\nwith 3 features\nIt has 9 fields"
   },
   {
     "objectID": "study_area.html#the-tahoe-central-sierra-initiative-study-region",
@@ -242,7 +242,7 @@
     "href": "study_area.html#overview-map",
     "title": "Study Area",
     "section": "",
-    "text": "OGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields\n\n\nOGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/all.geojson\", layer: \"all\"\nwith 3 features\nIt has 8 fields"
+    "text": "OGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields\n\n\nOGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/all.geojson\", layer: \"all\"\nwith 3 features\nIt has 9 fields"
   },
   {
     "objectID": "study_area.html#tahoe-central-sierra-intitiative",
