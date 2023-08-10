@@ -8,27 +8,19 @@ title: "Resources"
 
 ### [Tahoe-Central Sierra Initiative](https://sierranevada.ca.gov/what-we-do/tcsi/ "The Tahoe-Central Sierra Initiative (TCSI), the first pilot project under the Watershed Improvement Program (WIP), aims to restore the resilience of 2.4 million acres of Sierra Nevada forests and watersheds. It focuses on developing and demonstrating innovative planning, investment, and management tools across all lands. The TCSI is led by state, federal, nonprofit, and private partners, and responds to state and federal mandates that call for increasing pace and scale of forest management and restoration and better protection of communities from wildfire.")
 
-"The Tahoe-Central Sierra Initiative (TCSI), the first pilot project under the [Watershed Improvement Program (WIP)](https://sierranevada.ca.gov/what-we-do/#SNWIP), aims to restore the resilience of 2.4 million acres of Sierra Nevada forests and watersheds. It focuses on developing and demonstrating innovative planning, investment, and management tools across all lands. The TCSI is led by state, federal, nonprofit, and private partners, and responds to state and federal mandates that call for increasing pace and scale of forest management and restoration and better protection of communities from wildfire."
+The [Tahoe-Central Sierra Initiative](https://storymaps.arcgis.com/stories/df5a84c6ecd34f88a99328962eb33080) (TCSI) is led by state, federal, nonprofit, and private partners who are working together to restore the resilience of 1 million acres of Sierra Nevada forests and watersheds.[^1] The group's focus is to develop and demonstrate innovative planning, investment, and management tools. In addition to developing an [Assessment of Current Landscape Conditions](https://www.fs.usda.gov/research/psw/understory/assessment-current-landscape-conditions-tahoe-central-sierra-initiative) and a [Blueprint for Resilience](https://www.fs.usda.gov/research/psw/understory/blueprint-resilience-tahoe-central-sierra-initiative), they created a Framework for Resilience - which promotes socio-ecological resilience across forested landscapes in the Sierra Nevada. Within this framework, they outline the 10 pillars of resilience. Each pillar describes a landscape benefit that is provided when a socio-ecological system is resilient. Our community food web work aims to contribute to the biodiversity conservation pillar, so that we can better understand how biodiversity contributes to resilient socio-ecological systems.
+
+[^1]: TCSI is the first pilot project under the [Watershed Improvement Program (WIP)](https://sierranevada.ca.gov/what-we-do/#SNWIP).
 
 ## Planscape
 
 ### [Planscape](https://www.planscape.org/ "A decision support tool for planning to maximize wildfire resilience and ecological benefits")
 
-"Planscape is a new wildfire resilience decision support tool designed to bring the best available state and federal data and science together in a user-friendly, accessible format to help with planning. 
+Planscape is an open source decision support tool to aid in management and planning to maximize ecological benefits and maximize wildfire resilience in California Forests Planscape is a collaboration of state, federal, and nonprofit partners to bring together the best available federal and state science and data to aid in regional planning and prioritizing landscape areas for treatment. Planscape presents data organized in the 10 pillars outlined in the Framework for resilience which was developed by the TCSI group.  
 
-Planscape will help regional planners prioritize landscape treatments to mitigate fire risk, maximize ecological benefits and help California's landscapes adapt to climate change."
+[Planscape app (preview)](https://app.planscape.org/map)
 
-### [Planscape app (preview)](https://app.planscape.org/map)
-
-"This version of Planscape is intended to give you a preview into the tool with limited data and capabilities for the Sierra Nevada region. This preview version:
-
--   Considers everyone as guest users and does not require you to login
-
--   Includes data from the [Regional Resource Kits](https://wildfiretaskforce.org/regional-resource-kits-page/) for the Sierra Nevada region
-
--   Provides the ability to explore and view maps but not create or save plans yet"
-
-## Lake Tahoe
+The Planscape app provides a read-only ability to explore and build maps of data from the 10 pillars of resilience outlined in the TCSI framework for resilience.
 
 ### [Lake Tahoe West Restoration Partnership](https://www.nationalforests.org/regional-programs/california-program/laketahoewest)
 
@@ -42,6 +34,4 @@ Wildfire, drought, and insects and disease epidemics---pressures that are amplif
 
 ### [Resilience Alliance](https://www.resalliance.org/)
 
-"Advancing research and understanding
-
-\...on social-ecological systems for resilient and sustainable futures."
+For those who are interested in learning more about resilience, The Stockholm Resilience Center provides a description of, [what is resilience](https://www.stockholmresilience.org/research/research-news/2015-02-19-what-is-resilience.html)? And how to [apply resilience thinking](https://www.stockholmresilience.org/download/18.10119fc11455d3c557d6928/1459560241272/SRC%20Applying%20Resilience%20final.pdf).
