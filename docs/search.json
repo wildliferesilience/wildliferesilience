@@ -46,14 +46,14 @@
     "href": "study_area.html",
     "title": "Study Area",
     "section": "",
-    "text": "OGR data source with driver: GeoJSON \nSource: \"/home/mschulist/Github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields"
+    "text": "OGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields\n\n\nOGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/all.geojson\", layer: \"all\"\nwith 3 features\nIt has 9 fields"
   },
   {
     "objectID": "study_area.html#the-tahoe-central-sierra-initiative-study-region",
     "href": "study_area.html#the-tahoe-central-sierra-initiative-study-region",
     "title": "Study Area",
     "section": "",
-    "text": "OGR data source with driver: GeoJSON \nSource: \"/home/mschulist/Github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields"
+    "text": "OGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields"
   },
   {
     "objectID": "about.html#the-project",
@@ -67,7 +67,7 @@
     "href": "foodweb.html",
     "title": "Food Webs",
     "section": "",
-    "text": "Food webs are a valuable way to represent the complexity of interactions within a local wildlife community and simultaneously evaluate community health and resilience.\nSpecies have a variety of interactions in wildlife communities (e.g., mutualistic, competitive, or trophic – that is who is eating whom). Food webs illustrate the latter: Primary producers are at the bottom of the food web, followed by primary consumers, secondary consumers, tertiary consumers, and apex predators at the top.\nHowever, food webs can get complicated fast. That’s why it’s important to describe the composition, structure, and function of the communities with summary measurements or metrics.\n\n\n\n\n\n\n\n\n\nA simple food web illustrating different feeding relationships.1"
+    "text": "Food webs are a valuable way to represent the complexity of interactions within a local wildlife community and simultaneously evaluate community health and resilience.\nSpecies have a variety of interactions in wildlife communities (e.g., mutualistic, competitive, or trophic – that is who is eating whom). Food webs illustrate the latter: Primary producers are at the bottom of the food web, followed by primary consumers, secondary consumers, tertiary consumers, and apex predators at the top.\nHowever, food webs can get complicated fast. That’s why it’s important to describe the composition, structure, and function of the communities with summary measurements or metrics.\n\n\n\n\n\n\n\n\n\nA simple food web illustrating different feeding relationships.1\n\n\n\n\n\n\n\nCreate a global list of species that make up our communities: we create a terrestrial species that live and breed live in the central Sierra Nevada mountain range. This includes over 2,000 species of plants, invertebrates, mammals, reptiles, and birds.\nOn the right, each dot represents a species in an example community.\n\n\n\n\n\n\n\n\n \n\n\nPlace species into guilds: for each species we collect information on their behaviors, habits, predators, prey, and body size. Using this information we place them into guilds with similar species.\nGuilds represent groups of species that are similar—and perform similar functions/jobs within the community. For example, lodgepole chipmunk and yellow-pine chipmunks are small mammals who have similar behaviors, diets, predators, prey, habitats, and body size and are placed into a guild together.\nOn the right, the large circles are guilds, and species (small circles) are each placed into a guild. The chipmunk species are examples of secondary consumers and would be in the large purple circle.\n\n\n\n\n\n\n\n\n \n\n\nAssign links between guilds—with extensive literature review and consulting with experts, we assign links between guilds to create a metanetwork.\nFor example, on the right, the arrows connecting the blue and green circles to the purple circle, indicates that chipmunks (purple circle) eat invertebrates (large blue circle) and seeds of plants (green circle). The arrows from the purple circle to the orange and yellow circles indicate that chipmunks can be eaten by weasels (orange circle) or mountain lion (yellow circle).\nThe metanetwork represents all potential interactions between species.\n\n\n\n\n\n\n\n\n \n\n\nSublet the global list to a local community based on forest type—we crate habitat filters based on information on species habitat preference and occurrence. Using these habitat filters we can then subset the species to crate a metanetwork that represents all of the species (and their interactions) that can occur in a given forest type (seral stage & canopy density) at a given elevation.\nFor example, Sierran mixed conifer is the primary forest type in the Sierra Nevada. Yellow-pine chipmunks will occur, but lodgepole chipmunks will not.\n\n\n\n\n\n\n\n\n \n\n\nSimulate species level networks—from the metanetwork, we use a series of equations to estimate the links between each consumer species and their prey. This allows us to create a food web for the forest community. We do this hundreds of times because this helps us to capture the spatial and temporal variation inherent in species interactions."
   },
   {
     "objectID": "highlights.html",
@@ -130,21 +130,21 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "“The Tahoe-Central Sierra Initiative (TCSI), the first pilot project under the Watershed Improvement Program (WIP), aims to restore the resilience of 2.4 million acres of Sierra Nevada forests and watersheds. It focuses on developing and demonstrating innovative planning, investment, and management tools across all lands. The TCSI is led by state, federal, nonprofit, and private partners, and responds to state and federal mandates that call for increasing pace and scale of forest management and restoration and better protection of communities from wildfire.”\n\n\n\n\n\n\n“Planscape is a new wildfire resilience decision support tool designed to bring the best available state and federal data and science together in a user-friendly, accessible format to help with planning. \nPlanscape will help regional planners prioritize landscape treatments to mitigate fire risk, maximize ecological benefits and help California’s landscapes adapt to climate change.”\n\n\n\n“This version of Planscape is intended to give you a preview into the tool with limited data and capabilities for the Sierra Nevada region. This preview version:\n\nConsiders everyone as guest users and does not require you to login\nIncludes data from the Regional Resource Kits for the Sierra Nevada region\nProvides the ability to explore and view maps but not create or save plans yet”\n\n\n\n\n\n\n\n“The Lake Tahoe West Restoration Partnership (Lake Tahoe West) is a collaborative effort to restore the resilience of forests, watersheds, and communities on 59,000 acres of Lake Tahoe’s west shore.\nThe forests, lakes, and alpine peaks of Lake Tahoe’s west shore make it one of America’s iconic landscapes. The region as a whole is home to 54,000 residents and attracts over 6.4 million annual visitors.\nWildfire, drought, and insects and disease epidemics—pressures that are amplified by climate change—threaten forests, watersheds, and communities across the Lake Tahoe West landscape.”\n\n\n\n\n\n\n“Advancing research and understanding\n...on social-ecological systems for resilient and sustainable futures.”"
+    "text": "The Tahoe-Central Sierra Initiative (TCSI) is led by state, federal, nonprofit, and private partners who are working together to restore the resilience of 1 million acres of Sierra Nevada forests and watersheds.1 The group’s focus is to develop and demonstrate innovative planning, investment, and management tools. In addition to developing an Assessment of Current Landscape Conditions and a Blueprint for Resilience, they created a Framework for Resilience - which promotes socio-ecological resilience across forested landscapes in the Sierra Nevada. Within this framework, they outline the 10 pillars of resilience. Each pillar describes a landscape benefit that is provided when a socio-ecological system is resilient. Our community food web work aims to contribute to the biodiversity conservation pillar, so that we can better understand how biodiversity contributes to resilient socio-ecological systems.\n\n\n\n\n\n\nPlanscape is an open source decision support tool to aid in management and planning to maximize ecological benefits and maximize wildfire resilience in California Forests Planscape is a collaboration of state, federal, and nonprofit partners to bring together the best available federal and state science and data to aid in regional planning and prioritizing landscape areas for treatment. Planscape presents data organized in the 10 pillars outlined in the Framework for resilience which was developed by the TCSI group.  \nPlanscape app (preview)\nThe Planscape app provides a read-only ability to explore and build maps of data from the 10 pillars of resilience outlined in the TCSI framework for resilience.\n\n\n\n“The Lake Tahoe West Restoration Partnership (Lake Tahoe West) is a collaborative effort to restore the resilience of forests, watersheds, and communities on 59,000 acres of Lake Tahoe’s west shore.\nThe forests, lakes, and alpine peaks of Lake Tahoe’s west shore make it one of America’s iconic landscapes. The region as a whole is home to 54,000 residents and attracts over 6.4 million annual visitors.\nWildfire, drought, and insects and disease epidemics—pressures that are amplified by climate change—threaten forests, watersheds, and communities across the Lake Tahoe West landscape.”\n\n\n\n\n\n\nFor those who are interested in learning more about resilience, The Stockholm Resilience Center provides a description of, what is resilience? And how to apply resilience thinking."
   },
   {
     "objectID": "resources.html#tahoe-central-sierra-initiative",
     "href": "resources.html#tahoe-central-sierra-initiative",
     "title": "Resources",
     "section": "",
-    "text": "“The Tahoe-Central Sierra Initiative (TCSI), the first pilot project under the Watershed Improvement Program (WIP), aims to restore the resilience of 2.4 million acres of Sierra Nevada forests and watersheds. It focuses on developing and demonstrating innovative planning, investment, and management tools across all lands. The TCSI is led by state, federal, nonprofit, and private partners, and responds to state and federal mandates that call for increasing pace and scale of forest management and restoration and better protection of communities from wildfire.”"
+    "text": "The Tahoe-Central Sierra Initiative (TCSI) is led by state, federal, nonprofit, and private partners who are working together to restore the resilience of 1 million acres of Sierra Nevada forests and watersheds.1 The group’s focus is to develop and demonstrate innovative planning, investment, and management tools. In addition to developing an Assessment of Current Landscape Conditions and a Blueprint for Resilience, they created a Framework for Resilience - which promotes socio-ecological resilience across forested landscapes in the Sierra Nevada. Within this framework, they outline the 10 pillars of resilience. Each pillar describes a landscape benefit that is provided when a socio-ecological system is resilient. Our community food web work aims to contribute to the biodiversity conservation pillar, so that we can better understand how biodiversity contributes to resilient socio-ecological systems."
   },
   {
     "objectID": "resources.html#planscape",
     "href": "resources.html#planscape",
     "title": "Resources",
     "section": "",
-    "text": "“Planscape is a new wildfire resilience decision support tool designed to bring the best available state and federal data and science together in a user-friendly, accessible format to help with planning. \nPlanscape will help regional planners prioritize landscape treatments to mitigate fire risk, maximize ecological benefits and help California’s landscapes adapt to climate change.”\n\n\n\n“This version of Planscape is intended to give you a preview into the tool with limited data and capabilities for the Sierra Nevada region. This preview version:\n\nConsiders everyone as guest users and does not require you to login\nIncludes data from the Regional Resource Kits for the Sierra Nevada region\nProvides the ability to explore and view maps but not create or save plans yet”"
+    "text": "Planscape is an open source decision support tool to aid in management and planning to maximize ecological benefits and maximize wildfire resilience in California Forests Planscape is a collaboration of state, federal, and nonprofit partners to bring together the best available federal and state science and data to aid in regional planning and prioritizing landscape areas for treatment. Planscape presents data organized in the 10 pillars outlined in the Framework for resilience which was developed by the TCSI group.  \nPlanscape app (preview)\nThe Planscape app provides a read-only ability to explore and build maps of data from the 10 pillars of resilience outlined in the TCSI framework for resilience.\n\n\n\n“The Lake Tahoe West Restoration Partnership (Lake Tahoe West) is a collaborative effort to restore the resilience of forests, watersheds, and communities on 59,000 acres of Lake Tahoe’s west shore.\nThe forests, lakes, and alpine peaks of Lake Tahoe’s west shore make it one of America’s iconic landscapes. The region as a whole is home to 54,000 residents and attracts over 6.4 million annual visitors.\nWildfire, drought, and insects and disease epidemics—pressures that are amplified by climate change—threaten forests, watersheds, and communities across the Lake Tahoe West landscape.”"
   },
   {
     "objectID": "resources.html#lake-tahoe",
@@ -158,7 +158,7 @@
     "href": "resources.html#resilience",
     "title": "Resources",
     "section": "",
-    "text": "“Advancing research and understanding\n...on social-ecological systems for resilient and sustainable futures.”"
+    "text": "For those who are interested in learning more about resilience, The Stockholm Resilience Center provides a description of, what is resilience? And how to apply resilience thinking."
   },
   {
     "objectID": "biodiversity.html",
@@ -229,5 +229,47 @@
     "title": "Biodiversity",
     "section": "Wildlife diversity",
     "text": "Wildlife diversity\nSierra Nevada forests are home to charismatic species, including mountain lions, fishers, martins, spotted owls, and goshawks. Forests that include many of these species and a variety of other species are recognized as healthy and biodiverse. But are they resilient?\nIt turns out that biodiversity is more than species diversity, it encompasses different levels of living diversity from variation within individuals (in behavior or physiology), to genetic variation within species, to differences between species, to the differences that distinguish the structure and function of entire ecological communities and ecosystems.\nOur work utilizes both classic biodiversity data (e.g. a list of species for a given locality, and if available their relative abundance) as well as information on the role or ‘jobs’ they perform in that location to move beyond classic metrics. Using these data we are constructing novel measures to characterize the functions diverse species in their communities. For more see food webs."
+  },
+  {
+    "objectID": "metrics.html",
+    "href": "metrics.html",
+    "title": "Metrics",
+    "section": "",
+    "text": "Metrics\nThree basic metrics include guild richness, and functional dissimilarity, vs functional similarity.\n\n\n\n\n\n\nBasic metrics\n\n\n\nGuild richness describes how many different functional groups are present in a wildlife community. This is one way to describe biodiversity and health present in a community.\nFunctional dissimilarity describes the variety of functions present in a wildlife community. Communities with higher functional dissimilarity may support a higher diversity of ecosystem functions that in turn support ecosystem health.\nFunctional similarity (redundancy) describes how species perform similar functions within a wildlife community. Communities with higher functional redundancy are predicted to be more resilient to species loss."
+  },
+  {
+    "objectID": "study_area.html#overview-map",
+    "href": "study_area.html#overview-map",
+    "title": "Study Area",
+    "section": "",
+    "text": "OGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields\n\n\nOGR data source with driver: GeoJSON \nSource: \"/Users/mschulist/github/wildliferesilience/website/input/all.geojson\", layer: \"all\"\nwith 3 features\nIt has 9 fields"
+  },
+  {
+    "objectID": "study_area.html#tahoe-central-sierra-intitiative",
+    "href": "study_area.html#tahoe-central-sierra-intitiative",
+    "title": "Study Area",
+    "section": "Tahoe Central Sierra Intitiative",
+    "text": "Tahoe Central Sierra Intitiative"
+  },
+  {
+    "objectID": "study_area.html#lake-tahoe-basin",
+    "href": "study_area.html#lake-tahoe-basin",
+    "title": "Study Area",
+    "section": "Lake Tahoe Basin",
+    "text": "Lake Tahoe Basin"
+  },
+  {
+    "objectID": "study_area.html#caples-creek-watershed",
+    "href": "study_area.html#caples-creek-watershed",
+    "title": "Study Area",
+    "section": "Caples Creek Watershed",
+    "text": "Caples Creek Watershed"
+  },
+  {
+    "objectID": "resources.html#footnotes",
+    "href": "resources.html#footnotes",
+    "title": "Resources",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nTCSI is the first pilot project under the Watershed Improvement Program (WIP).↩︎"
   }
 ]

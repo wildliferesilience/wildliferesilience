@@ -2,6 +2,16 @@
 title: "Food Webs"
 ---
 
+<style>
+    .imgcap {
+        background-color: white;
+        border-radius: 20px;
+        border: 1px solid white;
+        overflow: hidden;
+    }
+</style>
+
+
 # Overview
 
 ::: columns
@@ -24,18 +34,118 @@ However, food webs can get complicated fast. That's why it's important to descri
 
 [^2]: Image credits: [*Puma concolor* - Moutain lion](phylopic.org/images/cbe2a3c9-2c11-4f36-a51f-8a6c8de6a420/puma-concolor) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Vulpes vulpes* - Red Fox](https://www.phylopic.org/images/76352962-1eeb-4197-acdd-e3c7eeab839d/vulpes-vulpes) by [Rebecca Groom](https://www.flickr.com/photos/39125441@N05/) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Oreortyx pictus* - Mountain Quail](https://www.phylopic.org/images/ee3501c1-7bd3-444b-b060-d7adaa04193b/oreortyx-pictus) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [*Oncopeltus fasciatus* - Milkweed bug](https://www.phylopic.org/images/61e306a9-9b19-4c9a-ba10-7856bd096356/oncopeltus-fasciatus) by [Andy Wilson](https://www.phylopic.org/contributors/c3ac6939-e85a-4a10-99d1-4079537f34de/andy-wilson-silhouettes) [CC0 1.0 Universal Public Domain](https://creativecommons.org/publicdomain/zero/1.0/), [*Asclepias syriaca* - Common Milkweed](https://www.phylopic.org/images/e4c0def8-3903-4665-b79a-816e9e6311b0/asclepias-syriaca) by [Ian Medeiros](https://www.phylopic.org/contributors/78f98587-fb1e-4ba5-a798-bddb9379c7ee/ian-medeiros-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-# Metrics
 
-Three basic metrics include **guild richness**, and **functional** **dissimilarity**, vs **functional similarity**.
-
-::: callout-tip
-## Basic metrics
-
-**Guild richness** describes how many different functional groups are present in a wildlife community. This is one way to describe biodiversity and health present in a community.
-
-**Functional dissimilarity** describes the variety of functions present in a wildlife community. Communities with higher functional dissimilarity may support a higher diversity of ecosystem functions that in turn support ecosystem health.
-
-**Functional similarity** (redundancy) describes how species perform similar functions within a wildlife community. Communities with higher functional redundancy are predicted to be more resilient to species loss.
-:::
 
 <!-- Credits Example: "Creative Commons 10th Birthday Celebration San Francisco" by Timothy Vollmer is licensed under CC BY 4.0 -->
+
+
+
+::: columns
+::: {.column width="50%"}
+
+**Create a global list of species that make up our communities:** we create a terrestrial species that live and breed live in the central Sierra Nevada mountain range. This includes  over 2,000 species of plants, invertebrates, mammals, reptiles, and birds. 
+
+On the right, each dot represents a species in an example community.
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+<div class="imgcap">
+![](images/Foodweb_Step1.svg)
+</div>
+
+:::
+:::
+
+<br>
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+**Place species into guilds:** for each species we collect information on their behaviors, habits, predators, prey, and body size. Using this information we place them into ***guilds*** with similar species. 
+
+Guilds represent groups of species that are similar---and perform similar functions/jobs within the community. For example, lodgepole chipmunk and yellow-pine chipmunks are small mammals who have similar behaviors, diets, predators, prey, habitats, and body size and are placed into a guild together. 
+
+On the right, the large circles are guilds, and species (small circles) are each placed into a guild. The chipmunk species are examples of secondary consumers and would be in the large purple circle. 
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+<div class="imgcap">
+![](images/Foodweb_Step2.svg)
+</div>
+
+:::
+:::
+
+<br>
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+**Assign links between guilds**---with extensive literature review and consulting with experts, we assign links between guilds to create a metanetwork. 
+
+*For example, on the right, the arrows connecting the blue and green circles to the purple circle, indicates that chipmunks (purple circle) eat invertebrates (large blue circle) and seeds of plants (green circle). The arrows from the purple circle to the orange and yellow circles indicate that chipmunks can be eaten by weasels (orange circle) or mountain lion (yellow circle).*
+
+The metanetwork represents all potential interactions between species. 
+
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+<div class="imgcap">
+![](images/Foodweb_Step3.svg)
+</div>
+
+:::
+:::
+
+<br>
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+**Sublet the global list to a local community based on forest type**---we crate habitat filters based on information on species habitat preference and occurrence. Using these habitat filters we can then subset the species to crate a metanetwork that represents all of the species (and their interactions) that can occur in a given forest type (seral stage & canopy density) at a given elevation. 
+
+*For example, Sierran mixed conifer is the primary forest type in the Sierra Nevada. Yellow-pine chipmunks will occur, but lodgepole chipmunks will not.*
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+<div class="imgcap">
+![](images/Foodweb_Step4.svg)
+</div>
+
+:::
+:::
+
+<br>
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+**Simulate species level networks**---from the metanetwork, we use a series of equations to estimate the links between each consumer species and their prey. This allows us to create a food web for the forest community. We do this hundreds of times because this helps us to capture the spatial and temporal variation inherent in species interactions. 
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+<div class="imgcap">
+![](images/Foodweb_Step4.svg)
+</div>
+
+:::
+:::
