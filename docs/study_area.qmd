@@ -36,33 +36,35 @@ TCSI_popup <- "Tahoe Central Sierra Initiative"
 tahoe_popup <- "Lake Tahoe Basin"
 caples_popup <- "Caples Creek Watershed"
 
-tsci_all <- readOGR("input/all.geojson")
+tcsi_all <- readOGR("input/all.geojson")
 
 palette <- hcl.colors(256, palette = "fall")
 palette[1] <- "#0000FF00"
 
-leaflet(tsci_all) %>% 
-    addMapPane("outer", zIndex = 420) %>%
-    addMapPane("inner", zIndex = 400) %>%
-    addTiles("https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}") %>% # Add default OpenStreetMap map tiles
-    # addGeotiff("input/f3veg_NLCD_300m_TCSI.tif", opacity = 0.7, colorOptions = colorOptions(
-    #     palette = palette,
-    #     na.color = "transparent"
-    # )) %>%
-    addPolygons(weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = ~ color, label = ~ name, labelOptions = labelOptions(textsize = "1.25em"), options = pathOptions(pane = ~ pane)) %>%
-    # addGeoJSON(TCSI_outline, weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = "green", label = TCSI_popup) %>%
-    setView(lng = -121, lat = 38.5, zoom = 08) %>%
-    htmlwidgets::onRender('
-            function(el, x, data) {
+jsCode <- paste0('
+ function(el, x, data) {
   var marker = document.getElementsByClassName("leaflet-interactive");
   for(var i=0; i < marker.length; i++){
     (function(){
       var v = data.url[i];
-      marker[i].addEventListener("click", function() { window.open(v);}, false);
+      marker[i].addEventListener("click", function() { window.open(v, "_self");}, false);
   }()); 
   }
  }
-    ', data = tsci_all)
+')
+
+leaflet(tcsi_all) %>%
+  addMapPane("outer", zIndex = 420) %>%
+  addMapPane("inner", zIndex = 400) %>%
+  addTiles("https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}") %>% # Add default OpenStreetMap map tiles
+  # addGeotiff("input/f3veg_NLCD_300m_TCSI.tif", opacity = 0.7, colorOptions = colorOptions(
+  #     palette = palette,
+  #     na.color = "transparent"
+  # )) %>%
+  addPolygons(weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = ~color, label = ~name, labelOptions = labelOptions(textsize = "1.25em"), options = pathOptions(pane = ~pane)) %>%
+  # addGeoJSON(TCSI_outline, weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = "green", label = TCSI_popup) %>%
+  setView(lng = -121, lat = 38.5, zoom = 08) %>%
+  htmlwidgets::onRender(jsCode, data = tcsi_all@data)
 ```
 
 
