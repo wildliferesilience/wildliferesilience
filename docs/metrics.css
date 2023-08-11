@@ -1,0 +1,35 @@
+.header-section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #dbdbdb;
+}
+.content-container {
+  display: flex;
+}
+.content-container > * {
+  flex-basis: 100%;
+}
+.contentMarker{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.right-content {
+  padding-right: 15px;
+}
+
+.left-content {
+  height: 100vh;
+  position: relative;
+}
+.left-content img{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  opacity: 0;
+  visibility: hidden;
+}
