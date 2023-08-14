@@ -46,4 +46,5 @@ format:
     grid: 
       body-width: 1500px
       gutter-width: 4em
+    bibliography: references.bib
 

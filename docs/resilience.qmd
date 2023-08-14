@@ -1,12 +1,9 @@
 ---
 title: "Wildlife Resilience"
-bibliography: references.bib
 csl: nature.csl
 ---
 
-::: column-screen
-![](images/IMG_6851.png){fig-align="center"}
-:::
+
 
 ## Wildlife Resilience
 
