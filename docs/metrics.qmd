@@ -2,10 +2,20 @@
 title: "Metrics"
 ---
 
+<style>
+    .imgcap {
+        background-color: white;
+        border-radius: 20px;
+        border: 1px solid white;
+        overflow: hidden;
+    }
+</style>
+
+
 # Metrics
 
 
-Three basic metrics include **guild richness**, and **functional** **dissimilarity**, vs **functional similarity**.
+<!-- Three basic metrics include **guild richness**, and **functional** **dissimilarity**, vs **functional similarity**.
 
 ::: callout-tip
 ## Basic metrics
@@ -15,4 +25,66 @@ Three basic metrics include **guild richness**, and **functional** **dissimilari
 **Functional dissimilarity** describes the variety of functions present in a wildlife community. Communities with higher functional dissimilarity may support a higher diversity of ecosystem functions that in turn support ecosystem health.
 
 **Functional similarity** (redundancy) describes how species perform similar functions within a wildlife community. Communities with higher functional redundancy are predicted to be more resilient to species loss.
+::: -->
+
+::: columns
+::: {.column width="50%"}
+
+**Species richness**, describes the number of species in a community. More species is generally good, however, species richness alone does not necessarily mean that a community is more stable. 
+
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+<div class="imgcap">
+![](images/Foodweb_Step5.svg)
+</div>
+
+:::
+:::
+
+<br>
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+**Functional similarity**, describes how similar species are in their function within the food web (i.e., their predator and prey relationships - species one (pink links) to species two (purple links)). Communities with high similarity (or redundancy) are considered to be more stable/resilient to random species loss. This is because if one species is lost then there is a high likelihood that there is another species in the community that will perform that role, and overall function will not decline. 
+
+
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+<div class="imgcap">
+![](images/metrics_step2.png)
+</div>
+
+:::
+:::
+
+<br>
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+**Maximum chain length**, describes the number of links between a consumer species and a primary producer. Wildlife communities with long chain lengths, have top predators. These top predators can be more susceptible to anthropogenic change, and their loss may have cascading impacts on the rest of the community. 
+
+
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+<div class="imgcap">
+![](images/metrics_step3.png)
+</div>
+
+:::
 :::
