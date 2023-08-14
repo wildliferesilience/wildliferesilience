@@ -16,7 +16,7 @@ title: "Food Webs"
 
 ::: columns
 ::: {.column width="60%"}
-Food webs are a valuable way to represent the complexity of interactions within a local wildlife community and simultaneously evaluate community health and resilience.
+***Food webs*** are a valuable way to represent the complexity of interactions within a local wildlife community and simultaneously evaluate community health and resilience.
 
 Species have a variety of interactions in wildlife communities (e.g., mutualistic, competitive, or trophic -- that is who is eating whom). Food webs illustrate the latter: Primary producers are at the bottom of the food web, followed by primary consumers, secondary consumers, tertiary consumers, and apex predators at the top.
 
