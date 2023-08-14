@@ -71,6 +71,9 @@ leaflet(tcsi_all) %>%
 
 ## Tahoe Central Sierra Intitiative 
 
+The Tahoe-Central Sierra Initiative (TCSI) is a working group landscape is a 1 million ha section of Central California forested land where the Tahoe-Central Sierra Initiation 
+
+
 ## Lake Tahoe Basin
 
 ## Caples Creek Watershed
