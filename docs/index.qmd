@@ -6,9 +6,7 @@ format:
         anchor-sections: false
 ---
 
-
 ![](images/IMG_6851.png){fig-align="center"}
-
 
 ***California forests*** are important cultural, economic, and ecological systems, however more than a century of fire suppression has only amplified the threats they face as climate change and other stressors snowball. In the face of these threats, one of the goals of forest management is to support the health and resilience of habitats. Resilience is the ability of a system to rebound and maintain its identity after a disturbance such as fire or warming temperatures, but what exactly does this mean for assemblages of thousands of interacting species?
 
@@ -16,11 +14,11 @@ Historically, measures of resilience have often focused on a few individual spec
 
 # Metrics of Wildlife Resilience
 
-To integrate biodiversity into resilience planning our team from the United States Forest Services (USFS) Pacific SW Research Station, the USFS National forest system and the California Academy of Sciences is working to understand and define ways to measure wildlife communities resilience borrowing methods from Paleontology[^1] to develop models of interacting wildlife species for different Sierra Nevada forests. This work is made possibly by generous funding from the Wildlife Conservation Board[^2]. This website gives an overview of the basic background and process to create metrics of wildlife resilience for a large region in the central Sierra Nevada. To learn more follow the links on this page.
+To integrate biodiversity into resilience planning our team from the United States Forest Services (USFS) Pacific SW Research Station, the USFS National forest system and the California Academy of Sciences is working to understand and define ways to measure wildlife communities resilience borrowing methods from Paleontology[^1] to develop models of interacting wildlife spfecies for different Sierra Nevada forests. This work is made possibly by generous funding from the Wildlife Conservation Board[^2]. This website gives an overview of the basic background and process to create metrics of wildlife resilience for a large region in the central Sierra Nevada. To learn more follow the links on this page.
 
 [^1]: Utilizing a method pioneered by Academy curator of Geology and Paleontology Dr. Peter Roopnarine, for an example see [@Roopnarine2018-jw]
 
-[^2]: (see [About](About.html) for more information)
+[^2]: (see [About](about.qmd) for more information)
 
 ```{=html}
 <!-- Learn about [<span id="resilience">resilience</span>](resilience.qmd), [<span id="food-webs">food webs</span>](foodweb.qmd), and [<span id="study-area"> our study area </span>](study_area.qmd). 
