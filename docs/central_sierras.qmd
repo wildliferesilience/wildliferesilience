@@ -1,0 +1,98 @@
+---
+title: "Central Sierras"
+# note we should get the TCSI boundary
+# and each watershed in the study area (LTB, King, Sagehen, Caples)
+# and then get the layers for each habitat divided by elevation.
+# and work from there
+format:
+  html: 
+    fig-height: 10
+---
+
+```{=html}
+<style>
+  .cell-output {
+    display: none;
+  };
+</style>
+```
+***Our work*** takes place in the Central Sierra Nevada mountain range.
+
+```{r study_area}
+#| echo: false
+#| warning: false
+#| message: false
+#| error: false
+library(dplyr)
+library(leaflet)
+library(leafem)
+library(rgdal)
+
+# TCSI_outline <- readLines("input/TCSI_boundary.geojson") %>% paste(collapse = "\n")
+TCSI_outline <- readOGR("input/TCSI_boundary.geojson")
+tahoe_outline <- readLines("input/tahoe_outline.geojson") %>% paste(collapse = "\n")
+caples_outline <- readLines("input/caples_boundary.geojson") %>% paste(collapse = "\n")
+
+TCSI_popup <- "Tahoe Central Sierra Initiative"
+tahoe_popup <- "Lake Tahoe Basin"
+caples_popup <- "Caples Creek Watershed"
+
+tcsi_all <- readOGR("input/all.geojson")
+
+palette <- hcl.colors(256, palette = "fall")
+palette[1] <- "#0000FF00"
+
+jsCode <- paste0('
+ function(el, x, data) {
+  var marker = document.getElementsByClassName("leaflet-interactive");
+  for(var i=0; i < marker.length; i++){
+    (function(){
+      var v = data.url[i];
+      marker[i].addEventListener("click", function() { window.open(v, "_self");}, false);
+  }()); 
+  }
+ }
+')
+
+leaflet(tcsi_all) %>%
+  addMapPane("outer", zIndex = 420) %>%
+  addMapPane("inner", zIndex = 400) %>%
+  addTiles("https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}") %>% # Add default OpenStreetMap map tiles
+  # addGeotiff("input/f3veg_NLCD_300m_TCSI.tif", opacity = 0.7, colorOptions = colorOptions(
+  #     palette = palette,
+  #     na.color = "transparent"
+  # )) %>%
+  addPolygons(weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = ~color, label = ~name, labelOptions = labelOptions(textsize = "1.25em"), options = pathOptions(pane = ~pane)) %>%
+  # addGeoJSON(TCSI_outline, weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = "green", label = TCSI_popup) %>%
+  setView(lng = -121, lat = 38.5, zoom = 08) %>%
+  htmlwidgets::onRender(jsCode, data = tcsi_all@data)
+```
+
+## Tahoe Central Sierra Intitiative
+
+The Tahoe-Central Sierra Initiative (TCSI) landscape is our focal study area. This 1 million ha section of Central California forested land is home to a high diversity of vegetation communities, flora, and fauna.
+
+The TCSI spans an elevational gradient from 210 - 3400 meters. From the Central Valley to the peaks of the Sierras, the TCSI spans five distinct biotic zones (i.e., life zones). These include the foothill woodland zone, lower montane forest zone, the upper montane forest zone, the subalpine forest zone, and the alpine zone. 
+
+There are 14 dominant vegetation types in the TCSI that vary in their occurrence (A) and density across the gradient (B).
+
+![The vegetation types that occur in the TCSI vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in figure B correspond to vegetation type colors in figure A.](SVG_images/TCSI_map_density.svg){fig-align="center" width="100%"} 
+
+Considering wildlife communities at the scale of the Tahoe-Central Sierra Initiative landscape is critical because wildlife communities occur at large scales. Therefore, working at a spatial scale that encompass landscape level community processes (e.g., dispersal, connectivity, patch size, habitat diversity, neighborhood effects etc.) and disturbances (e.g., large fires, climate change, large scale management) can impact our evaluations of current communities and predictions into the future. Further working on the TCSI landscape is a fruitful enterprise because of the opportunities to collaborate and interact with an established group of stakeholders. The TCSI team has conducted a series of landscape scenarios (LANDIS II dynamic growth models) to explore how the area will change with climate change (2 pathways) and management scenarios (n=6).
+
+## Lake Tahoe Basin
+
+The Lake Tahoe basin is one of our focal watersheds. Lake Tahoe basin is located between two biogeographic provinces, the Great Basin and the Sierra Nevada, and supports high biodiversity. There are over 1,200 species of plants and animals in the basin (LTWA). The basin also has a steep elevational gradient which means that it spans four life zones: lower montane, upper montane, subalpine, and alpine. Eight major vegetation types are common within the Lake Tahoe basin (A) and they range in their density across the elevational gradient (B).
+
+![The vegetation types that occur in the Lake Tahoe basin vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in figure B correspond to vegetation type colors in figure A.](SVG_images/LTB_map_Dist.svg){fig-align="center" width="100%"}
+
+When comparing the plants and animals that occur in those different vegetation types, we've found that generally, overlap in species occurrence is more common for vegetation types in the same life zone. For example, (A) Jeffrey pine (JPN, orange circle), Sierran mixed conifer (SMC, dark green circle), and White fir (WFR, purple circle) forests are commonly found in the lower montane zone (B) and they have high overlap in the types of plants and animal that occur in those forest types.
+
+![In this figure, each large circle is a vegetation type, and each small circle is a species (green vertebrates, gold plants). Lines connecting species to vegetation types indicate that the species occurs in that vegetation type. Species may occur in multiple vegetation types (have multiple connecting lines) or occur in one vegetation type.](SVG_images/LTB_Overlap_Dist.svg){fig-align="center" width="100%"}
+
+## Caples Creek Watershed
+
+FILL IN!
+
+Considering wildlife communities at the watershed scale is important because this is often a scale at which management (e.g., mechanical treatments) and disturbances (e.g., beetle kill, fires) occur. Further, it is a scale to explore various applications of our metrics.  
+
