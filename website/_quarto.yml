@@ -30,7 +30,8 @@ website:
       - biodiversity.qmd
       - foodweb.qmd
       - metrics.qmd
-      - study_area.qmd
+      - central_sierras.qmd
+      - applications.qmd
       - highlights.qmd
       - resources.qmd
       - about.qmd
