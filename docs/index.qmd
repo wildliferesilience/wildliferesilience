@@ -60,10 +60,10 @@ Additional food web information
 :::
 
 ::: container
-<a href="study_area.qmd" class="tile">
+<a href="central_sierras.qmd" class="tile">
 
 ::: popout
-<h2>Study Area</h2>
+<h2>Central Sierra Study Area</h2>
 
 <img src="images/study_area_logo.png" alt="study area"/>
 
