@@ -1,0 +1,133 @@
+---
+title: "Applications"
+---
+
+```{=html}
+<style>
+    .imgcap {
+        background-color: white;
+        border-radius: 20px;
+        border: 1px solid white;
+        overflow: hidden;
+    }
+</style>
+```
+::: columns
+::: {.column width="60%"}
+**Having metrics that quantify entire communities** can provide useful information to track, manage and promote a system\'s health, and its ability to be resistant in the face of disturbance and threats associated with climate change. 
+
+One of the first steps in applying these metrics is to measure them in systems we know well. Doing so can help us to validate our metrics and their ability to quantify a system, and interpret the metrics such that we can learn more (make predictions) about how the systems may respond to perturbations.
+
+![Circular diagram of a food web (A), where species are circles, and lines indicate that one species consumes another. While communities can be complex, basely, they are made six types of species (B): primary producers (green, e.g., plants), primary consumers (yellow, e.g., herbivorous invertebrates), secondary consumer (orange, e.g., omnivorous birds like quail), tertiary consumers (red, carnivores like foxes), and apex predators (purple, top carnivores like mountain lions). [^1]](SVG_images/FoodWeb_Circle_Chain_InvertCol.svg){fig-align="center"}
+
+# How do we estimate a dynamic food web model for a given community within the Sierra Nevadas?
+:::
+
+::: {.column width="40%"}
+:::
+:::
+
+[^1]: Image credits: [*Puma concolor* - Moutain lion](phylopic.org/images/cbe2a3c9-2c11-4f36-a51f-8a6c8de6a420/puma-concolor) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Vulpes vulpes* - Red Fox](https://www.phylopic.org/images/76352962-1eeb-4197-acdd-e3c7eeab839d/vulpes-vulpes) by [Rebecca Groom](https://www.flickr.com/photos/39125441@N05/) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Oreortyx pictus* - Mountain Quail](https://www.phylopic.org/images/ee3501c1-7bd3-444b-b060-d7adaa04193b/oreortyx-pictus) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [*Oncopeltus fasciatus* - Milkweed bug](https://www.phylopic.org/images/61e306a9-9b19-4c9a-ba10-7856bd096356/oncopeltus-fasciatus) by [Andy Wilson](https://www.phylopic.org/contributors/c3ac6939-e85a-4a10-99d1-4079537f34de/andy-wilson-silhouettes) [CC0 1.0 Universal Public Domain](https://creativecommons.org/publicdomain/zero/1.0/), [*Asclepias syriaca* - Common Milkweed](https://www.phylopic.org/images/e4c0def8-3903-4665-b79a-816e9e6311b0/asclepias-syriaca) by [Ian Medeiros](https://www.phylopic.org/contributors/78f98587-fb1e-4ba5-a798-bddb9379c7ee/ian-medeiros-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+[^2]: Image credits: [*Puma concolor* - Moutain lion](phylopic.org/images/cbe2a3c9-2c11-4f36-a51f-8a6c8de6a420/puma-concolor) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Vulpes vulpes* - Red Fox](https://www.phylopic.org/images/76352962-1eeb-4197-acdd-e3c7eeab839d/vulpes-vulpes) by [Rebecca Groom](https://www.flickr.com/photos/39125441@N05/) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Oreortyx pictus* - Mountain Quail](https://www.phylopic.org/images/ee3501c1-7bd3-444b-b060-d7adaa04193b/oreortyx-pictus) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [*Oncopeltus fasciatus* - Milkweed bug](https://www.phylopic.org/images/61e306a9-9b19-4c9a-ba10-7856bd096356/oncopeltus-fasciatus) by [Andy Wilson](https://www.phylopic.org/contributors/c3ac6939-e85a-4a10-99d1-4079537f34de/andy-wilson-silhouettes) [CC0 1.0 Universal Public Domain](https://creativecommons.org/publicdomain/zero/1.0/), [*Asclepias syriaca* - Common Milkweed](https://www.phylopic.org/images/e4c0def8-3903-4665-b79a-816e9e6311b0/asclepias-syriaca) by [Ian Medeiros](https://www.phylopic.org/contributors/78f98587-fb1e-4ba5-a798-bddb9379c7ee/ian-medeiros-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+<!-- Credits Example: "Creative Commons 10th Birthday Celebration San Francisco" by Timothy Vollmer is licensed under CC BY 4.0 -->
+
+::: columns
+::: {.column width="50%"}
+**Step 1: Compile a regional list of species that live in central Sierra forests**: this list includes all terrestrial species that live and breed live in the central Sierra forests. This includes  over 2,000 species of plants, invertebrates, mammals, reptiles, and birds. To compile our lists, we leverage data available in technical reports, USFS surveys, scientific literature, and Global Biodiversity Information Facility.
+
+*On the right, each dot represents a species in an example community organized by trophic position.*
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+::: imgcap
+![](images/Foodweb_Step1.svg)
+:::
+:::
+:::
+
+<br> <br>
+
+::: columns
+::: {.column width="50%"}
+**Step 2: Assign species to guilds:** for each species we collect information on their behaviors, habits, predators, prey, and body size. Using this information we place them into **guilds** with similar species.
+
+Guilds represent groups of species that are similar -- and perform similar functions within the community. For example, lodgepole chipmunk and yellow-pine chipmunks are small mammals who have similar behaviors, diets, predators, prey, habitats, and body size and are placed into a guild together.
+
+To assign species into guilds we leverage information from scientific literature, trait databases, and expert opinions.
+
+*On the right, the large circles are guilds, and species (small circles) are each assigned to the same guild. The chipmunk species are examples of secondary consumers and would be in the large purple circle.*
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+::: imgcap
+![](images/Foodweb_Step2.svg)
+:::
+:::
+:::
+
+<br> <br>
+
+::: columns
+::: {.column width="50%"}
+**Step 3: Assign links between guilds:** with extensive literature review and consulting with experts, we assign links between guilds to create a 'metanetwork'.
+
+*For example, on the right, the arrows connecting the blue and green circles to the purple circle, indicates that chipmunks (purple circle) eat invertebrates (large blue circle) and seeds of plants (green circle). The arrows from the purple circle to the orange and yellow circles indicate that chipmunks can be eaten by weasels (orange circle) or bobcat (yellow circle).*
+
+The metanetwork represents all potential interactions between species.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+::: imgcap
+![](images/Foodweb_Step3.svg)
+:::
+:::
+:::
+
+<br> <br>
+
+::: columns
+::: {.column width="50%"}
+**Step 4: Subset the regional list to taxa that can occur in a specific vegetation type:** for each species there is a probability that it can occur in a given vegetation type based on preference and occurrence patterns. Using these probabilities we can then subset the metanetwork to just include species (and their interactions) that can occur in a given forest type (seral stage & canopy density) at a given elevation. To assign these probabilities we leverage data available from the [California Wildlife Habitat Relationships system](https://wildlife.ca.gov/Data/CWHR), CalFlora, Calsape, and [Jepson eFlora](https://ucjeps.berkeley.edu/eflora/) to name a few.
+
+*For example, Sierran mixed conifer is the primary forest type in the Sierra Nevada. Yellow-pine chipmunks have a higher probability to occur in this forest type, compared to the lodgepole chipmunk.*
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+::: imgcap
+![](images/Foodweb_Step4.svg)
+:::
+:::
+:::
+
+<br> <br>
+
+::: columns
+::: {.column width="50%"}
+**Step 5: Simulate species level network**: from the metanetwork, we estimate the links between each consumer species and their prey, and create a food web for the community. We do this hundreds of times because this helps us to capture the spatial and temporal variation inherent in species interactions.
+
+Using these species level networks we can measure their structure and composition using different [metrics](metrics.qmd "Metrics"). When we interpret these metrics they can tell us about the community's health and resilience.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+::: imgcap
+![](images/Foodweb_Step5.svg)
+:::
+:::
+:::
