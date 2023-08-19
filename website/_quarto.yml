@@ -32,6 +32,7 @@ website:
       - metrics.qmd
       - study_area.qmd
       - highlights.qmd
+      - applications.qmd
       - resources.qmd
       - about.qmd
 

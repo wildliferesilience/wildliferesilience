@@ -9,6 +9,11 @@ title: "Metrics"
         border: 1px solid white;
         overflow: hidden;
     }
+
+    #quarto-appendix {
+        display: none;
+    };
+
 </style>
 
 
@@ -61,7 +66,7 @@ title: "Metrics"
 
 ::: {.column width="40%"}
 <div class="imgcap">
-![](images/metrics_step2.png)
+![](images/Metrics_Similarity.svg)
 </div>
 
 :::
@@ -83,8 +88,36 @@ title: "Metrics"
 
 ::: {.column width="40%"}
 <div class="imgcap">
-![](images/metrics_step3.png)
+![](images/Metrics_MCL.svg)
 </div>
+
+:::
+:::
+
+<br>
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+## Modularity
+
+Modularity, describes the number of sub communities present in a community. Sub communities are made up of species who tend to interact with each other more than with other species within the community (indicated by the blue and pink polygons). Communities with high modularity are hypothesized to be more stable and less vulnerable to random species loss because if a species is loss, it’s impact is generally isolated to that subcommunity, and may not have cascading effects on the rest of the community.
+
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+
+<div class="imgcap">
+
+![](images/Metric_Modularity.svg)
+
+</div>
+
 
 :::
 :::

@@ -1,12 +1,12 @@
 ---
-title: "Study Area"
+title: "Central Sierra"
 # note we should get the TCSI boundary
 # and each watershed in the study area (LTB, King, Sagehen, Caples)
 # and then get the layers for each habitat divided by elevation.
 # and work from there
 format:
   html: 
-    fig-height: 10
+    fig-height: 8
 ---
 
 <style>
@@ -73,17 +73,23 @@ leaflet(tcsi_all) %>%
 
 The Tahoe-Central Sierra Initiative (TCSI) is a working group landscape is a 1 million ha section of Central California forested land.
 
-The TCSI spans an elevational gradient form 500 - 3900 meters (need to check that). From the Central valley to the peaks, the TCSI spans five distinct biotic zones (aka life zones). These include the food hills, woodlands and chaparral (549-900 m), lower montane (900-1800 m), upper montane (1800-2590 m), subalpine (2590-3200 m), to the alpine (>3200 m).
+The TCSI spans an elevational gradient from 210 - 3400 meters. From the Central valley to the peaks of the Sierras, the TCSI spans five distinct biotic zones (aka life zones). These include the foothill shrubland and woodland zone, lower montane forest zone, the upper montane forest zone, the subalpine forest zone, and the alpine zone.
 
-There are 15 dominant habitat types that vary in their abundance across the gradient. Sierran mixed conifer is the most abundant forest type in TCSI and spans the lower and upper montane zones. Sierran mixed conifer forest structure is comprised of a mix of pines, firs, cedars, and oaks. It is home to a large diversity of plants and animals.
+There are 14 dominant vegetation types in the TCSI that vary in their occurrence (A) and density across the gradient (B). 
 
-![](images/habitat_elevations.png){fig-align="center" width=70%}
+
+![](images/TCSI_map_density.svg){fig-align="center" width=70%}
 
 ## Lake Tahoe Basin
 
-The Lake Tahoe basin is one of our focal watersheds. Lake Tahoe basin is located between two biogeographic provinces, the Great Basin and the Sierra Nevada, and supports high biodiversity Here there are over 1,200 species of plants and animals (LTWA). The basin also has a steep elevational gradient which means that it includes  Eight different habitat types are common within the Lake Tahoe basin and includes lower montane, upper montane, subalpine and alpine habitats. their is quite a bit of overlap in the species which occur in those habitats. 
+The Lake Tahoe basin is one of our focal watersheds. Lake Tahoe basin is located between two biogeographic provinces, the Great Basin and the Sierra Nevada, and supports high biodiversity. There are over 1,200 species of plants and animals in the basin (LTWA). The basin also has a steep elevational gradient which means that it spans four life zones, lower montane, upper montane, subalpine, and alpine. Eight different vegetation types are common within the Lake Tahoe basin (A) and they range in their density across the elevational gradient (B). 
 
-![Here are the 8 major habitat types that occur in the Lake Tahoe basin (A), they range in seral stage (age, B), cover class (C) and their elevational distribution (D, where the the grey line indicates the low elevation point of the basin, 1900 m). 
-](images/tahoe_map.png){fig-align="center" width=45%}
+![The vegetation types that occur in the Lake Tahoe basin vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in figure B correspond to vegetation type colors in figure A.
+](images/LTB_map_Dist.svg){fig-align="center" width=70%}
+
+When comparing the plants and animals that occur in those different vegetation types, generally, overlap in species occurrence is more common for vegetation types in the same life zone. In this figure, each large circle is a vegetation type, and each small circle is a species (green vertebrates, gold plants). Lines connecting species to vegetation types indicate that the species occurs in that vegetation type. Species may occur in multiple vegetation types (have multiple connecting lines) or occur in one vegetation type. 
+
+
+![Here are the 8 major habitat types that occur in the Lake Tahoe basin (A), they range in seral stage (age, B), cover class (C) and their elevational distribution (D, where the the grey line indicates the low elevation point of the basin, 1900 m).](images/LTB_Overlap_Dist.svg){fig-align="center" width=70%}
 
 ## Caples Creek Watershed

@@ -12,7 +12,6 @@ title: "Food Webs"
 </style>
 
 
-# Overview
 
 ::: columns
 ::: {.column width="60%"}
@@ -91,7 +90,7 @@ On the right, the large circles are guilds, and species (small circles) are each
 
 **Assign links between guilds**---with extensive literature review and consulting with experts, we assign links between guilds to create a metanetwork. 
 
-*For example, on the right, the arrows connecting the blue and green circles to the purple circle, indicates that chipmunks (purple circle) eat invertebrates (large blue circle) and seeds of plants (green circle). The arrows from the purple circle to the orange and yellow circles indicate that chipmunks can be eaten by weasels (orange circle) or mountain lion (yellow circle).*
+*For example, on the right, the arrows connecting the blue and green circles to the purple circle, indicates that chipmunks (purple circle) eat invertebrates (large blue circle) and seeds of plants (green circle). The arrows from the purple circle to the orange and yellow circles indicate that chipmunks can be eaten by weasels (orange circle) or mountain lions (yellow circle).*
 
 The metanetwork represents all potential interactions between species. 
 

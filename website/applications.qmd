@@ -1,0 +1,144 @@
+---
+title: "Applications"
+---
+
+<style>
+    .imgcap {
+        background-color: white;
+        border-radius: 20px;
+        border: 10px solid white;
+        overflow: hidden;
+    }
+
+    #quarto-appendix {
+        display: none;
+    };
+
+</style>
+
+::: columns
+::: {.column width="50%"}
+
+## Applications
+
+When comparing the plants and animals that occur in those different vegetation types, generally, overlap in species occurrence is more common for vegetation types in the same life zone. In this figure, each large circle is a vegetation type, and each small circle is a species (green vertebrates, gold plants). Lines connecting species to vegetation types indicate that the species occurs in that vegetation type. Species may occur in multiple vegetation types (have multiple connecting lines) or occur in one vegetation type. 
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+
+<div class="imgcap">
+![](images/LTB_map_RFR_SMC.svg)
+</div>
+
+:::
+:::
+
+<br>
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+## Species and Guild Richness
+
+Species richness (A) and guild richness (B - functional groups) are higher in sierran mixed conifer forests compared to red fir forests. Just because red fir forest is less biodiverse (less species richness), doesn’t mean it’s less important/valuable. It provides a different type of habitat for some different species. For example, clark’s nutcrackers are important seed dispersers of conifers, and they are found in higher elevation red fir forests and not in sierran mixed conifer forests. While Sierran mixed conifer forests are home to species that aren’t in red fir forests, this includes mesocarnivores, like stripped and spotted skunks, who can be important in maintaining food web stability. 
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+
+<div class="imgcap">
+![[^sr_gr_combo]](images/SR_GR_combo.svg)
+</div>
+
+[^sr_gr_combo]: Figure shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red). 
+
+:::
+:::
+
+<br>
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+## Functional Similarity and Diversity
+
+Functional similarity is generally higher red fir forests compared to Sierran mixed conifer forests. This suggests that because species generally perform more similar functions, that red fir forests will be more stable (able to maintain function) in the face of random specie loss. Conversely, functional dissimilarity is higher in Sierran mixed conifer suggesting that the diversity of functions is higher in that community.
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+
+<div class="imgcap">
+![[^function_combo]](images/Function_combo.svg)
+</div>
+
+[^function_combo]: Figure shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red). 
+
+:::
+:::
+
+<br>
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+## Maximum Chain Length
+
+While similar, on average maximum chain length (calculated as the mean guild maximum chain length (mcl)) is higher in Sierran mixed conifer compared to red fir forest. This suggests that SMC will be less resilient to the loss of top (apex) predators compared to red fir forests. 
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+
+<div class="imgcap">
+![[^mcl_plot]](images/MCL_plot.svg)
+</div>
+
+[^mcl_plot]: Figure shows, for consumer guilds, the mean guild values (dots) and boxplot produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red). 
+
+:::
+:::
+
+<br>
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+## Modularity
+
+Modularity is similar and generally high for both forest types – this can be good because it means that if a random species is lost, then species can be replaced. However, high modularity can also occur when there has been a simplification of the system - such as the loss of top predators. This is the case for the central sierras, where predators including grizzly bears, wolves, and wolverines went extinct when westward expansion by pioneers occurred in the late 1800s and early 1900s.
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+
+<div class="imgcap">
+![[^modularity_combo]](images/Modularity_combo.svg)
+</div>
+
+[^modularity_combo]: Figure shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red). 
+
+:::
+:::
+
+
