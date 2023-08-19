@@ -31,6 +31,7 @@ website:
       - foodweb.qmd
       - metrics.qmd
       - central_sierras.qmd
+      - applications.qmd
       - highlights.qmd
       - resources.qmd
       - about.qmd
