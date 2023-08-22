@@ -19,7 +19,7 @@ The [Tahoe-Central Sierra Initiative](https://storymaps.arcgis.com/stories/df5a8
 :::
 
 ::: {.column width="40%"}
-![The The ten pillars of resilience represent desired landscape outcomes for the TCSI Framework for Resilience](https://sierranevada.ca.gov/wp-content/uploads/sites/326/2021/03/TCSI-Pillars.jpg)
+![The ten pillars of resilience for the TCSI Framework for Resilience](https://sierranevada.ca.gov/wp-content/uploads/sites/326/2021/03/TCSI-Pillars.jpg)
 :::
 :::
 

@@ -14,6 +14,7 @@ title: "Metrics"
 ```
 ***Evaluating food web metrics*** for wildlife communities across different forest types allows us to assess current conditions and predict how wildlife communities may respond to different stressors associated with environmental change. The following are a short list of example metrics and what they can tell us about the composition, structure, and resilience of a community.  
 
+# Richness
 ```{=html}
 <!-- Three basic metrics include **guild richness**, and **functional** **dissimilarity**, vs **functional similarity**.
 
@@ -60,6 +61,8 @@ title: "Metrics"
 :::
 
 <br> <br>
+
+# More metrics
 
 ::: columns
 ::: {.column width="50%"}

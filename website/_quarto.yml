@@ -14,10 +14,10 @@ filters:
 website:
   title: " "
   reader-mode: false
-  page-footer: 
-    background: "#343a40"
-    center: |
-      ![](/images/Academy_Logo-Horizontal-Academy_Green.png)
+  # page-footer: 
+  #   background: "#343a40"
+  #   center: |
+  #     ![](/images/Academy_Logo-Horizontal-Academy_Green.png)
     
   
   navbar:

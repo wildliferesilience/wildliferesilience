@@ -14,6 +14,7 @@ title: "Applications"
 ```
 ::: columns
 ::: {.column width="60%"}
+
 **Metrics that quantify entire communities** can provide useful information to track, manage and promote a system's health, and its ability to be resistant in the face of disturbance and threats associated with climate change. 
 
 One of the first steps in applying these metrics is to measure them in systems we know well such as the Lake Tahoe basin. Doing so can help us to validate our metrics and their ability to quantify a system, and interpret the metrics such that we can learn more (make predictions) about how the systems may respond to perturbations.
@@ -78,9 +79,7 @@ Modularity is similar and generally high for both forest types -- this can be go
 :::
 
 ::: {.column width="40%"}
-::: imgcap
 ![Figure shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red).](SVG_images/Modularity_combo.svg)
-:::
 :::
 :::
 
