@@ -18,7 +18,7 @@ To integrate biodiversity into resilience planning our team from the United Stat
 
 [^1]: Utilizing a method pioneered by Academy curator of Geology and Paleontology Dr. Peter Roopnarine, for an example see [@Roopnarine2018-jw]
 
-[^2]: (see [About](About.html) for more information)
+[^2]: (see [About](about.qmd) for more information)
 
 ```{=html}
 <!-- Learn about [<span id="resilience">resilience</span>](resilience.qmd), [<span id="food-webs">food webs</span>](foodweb.qmd), and [<span id="study-area"> our study area </span>](study_area.qmd). 
@@ -60,10 +60,10 @@ Additional food web information
 :::
 
 ::: container
-<a href="study_area.qmd" class="tile">
+<a href="central_sierras.qmd" class="tile">
 
 ::: popout
-<h2>Study Area</h2>
+<h2>Central Sierra Study Area</h2>
 
 <img src="images/study_area_logo.png" alt="study area"/>
 

@@ -11,7 +11,7 @@ In December of 2020 the [California Wildlife Conservation Board](https://wcb.ca.
 
 ### Overall Project Objectives
 
-To develop metrics to assess the current and future resilience of forest wildlife communities to stressors associated with climate change that will help inform land managers how different management actions may influence wildlife community resilience into the future.These metrics will ultimately contribute to the management, conservation and restoration of Sierra Nevada wildlife communities.
+To develop metrics to assess the current and future resilience of forest wildlife communities to stressors associated with climate change that will help inform land managers how different management actions may influence wildlife community resilience into the future. These metrics will ultimately contribute to the management, conservation and restoration of Sierra Nevada wildlife communities.
 
 ### Questions for you
 
@@ -25,6 +25,7 @@ We are a group of scientists from the United States Forest Service Pacific SW Re
 -   [Dr. Jack Dumbacher](https://www.calacademy.org/staff/ibss/ornithology-and-mammalogy/jack-dumbacher) (Curator of Ornithology and Mammalogy, California Academy of Sciences).
 -   [Dr. Becky Estes](https://www.fs.usda.gov/detail/r5/plants-animals/?cid=stelprdb5437882) (Central Sierra Province Ecologist, USDA Forest Service).
 -   [Dr. Durrell D. Kapan](https://www.calacademy.org/staff/ibss/microbiology/durrell-kapan) (Senior Research Fellow, Entomology, Ornithology and the Center for Comparative Genomics at the California Academy of Sciences).
+-   [Linda Long](https://www.fs.usda.gov/research/about/people/lllong) (Wildlife Biologist, Conservation of Biodiversity Program, USDA Forest Service, [Pacific Southwest Research Station)](https://www.fs.usda.gov/research/psw)
 -   [Dr. Patricia Manley](https://www.fs.usda.gov/research/about/people/pmanley#products-tab) (Supervisory Biological Scientist, Conservation of Biodiversity Program, USDA Forest Service, [Pacific Southwest Research Station](https://www.fs.usda.gov/research/psw)).
 -   [Dr. Peter Roopnarine](https://www.calacademy.org/staff/ibss/invertebrate-zoology-and-geology/peter-roopnarine) (Curator of Geology at the California Academy of Sciences).
 -   [Dr. Angela M. White](https://www.fs.usda.gov/research/about/people/angelawhite) (Scientist, Research Wildlife Biologist, USDA Forest Service, [Pacific Southwest Research Station](https://www.fs.usda.gov/research/psw)).

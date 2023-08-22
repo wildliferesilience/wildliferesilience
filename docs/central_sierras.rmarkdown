@@ -9,6 +9,7 @@ format:
     fig-height: 10
 ---
 
+
 <style>
   .cell-output {
     display: none;
@@ -17,6 +18,7 @@ format:
 
 
 ## Overview Map
+
 ```{r study_area}
 #| echo: false
 #| warning: false
@@ -69,6 +71,7 @@ leaflet(tcsi_all) %>%
 
 
 
+
 ## Tahoe Central Sierra Intitiative 
 
 The Tahoe-Central Sierra Initiative (TCSI) is a working group landscape is a 1 million ha section of Central California forested land.
@@ -87,3 +90,4 @@ The Lake Tahoe basin is one of our focal watersheds. Lake Tahoe basin is located
 ](images/tahoe_map.png){fig-align="center" width=45%}
 
 ## Caples Creek Watershed
+
