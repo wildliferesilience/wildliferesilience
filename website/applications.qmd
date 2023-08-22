@@ -14,7 +14,6 @@ title: "Applications"
 ```
 ::: columns
 ::: {.column width="60%"}
-
 **Metrics that quantify entire communities** can provide useful information to track, manage and promote a system's health, and its ability to be resistant in the face of disturbance and threats associated with climate change. 
 
 One of the first steps in applying these metrics is to measure them in systems we know well such as the Lake Tahoe basin. Doing so can help us to validate our metrics and their ability to quantify a system, and interpret the metrics such that we can learn more (make predictions) about how the systems may respond to perturbations.
@@ -25,14 +24,17 @@ Two main forest types in the Lake Tahoe basin (A) are Sierran mixed conifer (B) 
 ::: {.column width="60%"}
 ![](SVG_images/LTB_map.jpg){fig-align="center"}
 
-# Species and guild richness
-:::
+# 
 
 ::: {.column width="40%"}
 :::
 :::
 
-<!-- Credits Example: "Creative Commons 10th Birthday Celebration San Francisco" by Timothy Vollmer is licensed under CC BY 4.0 -->
+::: columns
+::: {.column width="60%"}
+# Species and guild richness
+:::
+:::
 
 ::: columns
 ::: {.column width="50%"}
@@ -85,8 +87,6 @@ Modularity is similar and generally high for both forest types -- this can be go
 
 <br> <br>
 
-::: columns
-::: {.column width="50%"}
 # Future applications
 
 **Structure vs composition:** Evaluating how communities (composition) vary based on structure (canopy density and age) will be important for communicating to managers how best to manage for dynamic landscapes.
@@ -94,16 +94,10 @@ Modularity is similar and generally high for both forest types -- this can be go
 **Landscape scenarios:** LANDIS II scenarios simulate how different management scenarios will impact future landscape composition. Evaluating how communities are impacted by different types of management will be critical to understand how decisions now can support resilient wildlife communities into the future.
 
 **Food web scenarios:** perturbing food webs in different scenarios can be a valuable tool to understand how communities may respond differentially to perturbations.
+
+![](images/Applications_Collage_reduced.png)
 :::
 
-::: {.column width="10%"}
-:::
-
-::: {.column width="40%"}
-::: imgcap
-![](images/Foodweb_Step4.svg)
-:::
-:::
 :::
 
 <br> <br>
