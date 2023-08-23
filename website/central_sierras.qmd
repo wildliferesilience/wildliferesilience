@@ -16,7 +16,7 @@ format:
   };
 </style>
 ```
-***Our work*** takes place in the Central Sierra Nevada mountain range.
+***Our work*** takes place in the Central Sierra Nevada mountain range at the landscape and watershed scales (click the map below for more information). 
 
 ```{r study_area}
 #| echo: false
@@ -81,7 +81,11 @@ There are 14 dominant vegetation types in the TCSI that vary in their occurrence
 
 Considering wildlife communities at the scale of the Tahoe-Central Sierra Initiative landscape is critical because wildlife communities occur at large scales. Therefore, working at a spatial scale that encompass landscape level community processes (e.g., dispersal, connectivity, patch size, habitat diversity, neighborhood effects etc.) and disturbances (e.g., large fires, climate change, large scale management) can impact our evaluations of current communities and predictions into the future. Further working on the TCSI landscape is a fruitful enterprise because of the opportunities to collaborate and interact with an established group of stakeholders. The TCSI team has conducted a series of landscape scenarios (LANDIS II dynamic growth models) to explore how the area will change with climate change (2 pathways) and management scenarios (n=6).
 
-## Lake Tahoe Basin
+## Watershed studies
+
+Examining wildlife communities at the watershed scale is important because this is often the scale at which management (e.g. the application of prescribed fire or mechanical treatments) and disturbances (e.g., beetle kill, wildfire) occurs. Furthermore, pre-existing data from multiple watersheds such as the Lake Tahoe Basin and Caples Creek Watershed can be utilized to refine wildlife resilience metrics for specific forested ecosystems and disturbances.
+
+### Lake Tahoe Basin
 
 The Lake Tahoe basin is one of our focal watersheds. Lake Tahoe basin is located between two biogeographic provinces, the Great Basin and the Sierra Nevada, and supports high biodiversity. There are over 1,200 species of plants and animals in the basin (LTWA). The basin also has a steep elevational gradient which means that it spans four life zones: lower montane, upper montane, subalpine, and alpine. Eight major vegetation types are common within the Lake Tahoe basin (A) and they range in their density across the elevational gradient (B).
 
@@ -91,9 +95,7 @@ When comparing the plants and animals that occur in those different vegetation t
 
 ![In this figure, each large circle is a vegetation type, and each small circle is a species (green vertebrates, gold plants). Lines connecting species to vegetation types indicate that the species occurs in that vegetation type. Species may occur in multiple vegetation types (have multiple connecting lines) or occur in one vegetation type.](SVG_images/LTB_Overlap_Dist.svg){fig-align="center" width="100%"}
 
-## Caples Creek Watershed
+### Caples Creek Watershed
 
-FILL IN!
-
-Considering wildlife communities at the watershed scale is important because this is often a scale at which management (e.g., mechanical treatments) and disturbances (e.g., beetle kill, fires) occur. Further, it is a scale to explore various applications of our metrics.  
+The Caples Creek Ecological Restoration Project (Caples Project) is located in the Eldorado National Forest.  Since 2017, project scientists from the USDA Forest Service & California Academy of Sciences have been studying forest health and resilience in mixed conifer forests at Caples.  The team has been monitoring the avian and plant response to the intentional application of fire (the 2019 prescribed Caples fire), and are comparing this to a severe wildfire (the 2021 Caldor Fire). Our collaborative team has surveyed over 80 sites in the Caples Watershed each year gathering traditional avian point-count data as well as passive acoustic recordings, vegetation and fuel measurements. This project provides a window to compare fire that was intentionally applied to enhance forest resilience with severe wildfire—providing a direct measure of the value of prescribed fire at the watershed scale and the effect of these factors on wildlife resilience.
 
