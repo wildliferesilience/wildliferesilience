@@ -35,7 +35,7 @@ Species have a variety of interactions in wildlife communities (e.g., mutualisti
 
 ::: columns
 ::: {.column width="50%"}
-**Step 1: Compile a regional list of species that live in central Sierra forests**: this list includes all terrestrial species that live and breed live in the central Sierra forests. This includes  over 2,000 species of plants, invertebrates, mammals, reptiles, and birds. To compile our lists, we leverage data available in technical reports, USFS surveys, scientific literature, and Global Biodiversity Information Facility.
+**Step 1: Compile a regional list of species that live in central Sierra forests**: this list includes all terrestrial species that live and breed live in the central Sierra forests. This includes over 2,000 species of plants, invertebrates, mammals, reptiles, and birds. To compile our lists, we leverage data available in technical reports, USFS surveys, scientific literature, and Global Biodiversity Information Facility.
 
 *On the right, each dot represents a species in an example community organized by trophic position.*
 :::
