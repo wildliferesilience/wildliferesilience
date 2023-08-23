@@ -31,12 +31,8 @@ SVG_images_files = drive_ls(SVG_images_folder_ID)
 SVG_images_files %>% 
   split(SVG_images_files$id) %>% 
   purrr::walk(~drive_download(.$id, path = paste0(here("website/SVG_images", .$name)), overwrite = TRUE))
-<<<<<<< HEAD
 
-#or a specific file
-SVG_images_files[] %>% 
+#or a specific file (i.e. #1 the first one in the list)
+SVG_images_files[1] %>% 
   split(SVG_images_files$id) %>% 
   purrr::walk(~drive_download(.$id, path = paste0(here("website/SVG_images", .$name)), overwrite = TRUE))
-
-=======
->>>>>>> de59e62a2748d796368693fb982e2529c88d04c8
