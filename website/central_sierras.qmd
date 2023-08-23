@@ -70,11 +70,12 @@ leaflet(tcsi_all) %>%
 
 ## Tahoe Central Sierra Intitiative
 
-The Tahoe-Central Sierra Initiative (TCSI) landscape is our focal study area. This 1 million ha section of Central California forested land is home to a high diversity of vegetation communities, flora, and fauna.
+The Tahoe-Central Sierra Initiative (TCSI) working group's landscape is a 1 million ha section of Central California forested land. The TCSI is home to a high diversity of vegetation communities, flora, and fauna.
 
-The TCSI spans an elevational gradient from 210 - 3400 meters. From the Central Valley to the peaks of the Sierras, the TCSI spans five distinct biotic zones (i.e., life zones). These include the foothill woodland zone, lower montane forest zone, the upper montane forest zone, the subalpine forest zone, and the alpine zone. 
+The TCSI spans an elevational gradient from 210 - 3400 meters. From the Central Valley to the peaks of the Sierras, the TCSI spans five distinct life zones (i.e., biotic zones). Life zones are areas that have similar abiotic conditions (e.g., climate, soils, etc.), plants and animals. In the TCSI, life zones include: foothill woodland zone, lower montane forest zone, the upper montane forest zone, the subalpine forest zone, and the alpine zone. 
 
-There are 14 dominant vegetation types in the TCSI that vary in their occurrence (A) and density across the gradient (B).
+There are 14 dominant vegetation types in the TCSI that vary in their occurrence (A) and density across the gradient (B). 
+
 
 ![The vegetation types that occur in the TCSI vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in figure B correspond to vegetation type colors in figure A.](SVG_images/TCSI_map_density.svg){fig-align="center" width="100%"} 
 
