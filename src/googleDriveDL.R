@@ -1,4 +1,4 @@
-## Setup of the initial large datafiles
+## Setup of the initial large datafiles syncronizing FROM Google Drive to your local computer
 
 #install.packages("googledrive")
 #install.packages("here")
