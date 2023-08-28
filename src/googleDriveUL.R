@@ -8,10 +8,15 @@ library(here)
 #------------------------------------------------------------
 # 1 - ###Point to local directories and files 
 #------------------------------------------------------------
-## Point to local directory and/or fi
+## Point to local directory 
 
-#specify IDS from Google Drive, saved 2018 & 2019
-SVG_images_folder <- c("https://drive.google.com/drive/folders/1W5wm15mmJSdHKwxhYj8b1CM7zA3_Az9k")
+local_dir_docx<-here("website/converted")
+
+docx_webcontent_files <- list.files(local_dir_docx, recursive = TRUE)
+
+
+#specify ID in Google Drive to write to
+docx_folder <- c("https://drive.google.com/drive/folders/13Injvo2S0946uw1XK2c8jrEFhQRNyOpd")
 
 #to avoid error
 # Caused by error in `gargle::response_process()`:
@@ -20,19 +25,7 @@ SVG_images_folder <- c("https://drive.google.com/drive/folders/1W5wm15mmJSdHKwxh
 # PERMISSION_DENIED
 #run  '> googledrive::drive_deauth()'
 
-SVG_images_folder_ID<-drive_get(as_id(SVG_images_folder))
-
-SVG_images_files = drive_ls(SVG_images_folder_ID)
-
-# drive_download(SVG_images_files, 
-#                path = paste0(here("website/SVG_images", SVG_images_folder_$name)),
-#                overwrite = TRUE)
-
-SVG_images_files %>% 
-  split(SVG_images_files$id) %>% 
-  purrr::walk(~drive_download(.$id, path = paste0(here("website/SVG_images", .$name)), overwrite = TRUE))
-
-#or a specific file (i.e. #1 the first one in the list)
-SVG_images_files[1] %>% 
-  split(SVG_images_files$id) %>% 
-  purrr::walk(~drive_download(.$id, path = paste0(here("website/SVG_images", .$name)), overwrite = TRUE))
+purrr::map(
+  docx_webcontent_files,
+  ~ drive_upload(paste0(local_dir_docx, "/", .x), path = as_dribble(docx_folder))
+)
