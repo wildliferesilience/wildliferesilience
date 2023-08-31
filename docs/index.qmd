@@ -6,15 +6,17 @@ format:
         anchor-sections: false
 ---
 
+![](images/ForestType_Collage.png){fig-align="center"}
+
+***Sierra Nevada forests*** are important cultural, economic, and ecological systems, however more than a century of fire suppression has only amplified the threats they face as climate change and other stressors snowball. In the face of these threats, one of the goals of forest management is to support the health and resilience of habitats. Resilience is the ability of a system to rebound and maintain its identity after a disturbance such as fire or warming temperatures. However, what resilient looks like may be different depending on the vegetation type (e.g., Sierran mixed conifer, aspen, meadows etc.) and what exactly does this all mean for assemblages of thousands of interacting species?
+
+Historically, measures of resilience have often focused on a few individual species or structural elements with inferred influence on the rest of the community, but what about biodiversity? Inherently, we know that biodiversity and resilience are linked, but quantifying those connections can prove difficult. However, considering all species (trees, mammals, birds, butterflies, etc.) and their interactions is critical to efforts (1) quantify resilience and (2) improve our ability to understand how wildlife communities will respond to disturbances. Integrating biodiversity into plans for resilience management will provide a more holistic picture of wildlife communities and will be critical for how we track, regenerate, and steward forests to be more resilient into the future.
+
 ![](images/IMG_6851.png){fig-align="center"}
-
-***California forests*** are important cultural, economic, and ecological systems, however more than a century of fire suppression has only amplified the threats they face as climate change and other stressors snowball. In the face of these threats, one of the goals of forest management is to support the health and resilience of habitats. Resilience is the ability of a system to rebound and maintain its identity after a disturbance such as fire or warming temperatures, but what exactly does this mean for assemblages of thousands of interacting species?
-
-Historically, measures of resilience have often focused on a few individual species or structural elements with inferred influence on the rest of the community. However, given that resilience is an emergent property of complex systems, considering all species (trees, mammals, birds, butterflies, etc.) and their interactions is critical to efforts that quantify resilience and our understanding of how wildlife communities will respond to different disturbances. Integrating biodiversity into plans for resilience will provide a more holistic picture of wildlife communities and will be critical for how we track, regenerate, and steward forests to be more resilient in an uncertain future with the compounding threats associated with climate change.
 
 # Metrics of Wildlife Resilience
 
-To integrate biodiversity into resilience planning our team from the United States Forest Services (USFS) Pacific SW Research Station, the USFS National forest system and the California Academy of Sciences is working to understand and define ways to measure wildlife communities resilience borrowing methods from Paleontology[^1] to develop models of interacting wildlife spfecies for different Sierra Nevada forests. This work is made possibly by generous funding from the Wildlife Conservation Board[^2]. This website gives an overview of the basic background and process to create metrics of wildlife resilience for a large region in the central Sierra Nevada. To learn more follow the links on this page.
+To integrate biodiversity into resilience planning our team from the United States Forest Services (USFS) Pacific SW Research Station, the USFS National forest system and the California Academy of Sciences is working to understand and define ways to measure wildlife communities resilience borrowing methods from paleontology[^1] to develop models of interacting wildlife species for different Sierra Nevada forests. This work is made possibly by generous funding from the Wildlife Conservation Board[^2]. This website gives an overview of the basic background and process to create metrics of wildlife resilience for a large region in the central Sierra Nevada. To learn more follow the links on this page.
 
 [^1]: Utilizing a method pioneered by Academy curator of Geology and Paleontology Dr. Peter Roopnarine, for an example see [@Roopnarine2018-jw]
 
@@ -36,6 +38,22 @@ Read our [<span id="blog">blog</span>](highlights.qmd) and the [<span id="resour
 ::: overlay
 ::: text
 Additional resilience information
+:::
+:::
+:::
+
+</a>
+
+<a href="biodiversity.qmd" class="tile">
+
+::: popout
+<h2>Biodiversity</h2>
+
+<img src="images/butterfly.svg" alt="biodiversity"/>
+
+::: overlay
+::: text
+Additional biodiversity information
 :::
 :::
 :::
