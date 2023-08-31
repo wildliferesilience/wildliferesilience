@@ -8,15 +8,15 @@ format:
 
 ![](images/ForestType_Collage.png){fig-align="center"}
 
-***Sierra Nevada forests*** are important cultural, economic, and ecological systems, however more than a century of fire suppression has only amplified the threats they face as climate change and other stressors snowball. In the face of these threats, one of the goals of forest management is to support the health and resilience of habitats. Resilience is the ability of a system to rebound and maintain its identity after a disturbance such as fire or warming temperatures. However, what resilient looks like may be different depending on the vegetation type (e.g., Sierran mixed conifer, aspen, meadows etc.) and what exactly does this all mean for assemblages of thousands of interacting species?
+***Sierra Nevada forests*** are important cultural, economic, and ecological systems, however more than a century of fire suppression has only amplified the threats they face as climate change and other stressors snowball. In the face of these threats, one of the goals of forest management is to support the health and resilience of habitats. Resilience is the ability of a system to rebound and maintain its identity after a disturbance such as fire or warming temperatures. 
 
-Historically, measures of resilience have often focused on a few individual species or structural elements with inferred influence on the rest of the community, but what about biodiversity? Inherently, we know that biodiversity and resilience are linked, but quantifying those connections can prove difficult. However, considering all species (trees, mammals, birds, butterflies, etc.) and their interactions is critical to efforts (1) quantify resilience and (2) improve our ability to understand how wildlife communities will respond to disturbances. Integrating biodiversity into plans for resilience management will provide a more holistic picture of wildlife communities and will be critical for how we track, regenerate, and steward forests to be more resilient into the future.
+Measures of resilience often focus on a few individual species or structural elements with inferred influence on the rest of the community, but what about biodiversity? Inherently, we know that biodiversity and resilience are linked, but quantifying those connections can prove difficult. However, considering all species (trees, mammals, birds, butterflies, etc.) and their interactions is critical to efforts (1) quantify resilience and (2) improve our ability to understand how wildlife communities will respond to disturbances in the future. 
 
 ![](images/IMG_6851.png){fig-align="center"}
 
-# Metrics of Wildlife Resilience
+***Integrating biodiversity into plans for resilience management*** will provide a more holistic picture of wildlife communities and will be critical for how we track, regenerate, and steward forests to be more resilient into the future. To achieve this, our team from the United States Forest Services and the California Academy of Sciences is working to measure wildlife communities resilience borrowing methods from paleontology[^1] to develop models of interacting wildlife species for different Sierra Nevada forests. This work is made possibly by generous funding from the Wildlife Conservation Board[^2]. 
 
-To integrate biodiversity into resilience planning our team from the United States Forest Services (USFS) Pacific SW Research Station, the USFS National forest system and the California Academy of Sciences is working to understand and define ways to measure wildlife communities resilience borrowing methods from paleontology[^1] to develop models of interacting wildlife species for different Sierra Nevada forests. This work is made possibly by generous funding from the Wildlife Conservation Board[^2]. This website gives an overview of the basic background and process to create metrics of wildlife resilience for a large region in the central Sierra Nevada. To learn more follow the links on this page.
+This website gives an overview of the basic background and process to create metrics of wildlife resilience for a large region in the central Sierra Nevada. To learn more follow the links on this page.
 
 [^1]: Utilizing a method pioneered by Academy curator of Geology and Paleontology Dr. Peter Roopnarine, for an example see [@Roopnarine2018-jw]
 
@@ -78,10 +78,26 @@ Additional food web information
 :::
 
 ::: container
+<a href="metrics.qmd" class="tile">
+
+::: popout
+<h2>Metrics</h2>
+
+<img src="images/butterfly.svg" alt="metrics"/>
+
+::: overlay
+::: text
+Additional metrics information
+:::
+:::
+:::
+
+</a>
+
 <a href="central_sierras.qmd" class="tile">
 
 ::: popout
-<h2>Central Sierra Study Area</h2>
+<h2>Central Sierras</h2>
 
 <img src="images/study_area_logo.png" alt="study area"/>
 
@@ -94,6 +110,24 @@ Additional study area information
 
 </a>
 
+<a href="applications.qmd" class="tile">
+
+::: popout
+<h2>Applications</h2>
+
+<img src="pdf/FoodWeb_TrophicLevels.svg" alt="applications"/>
+
+::: overlay
+::: text
+Additional applications information
+:::
+:::
+:::
+
+</a>
+:::
+
+::: container
 <a href="highlights.qmd" class="tile">
 
 ::: popout
@@ -103,7 +137,39 @@ Additional study area information
 
 ::: overlay
 ::: text
-Blog...
+Blog
+:::
+:::
+:::
+
+</a>
+
+<a href="resources.qmd" class="tile">
+
+::: popout
+<h2>Resources</h2>
+
+<img src="images/study_area_logo.png" alt="resources"/>
+
+::: overlay
+::: text
+Additional resources
+:::
+:::
+:::
+
+</a>
+
+<a href="about.qmd" class="tile">
+
+::: popout
+<h2>About</h2>
+
+<img src="https://cdn-icons-png.flaticon.com/512/6114/6114045.png" alt="blog"/>
+
+::: overlay
+::: text
+About
 :::
 :::
 :::
