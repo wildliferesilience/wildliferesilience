@@ -6,6 +6,8 @@ format:
         anchor-sections: false
 ---
 
+## The Wildlife Resilience Project
+
 ![](images/ForestType_Collage.png){fig-align="center"}
 
 ***Sierra Nevada forests*** are important cultural, economic, and ecological systems, however more than a century of fire suppression has only amplified the threats they face as climate change and other stressors snowball. In the face of these threats, one of the goals of forest management is to support the health and resilience of habitats. Resilience is the ability of a system to rebound and maintain its identity after a disturbance such as fire or warming temperatures. 
