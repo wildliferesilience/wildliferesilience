@@ -3,9 +3,9 @@ title: "Wildlife Resilience"
 csl: nature.csl
 ---
 
-![](images/ForestType_Collage.png){fig-align="center"}
-
 ## Why care about resilience?
+
+![](images/ForestType_Collage.png){fig-align="center"}
 
 Resilient Sierra Nevada forests are healthy forests that can bounce back after disturbances like drought, fire, pests and disease. Ensuring forests are resilient is beneficial because they support/facilitate clean water, clean air, places to recreate, fire protection, and economic opportunities.
 

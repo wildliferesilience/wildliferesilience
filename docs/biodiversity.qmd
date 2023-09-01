@@ -1,6 +1,14 @@
 ---
 title: "Biodiversity"
+format: 
+    html:
+        css: index.css
+        anchor-sections: false
 ---
+
+## Why care about biodiversity?
+
+![](images/ForestType_Collage.png){fig-align="center"}
 
 **Biodiversity** is the variety of life, in all forms. This encompasses all different species from viruses, microbes, and fungi to plants and animals, the genetic information they contain, the variety of structures, forms, and functions they realize, and critically the roles they play in the communities and ecosystems they form.
 
@@ -18,6 +26,7 @@ Biologists perform biodiversity inventories focused on *species*.  Species metri
 
 **Species diversity**: Diversity measures summarize both *richness* and distribution of numbers for each species in a community (known as their *relative abundance*).
 
+![](SVG_images/mushroom.svg){fig-align="center"}
 :::
 
 ## Wildlife diversity
