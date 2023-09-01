@@ -14,7 +14,7 @@ Measures of resilience often focus on a few individual species or structural ele
 
 ![](images/IMG_6851.png){fig-align="center"}
 
-***Integrating biodiversity into plans for resilience management*** will provide a more holistic picture of wildlife communities and will be critical for how we track, regenerate, and steward forests to be more resilient into the future. To achieve this, our team from the United States Forest Services and the California Academy of Sciences is working to measure wildlife communities resilience borrowing methods from paleontology[^1] to develop models of interacting wildlife species for different Sierra Nevada forests. This work is made possibly by generous funding from the Wildlife Conservation Board[^2]. 
+***Integrating biodiversity into plans for resilience management*** will provide a more holistic picture of wildlife communities and will be critical for how we track, regenerate, and steward forests to be more resilient into the future. To achieve this, our team from the United States Forest Services and the California Academy of Sciences is working to measure wildlife communities' resilience by borrowing methods from paleontology[^1] to develop models of interacting wildlife species for different Sierra Nevada forests. This work is made possible by generous funding from the Wildlife Conservation Board[^2]. 
 
 This website gives an overview of the basic background and process to create metrics of wildlife resilience for a large region in the central Sierra Nevada. To learn more follow the links on this page.
 
@@ -49,7 +49,7 @@ Additional resilience information
 ::: popout
 <h2>Biodiversity</h2>
 
-<img src="images/butterfly.svg" alt="biodiversity"/>
+<img src="images/butterfly.png" alt="biodiversity"/>
 
 ::: overlay
 ::: text
@@ -83,7 +83,7 @@ Additional food web information
 ::: popout
 <h2>Metrics</h2>
 
-<img src="images/butterfly.svg" alt="metrics"/>
+<img src="images/butterfly.png" alt="metrics"/>
 
 ::: overlay
 ::: text
