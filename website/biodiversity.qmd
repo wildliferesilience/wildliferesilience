@@ -14,7 +14,7 @@ format:
 
 Biodiversity is in crisis, therefore it is important to have integrative tools that better equip us to evaluate and support healthy, resilient, biodiverse communities as we plan major interventions to enhance forest resilience.
 
-## Classic biodiversity metrics
+## How to measure biodiversity
 Biologists perform biodiversity inventories focused on *species*.  Species metrics have long formed the basis of conservation and management research and policy.
 
 ::: callout-tip
