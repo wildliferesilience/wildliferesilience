@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -61,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="index.css">
 </head>
 
 <body class="nav-fixed">
@@ -163,23 +163,23 @@ ul.task-list li input[type="checkbox"] {
 <div class="columns">
 <div class="column" style="width:90%;">
 <section id="food-webs" class="level2">
-<h2 class="anchored" data-anchor-id="food-webs">Food webs</h2>
+<h2 data-anchor-id="food-webs">Food webs</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/ForestType_Collage.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 <p><strong><em>Food webs</em></strong> are a valuable way to represent the complexity of biodiversity within a local wildlife community, by taking into account species and their interactions.</p>
-<p>Food webs illustrate predator prey interactions where (A): primary producers are at the bottom of the food web (green), followed by primary consumers (yellow), secondary consumers (orange), tertiary consumers (red), and apex predators at the top (purple). (B) Communities can have hundreds of species (dots) and interactions (links between dots) and food webs are a useful tool to capture that complexity.</p>
+<p>Food chains illustrate predator prey interactions where (A): primary producers are at the bottom of the food web (green), followed by primary consumers (yellow), secondary consumers (orange), tertiary consumers (red), and apex predators at the top (purple)<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. Communities are made up of many food chains, and can get complex fast. (B) With hundreds of species (dots) and interactions (links between dots), food webs are a useful tool to capture those complex interactions.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="SVG_images/FoodWeb_Circle_Chain_InvertCol.svg" class="img-fluid figure-img" style="width:70.0%"></p>
 </figure>
 </div>
 </section>
-<section id="how-we-estimate-a-forest-communitys-food-web" class="level1">
-<h1>How we estimate a forest community’s food web</h1>
-<p><strong>How do we estimate a dynamic food web model for a given community within the Sierra Nevada?</strong> There are more than 10 different vegetation types present in the Central Sierra, and understanding how their communities are similar or different are . We’ve</p>
+<section id="how-we-build-a-food-web" class="level2">
+<h2 data-anchor-id="how-we-build-a-food-web">How we build a food web</h2>
+<p><strong>How do we estimate a dynamic food web model for a given community within the Sierra Nevada?</strong> There are many different vegetation types present in the Central Sierra, to build a food webs for a given forest community within the Central Sierra we follow these five steps:</p>
 </section>
 </div><div class="column" style="width:10%;">
 
@@ -256,7 +256,13 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Image credits: Puma concolor - Moutain lion by Gabriela Palomo-Munoz CC BY 3.0, Vulpes vulpes - Red Fox by Rebecca Groom CC BY 3.0, Oreortyx pictus - Mountain Quail by Gabriela Palomo-Munoz CC BY 4.0, Oncopeltus fasciatus - Milkweed bug by Andy Wilson CC0 1.0 Universal Public Domain, Asclepias syriaca - Common Milkweed by Ian Medeiros CC BY 4.0.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -277,13 +283,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

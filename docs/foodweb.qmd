@@ -1,5 +1,9 @@
 ---
 title: "Food Webs"
+format: 
+    html:
+        css: index.css
+        anchor-sections: false
 ---
 
 ```{=html}
@@ -13,28 +17,29 @@ title: "Food Webs"
 </style>
 ```
 ::: columns
-::: {.column width="100%"}
-
+::: {.column width="90%"}
 ## Food webs
 
 ![](images/ForestType_Collage.png){fig-align="center"}
 
 ***Food webs*** are a valuable way to represent the complexity of biodiversity within a local wildlife community, by taking into account species and their interactions.
 
-Food webs illustrate predator prey interactions where (A): primary producers are at the bottom of the food web (green), followed by primary consumers (yellow), secondary consumers (orange), tertiary consumers (red), and apex predators at the top (purple). (B) Communities can have hundreds of species (dots) and interactions (links between dots) and food webs are a useful tool to capture that complexity.  
+Food chains illustrate predator prey interactions where (A): primary producers are at the bottom of the food web (green), followed by primary consumers (yellow), secondary consumers (orange), tertiary consumers (red), and apex predators at the top (purple)[^1]. Communities are made up of many food chains, and can get complex fast. (B) With hundreds of species (dots) and interactions (links between dots), food webs are a useful tool to capture those complex interactions.
 
-![](SVG_images/FoodWeb_Circle_Chain_InvertCol.svg){fig-align="center"}
+[^1]: Image credits: Puma concolor - Moutain lion by Gabriela Palomo-Munoz CC BY 3.0, Vulpes vulpes - Red Fox by Rebecca Groom CC BY 3.0, Oreortyx pictus - Mountain Quail by Gabriela Palomo-Munoz CC BY 4.0, Oncopeltus fasciatus - Milkweed bug by Andy Wilson CC0 1.0 Universal Public Domain, Asclepias syriaca - Common Milkweed by Ian Medeiros CC BY 4.0.
 
-# How we estimate the food web for a given forest
+![](SVG_images/FoodWeb_Circle_Chain_InvertCol.svg){fig-align="center" width=70%}
+
+## How we build a food web
+
+**How do we estimate a dynamic food web model for a given community within the Sierra Nevada?** There are many different vegetation types present in the Central Sierra, to build a food webs for a given forest community within the Central Sierra we follow these five steps:
+
+
 :::
 
-::: {.column width="40%"}
+::: {.column width="10%"}
 :::
 :::
-
-[^1]: Image credits: [*Puma concolor* - Moutain lion](phylopic.org/images/cbe2a3c9-2c11-4f36-a51f-8a6c8de6a420/puma-concolor) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Vulpes vulpes* - Red Fox](https://www.phylopic.org/images/76352962-1eeb-4197-acdd-e3c7eeab839d/vulpes-vulpes) by [Rebecca Groom](https://www.flickr.com/photos/39125441@N05/) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Oreortyx pictus* - Mountain Quail](https://www.phylopic.org/images/ee3501c1-7bd3-444b-b060-d7adaa04193b/oreortyx-pictus) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [*Oncopeltus fasciatus* - Milkweed bug](https://www.phylopic.org/images/61e306a9-9b19-4c9a-ba10-7856bd096356/oncopeltus-fasciatus) by [Andy Wilson](https://www.phylopic.org/contributors/c3ac6939-e85a-4a10-99d1-4079537f34de/andy-wilson-silhouettes) [CC0 1.0 Universal Public Domain](https://creativecommons.org/publicdomain/zero/1.0/), [*Asclepias syriaca* - Common Milkweed](https://www.phylopic.org/images/e4c0def8-3903-4665-b79a-816e9e6311b0/asclepias-syriaca) by [Ian Medeiros](https://www.phylopic.org/contributors/78f98587-fb1e-4ba5-a798-bddb9379c7ee/ian-medeiros-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-[^2]: Image credits: [*Puma concolor* - Moutain lion](phylopic.org/images/cbe2a3c9-2c11-4f36-a51f-8a6c8de6a420/puma-concolor) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Vulpes vulpes* - Red Fox](https://www.phylopic.org/images/76352962-1eeb-4197-acdd-e3c7eeab839d/vulpes-vulpes) by [Rebecca Groom](https://www.flickr.com/photos/39125441@N05/) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [*Oreortyx pictus* - Mountain Quail](https://www.phylopic.org/images/ee3501c1-7bd3-444b-b060-d7adaa04193b/oreortyx-pictus) by [Gabriela Palomo-Munoz](https://www.phylopic.org/contributors/f57cf3c4-210c-4bcf-a759-9fcbc0cd8ba1/gabriela-palomo-munoz-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [*Oncopeltus fasciatus* - Milkweed bug](https://www.phylopic.org/images/61e306a9-9b19-4c9a-ba10-7856bd096356/oncopeltus-fasciatus) by [Andy Wilson](https://www.phylopic.org/contributors/c3ac6939-e85a-4a10-99d1-4079537f34de/andy-wilson-silhouettes) [CC0 1.0 Universal Public Domain](https://creativecommons.org/publicdomain/zero/1.0/), [*Asclepias syriaca* - Common Milkweed](https://www.phylopic.org/images/e4c0def8-3903-4665-b79a-816e9e6311b0/asclepias-syriaca) by [Ian Medeiros](https://www.phylopic.org/contributors/78f98587-fb1e-4ba5-a798-bddb9379c7ee/ian-medeiros-silhouettes) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 <!-- Credits Example: "Creative Commons 10th Birthday Celebration San Francisco" by Timothy Vollmer is licensed under CC BY 4.0 -->
 
