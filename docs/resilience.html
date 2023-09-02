@@ -52,7 +52,6 @@ div.csl-indent {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -80,6 +79,7 @@ div.csl-indent {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="index.css">
 </head>
 
 <body class="nav-fixed">
@@ -181,7 +181,7 @@ div.csl-indent {
 </header>
 
 <section id="why-care-about-resilience" class="level2">
-<h2 class="anchored" data-anchor-id="why-care-about-resilience">Why care about resilience?</h2>
+<h2 data-anchor-id="why-care-about-resilience">Why care about resilience?</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/ForestType_Collage.png" class="img-fluid figure-img"></p>
@@ -192,8 +192,8 @@ div.csl-indent {
 <p>In California, both state and federal agencies are spending billions of dollars to manage forests for climate and fire resilience. But what does this resilience management mean for the conservation and enhancement of the state’s wildlife?</p>
 </section>
 <section id="the-link-between-forest-resilience-and-biodiversity" class="level2">
-<h2 class="anchored" data-anchor-id="the-link-between-forest-resilience-and-biodiversity">The link between forest resilience and biodiversity</h2>
-<p>Forests are very biodiverse, in fact, the world’s forests harbor the vast majority of terrestrial species<span class="citation" data-cites="thestat2020b"><sup><a href="#ref-thestat2020b" role="doc-biblioref">1</a></sup></span>. Species provide critical ecosystem services including: pollination, seed dispersal, and pest and disease control. Importantly, biodiversity provides the raw material for ecosystems to respond to change, bounce back or completely regenerate after a major disturbance.</p>
+<h2 data-anchor-id="the-link-between-forest-resilience-and-biodiversity">The link between forest resilience and biodiversity</h2>
+<p>Forests are very biodiverse, in fact, the world’s forests harbor the vast majority of terrestrial species<span class="citation" data-cites="thestat2020b">(<a href="#ref-thestat2020b" role="doc-biblioref"><em>The State of the World<span>’</span>s Forests 2020</em> 2020</a>)</span>. Species provide critical ecosystem services including: pollination, seed dispersal, and pest and disease control. Importantly, biodiversity provides the raw material for ecosystems to respond to change, bounce back or completely regenerate after a major disturbance.</p>
 <div class="callout-tip callout callout-style-default callout-captioned">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -211,8 +211,8 @@ Definitions
 </div>
 </section>
 <section id="wildlife-community-resilience" class="level2">
-<h2 class="anchored" data-anchor-id="wildlife-community-resilience">Wildlife community resilience</h2>
-<p>One goal of conservation and management is to support the health and resilience of forested landscapes. Biodiversity is important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience is challenging. To address this challenge, the Wildlife Community Resilience Project is developing metrics to bring biodiversity and forest structure together to quantify and evaluate wildlife community health and resilience.</p>
+<h2 data-anchor-id="wildlife-community-resilience">Wildlife community resilience</h2>
+<p>One goal of conservation and management is to support the health and resilience of forested landscapes. Biodiversity is important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience is challenging. To address this challenge, the Wildlife Resilience Project is developing metrics to bring biodiversity and forest structure together to quantify and evaluate wildlife community health and resilience.</p>
 <p>To learn more, see <a href="./biodiversity.html">Biodiversity</a>. <!-- <iframe src="pdf/Metrics_Wildlife_Community_Resilience_Summary.pdf" width="100%" height="1000px"> --></p>
 <p><strong><em>Resilience is a dynamic process,</em></strong> below is a diagram that illustrates resilience in a complex system (green surface). As the system evolves, it’s current ‘state’ is defined by a ball travelling to different positions along the surface. Deeper ‘troughs’ represent increased resilience. If a disturbance can push the system sufficiently far (e.g.&nbsp;push a ball out of a trough) then the system can move to a new state (follow the dashed arrow to the new trough on the right).</p>
 <div class="quarto-figure quarto-figure-center">
@@ -228,9 +228,9 @@ Definitions
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-line-spacing="2" role="doc-bibliography">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
 <div id="ref-thestat2020b" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline"><em>The state of the world<span>’</span>s forests 2020</em>. (FAO; UNEP, 2020). doi:<a href="https://doi.org/10.4060/ca8642en">10.4060/ca8642en</a>.</div>
+<em>The State of the World<span>’</span>s Forests 2020</em>. 2020. FAO; UNEP. <a href="https://doi.org/10.4060/ca8642en">https://doi.org/10.4060/ca8642en</a>.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -253,13 +253,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

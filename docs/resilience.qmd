@@ -1,6 +1,9 @@
 ---
 title: "Wildlife Resilience"
-csl: nature.csl
+format: 
+    html:
+        css: index.css
+        anchor-sections: false
 ---
 
 ## Why care about resilience?
@@ -30,7 +33,7 @@ Forests are very biodiverse, in fact, the world's forests harbor the vast majori
 
 ## Wildlife community resilience
 
-One goal of conservation and management is to support the health and resilience of forested landscapes. Biodiversity is important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience is challenging. To address this challenge, the Wildlife Community Resilience Project is developing metrics to bring biodiversity and forest structure together to quantify and evaluate wildlife community health and resilience. 
+One goal of conservation and management is to support the health and resilience of forested landscapes. Biodiversity is important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience is challenging. To address this challenge, the Wildlife Resilience Project is developing metrics to bring biodiversity and forest structure together to quantify and evaluate wildlife community health and resilience. 
 
 To learn more, see [Biodiversity](biodiversity.qmd). <!-- <iframe src="pdf/Metrics_Wildlife_Community_Resilience_Summary.pdf" width="100%" height="1000px"> -->
 
