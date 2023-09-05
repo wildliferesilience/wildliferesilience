@@ -1,5 +1,9 @@
 ---
 title: "Applications"
+format: 
+    html:
+        css: index.css
+        anchor-sections: false
 ---
 
 ```{=html}
@@ -12,33 +16,25 @@ title: "Applications"
     }
 </style>
 ```
-::: columns
-::: {.column width="60%"}
-**Metrics that quantify entire communities** can provide useful information to track, manage and promote a system's health, and its ability to be resistant in the face of disturbance and threats associated with climate change. 
+## Applying Food Web Metrics
 
-One of the first steps in applying these metrics is to measure them in systems we know well such as the Lake Tahoe basin. Doing so can help us to validate our metrics and their ability to quantify a system, and interpret the metrics such that we can learn more (make predictions) about how the systems may respond to perturbations.
+![](images/ForestType_Collage.png){fig-align="center"}
 
-Two main forest types in the Lake Tahoe basin (A) are Sierran mixed conifer (B) and red fir (C) forests. These two forests differ in species composition, historic fire regimes, elevational range, and climate. Sierran mixed conifer forest is the most widespread forest type in the basin, primarily occurs in the lower montane zone, and is characterized as a dynamic system, with high productivity, high dispersal (colonization), and a historically short fire rotation. Compared to Sierran mixed conifer forest, red fir forest is considered to be a static, low energy system, climate limited because it is primarily occurs in the upper montane zone (often above snow line),and it has a historically moderate fire rotation. The contrasting productivity and disturbance regimes of the systems could be critical to their futures as regional climate changes.
-:::
+**Metrics that quantify entire communities** can provide useful information to track, manage and promote a system's health, and its ability to be resistant in the face of disturbance and threats associated with climate change.
 
-::: {.column width="60%"}
+## Are two wildlife communites in the Lake Tahoe basin different?
+
+Two main forest types in the [Lake Tahoe basin](central_sierras.qmd) (A) are Sierran mixed conifer (B) and red fir (C) forests. These two forests differ in species composition, historic fire regimes, elevational range, and life zone (e.g., climate). Sierran mixed conifer forest is the most widespread forest type in the basin, is characterized as a dynamic system (high productivity and dispersal), and a historically short fire rotation. Red fir forest is considered to be a static system (low energy system, often above snow line) and it has a historically moderate fire rotation. The contrasting productivity and disturbance regimes of the systems could be critical to their futures as regional climate changes.
+
 ![](SVG_images/LTB_map.jpg){fig-align="center"}
 
-# 
+Constructing food webs of two forest wildlife communities that we know well has two goals: (1) check our metrics, do metrics match our understanding of the system? Are we able to create metrics that measure the system holistically. (2) Depending on if metrics are similar or differ, this can help us understand/predict how these systems respond to disturbances.
 
-::: {.column width="40%"}
-:::
-:::
-
-::: columns
-::: {.column width="60%"}
-# Species and guild richness
-:::
-:::
+## Community composition
 
 ::: columns
 ::: {.column width="50%"}
-Species (A) and guild richness (B - functional groups) are higher in Sierran mixed conifer forests compared to red fir forests. However, just because red fir forest is less biodiverse (less species & guild richness), doesn't mean it's less valuable, they are different.
+***Species (A) and guild richness (B - functional groups)*** are higher in Sierran mixed conifer forests compared to red fir forests[^1]. However, just because red fir forest is less biodiverse (less species & guild richness), doesn't mean it's less valuable, they are different.
 
 The two forest types occur in different life zones and support some different species. For example, Clark's nutcrackers are important seed dispersers of conifers, and they are found in higher elevation red fir forests. While Sierran mixed conifer forests are home stripped and spotted skunks, who are mesocarnivores, which can be important in maintaining food web stability.
 :::
@@ -47,7 +43,34 @@ The two forest types occur in different life zones and support some different sp
 :::
 
 ::: {.column width="40%"}
-![Figure shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red).](SVG_images/SR_GR_combo.svg)
+::: imgcap
+![](SVG_images/SR_GR_combo.svg)
+:::
+:::
+:::
+
+[^1]: Figure on right shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red).
+
+<br> <br>
+
+## Community strucutre and function
+
+::: columns
+::: {.column width="50%"}
+***Functional similarity*** is generally higher red fir forests compared to Sierran mixed conifer forests (A) and the opposite is true for functional dissimilairty (B[^3]).
+
+[^3]: Figure shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red).
+
+This suggests that because species generally perform more similar functions, that red fir forests will be more stable (able to maintain function) in the face of random specie loss. Conversely, functional dissimilarity is higher in Sierran mixed conifer suggesting that the diversity of functions is higher in that community.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+::: imgcap
+![](SVG_images/Function_combo.svg)
+:::
 :::
 :::
 
@@ -55,48 +78,53 @@ The two forest types occur in different life zones and support some different sp
 
 ::: columns
 ::: {.column width="50%"}
-# Maximum chain length
+While similar, on average ***maximum chain length*** (calculated as the mean guild maximum chain length (mcl)) is higher in Sierran mixed conifer compared to red fir forest[^2].
 
-While similar, on average maximum chain length (calculated as the mean guild maximum chain length (mcl)) is higher in Sierran mixed conifer compared to red fir forest. This suggests that SMC will be less resilient to the loss of top (apex) predators compared to red fir forests.
+This difference suggests that SMC may be less resilient to the loss of top (apex) predators compared to red fir forests.
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![Figure shows, for consumer guilds, the mean guild values (dots) and boxplot produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red).](SVG_images/MCL_plot.svg)
+::: imgcap
+![](SVG_images/MCL_plot.svg){width="80%"}
 :::
 :::
+:::
+
+[^2]: Figure on the right shows, for consumer guilds, the mean guild values (dots) and boxplot produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red).
 
 <br> <br>
 
 ::: columns
 ::: {.column width="50%"}
-# Modularity
+***Modularity*** is similar and generally high for both forest types[^4].
 
-Modularity is similar and generally high for both forest types -- this can be good because it means that if a random species is lost, then their loss will is less likely to have cascading impacts on the rest of the community. However, high modularity can also occur when there has been a simplification of the system - such as the loss of top predators. This is the case for the central sierras, where predators including grizzly bears, wolves, and wolverines went extinct when westward expansion by pioneers occurred in the late 1800s and early 1900s.
+High modulairty (a high number of subcommunities) can be good because it means that if a random species is lost, then their loss will is less likely to have cascading impacts on the rest of the community. However, high modularity can also occur when there has been a simplification of the system - such as the loss of top predators. This is the case for the central sierras, where predators including grizzly bears, wolves, and wolverines went extinct when westward expansion by pioneers occurred in the late 1800s and early 1900s.
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![Figure shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red).](SVG_images/Modularity_combo.svg)
+::: imgcap
+![](SVG_images/Modularity_combo.svg)
 :::
 :::
 
 <br> <br>
 
-# Future applications
+## Future applications
+
+![](images/Applications_Collage_reduced.png)
 
 **Structure vs composition:** Evaluating how communities (composition) vary based on structure (canopy density and age) will be important for communicating to managers how best to manage for dynamic landscapes.
 
 **Landscape scenarios:** LANDIS II scenarios simulate how different management scenarios will impact future landscape composition. Evaluating how communities are impacted by different types of management will be critical to understand how decisions now can support resilient wildlife communities into the future.
-
-**Food web scenarios:** perturbing food webs in different scenarios can be a valuable tool to understand how communities may respond differentially to perturbations.
-
-![](images/Applications_Collage_reduced.png)
 :::
+
+[^4]: Figure shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red).
 
 :::
 

@@ -104,7 +104,7 @@ If a community has a high functional dissimilarity that suggests that there is a
 
 ::: columns
 ::: {.column width="50%"}
-**Maximum chain length,** describes the number of links between a consumer species and a primary producer. 
+**Maximum chain length,** describes the number of links between a consumer species and a primary producer.
 
 Wildlife communities with long chain lengths, have top predators. These top predators can be more susceptible to anthropogenic change, and their loss may have cascading impacts on the rest of the community.
 :::
@@ -123,9 +123,9 @@ Wildlife communities with long chain lengths, have top predators. These top pred
 
 ::: columns
 ::: {.column width="50%"}
-**Modularity,** describes the number of sub communities present in a community. 
+**Modularity,** describes the number of sub communities present in a community.
 
-***Sub communities are made up of species who tend to interact with each other more than with other species within the community (indicated by the blue and pink polygons).*** 
+***Sub communities are made up of species who tend to interact with each other more than with other species within the community (indicated by the blue and pink polygons).***
 
 Communities with high modularity are hypothesized to be more stable and less vulnerable to random species loss because if a species is loss, it's impact is generally isolated to that subcommunity, and may not have cascading effects on the rest of the community.
 :::
