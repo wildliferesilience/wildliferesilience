@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -61,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="index.css">
 </head>
 
 <body class="nav-fixed">
@@ -134,8 +134,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#richness" id="toc-richness" class="nav-link active" data-scroll-target="#richness">Richness</a></li>
-  <li><a href="#more-metrics" id="toc-more-metrics" class="nav-link" data-scroll-target="#more-metrics">More metrics</a></li>
+  <li><a href="#food-web-metrics" id="toc-food-web-metrics" class="nav-link active" data-scroll-target="#food-web-metrics">Food web metrics</a>
+  <ul class="collapse">
+  <li><a href="#metrics-that-describe-community-composition" id="toc-metrics-that-describe-community-composition" class="nav-link" data-scroll-target="#metrics-that-describe-community-composition">Metrics that describe community composition</a></li>
+  <li><a href="#metrics-that-describe-structure-and-function" id="toc-metrics-that-describe-structure-and-function" class="nav-link" data-scroll-target="#metrics-that-describe-structure-and-function">Metrics that describe structure and function</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -167,9 +170,16 @@ ul.task-list li input[type="checkbox"] {
         overflow: hidden;
     }
 </style>
+<section id="food-web-metrics" class="level2">
+<h2 data-anchor-id="food-web-metrics">Food web metrics</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/ForestType_Collage.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
 <p><strong><em>Evaluating food web metrics</em></strong> for wildlife communities across different forest types allows us to assess current conditions and predict how wildlife communities may respond to different stressors associated with environmental change. The following are a short list of example metrics and what they can tell us about the composition, structure, and resilience of a community.&nbsp;&nbsp;</p>
-<section id="richness" class="level1">
-<h1>Richness</h1>
+<section id="metrics-that-describe-community-composition" class="level3">
+<h3 data-anchor-id="metrics-that-describe-community-composition">Metrics that describe community composition</h3>
 <!-- Three basic metrics include **guild richness**, and **functional** **dissimilarity**, vs **functional similarity**.
 
 ::: callout-tip
@@ -206,8 +216,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <p><br> <br></p>
 </section>
-<section id="more-metrics" class="level1">
-<h1>More metrics</h1>
+<section id="metrics-that-describe-structure-and-function" class="level3">
+<h3 data-anchor-id="metrics-that-describe-structure-and-function">Metrics that describe structure and function</h3>
 <div class="columns">
 <div class="column" style="width:50%;">
 <p><strong>Functional similarity</strong>, describes how similar species are in their function within the food web (i.e., their predator and prey relationships - species one (pink links) to species two (purple links)). Communities with high similarity (or redundancy) are considered to be more stable/resilient to random species loss. This is because if one species is lost then there is a high likelihood that there is another species in the community that will perform that role, and overall function will not decline.</p>
@@ -236,7 +246,6 @@ ul.task-list li input[type="checkbox"] {
 <div class="columns">
 <div class="column" style="width:50%;">
 <p><strong>Modularity,</strong> describes the number of sub communities present in a community. Sub communities are made up of species who tend to interact with each other more than with other species within the community (indicated by the blue and pink polygons). Communities with high modularity are hypothesized to be more stable and less vulnerable to random species loss because if a species is loss, it’s impact is generally isolated to that subcommunity, and may not have cascading effects on the rest of the community.</p>
-<p>Currently we are estimating food webs at multiple spatial scales in the <a href="./central_sierras.html" title="Central Sierras">Central Sierras</a> with the potential for multiple applications relating to describing communities, management, and climate change.</p>
 </div><div class="column" style="width:10%;">
 
 </div><div class="column" style="width:40%;">
@@ -245,8 +254,10 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
+<p><strong><em>Currently</em></strong> we are estimating food webs at multiple spatial scales in the <a href="./central_sierras.html" title="Central Sierras">Central Sierra</a> with the potential for multiple applications relating to describing communities, management, and climate change.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -270,13 +281,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

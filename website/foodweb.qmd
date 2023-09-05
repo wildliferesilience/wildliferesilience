@@ -26,7 +26,7 @@ format:
 
 Food chains illustrate predator prey interactions where (A): primary producers are at the bottom of the food web (green, plants), followed by primary consumers (yellow, herbivorous arthropods), secondary consumers (orange, omnivores like quail), tertiary consumers (red, carnivores like foxes), and apex predators at the top (purple, top carnivores like mountain lions)[^1]. Communities are made up of many food chains, and can get complex fast. (B) With hundreds of species (dots) and interactions (links between dots), food webs are a useful tool to capture those complex interactions.
 
-![](SVG_images/FoodWeb_Circle_Chain_InvertCol2.svg){fig-align="center" width="70%"}
+![](SVG_images/FoodWeb_Circle_Chain_InvertCol.svg){fig-align="center" width="70%"}
 
 ## How we build a food web
 
