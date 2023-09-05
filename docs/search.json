@@ -158,7 +158,7 @@
     "href": "foodweb.html",
     "title": "Food Webs",
     "section": "",
-    "text": "Food webs are a valuable way to represent the complexity of biodiversity within a local wildlife community, by taking into account species and their interactions.\nFood chains illustrate predator prey interactions where (A): primary producers are at the bottom of the food web (green), followed by primary consumers (yellow), secondary consumers (orange), tertiary consumers (red), and apex predators at the top (purple)1. Communities are made up of many food chains, and can get complex fast. (B) With hundreds of species (dots) and interactions (links between dots), food webs are a useful tool to capture those complex interactions.\n\n\n\n\n\n\n\n\nHow do we estimate a dynamic food web model for a given community within the Sierra Nevada? There are many different vegetation types present in the Central Sierra, to build a food webs for a given forest community within the Central Sierra we follow these five steps:"
+    "text": "Food webs are a valuable way to represent the complexity of biodiversity within a local wildlife community, by taking into account species and their interactions.\nFood chains illustrate predator prey interactions where (A): primary producers are at the bottom of the food web (green, plants), followed by primary consumers (yellow, herbivorous arthropods), secondary consumers (orange, omnivores like quail), tertiary consumers (red, carnivores like foxes), and apex predators at the top (purple, top carnivores like mountain lions)1. Communities are made up of many food chains, and can get complex fast. (B) With hundreds of species (dots) and interactions (links between dots), food webs are a useful tool to capture those complex interactions.\n\n\n\n\n\n\n\n\nHow do we estimate a dynamic food web model for a given community within the Sierra Nevada? There are many different vegetation types present in the Central Sierra, to build a food webs for a given forest community within the Central Sierra we follow these five steps:\n:::"
   },
   {
     "objectID": "foodweb.html#footnotes",
@@ -235,7 +235,7 @@
     "href": "resilience.html#wildlife-community-resilience",
     "title": "Wildlife Resilience",
     "section": "Wildlife community resilience",
-    "text": "Wildlife community resilience\nOne goal of conservation and management is to support the health and resilience of forested landscapes. Biodiversity is important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience is challenging. To address this challenge, the Wildlife Resilience Project is developing metrics to bring biodiversity and forest structure together to quantify and evaluate wildlife community health and resilience.\nTo learn more, see Biodiversity. \nResilience is a dynamic process, below is a diagram that illustrates resilience in a complex system (green surface). As the system evolves, it’s current ‘state’ is defined by a ball travelling to different positions along the surface. Deeper ‘troughs’ represent increased resilience. If a disturbance can push the system sufficiently far (e.g. push a ball out of a trough) then the system can move to a new state (follow the dashed arrow to the new trough on the right)."
+    "text": "Wildlife community resilience\nOne goal of conservation and management is to support the health and resilience of forested landscapes. Biodiversity is important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience is challenging. To address this challenge, the Wildlife Resilience Project is developing metrics to bring biodiversity and forest structure together to quantify and evaluate wildlife community health and resilience.\nTo learn more, see Biodiversity. \nResilience is a dynamic process, below is a diagram that illustrates resilience in a complex system (green surface). As the system changes (for example, a forest grows), its current ‘position’ is defined by a ball traveling to different positions along the surface. Deeper ‘troughs’ represent increased resilience (forests that are less likely to transition). If a disturbance can push the system sufficiently far (e.g. push a ball out of a trough) (a large fire) then the system can move to a new state (follow the dashed arrow to the new trough on the right) (for example, a forest transitioning to a meadow or chaparral)."
   },
   {
     "objectID": "biodiversity.html#how-to-measure-biodiversity",
@@ -243,5 +243,19 @@
     "title": "Biodiversity",
     "section": "How to measure biodiversity",
     "text": "How to measure biodiversity\nBiologists perform biodiversity inventories focused on species. Species metrics have long formed the basis of conservation and management research and policy.\n\n\n\n\n\n\nBiodiversity basics: species\n\n\n\nSpecies: A fundamental unit of biodiversity, though often hard to precisely define, species can be thought of as the largest natural group that share a common gene-pool.\nSpecies richness: The count of the total number of different species in a given area.\nSpecies diversity: Diversity measures summarize both richness and distribution of numbers for each species in a community (known as their relative abundance)."
+  },
+  {
+    "objectID": "foodweb.html#food-webs-1",
+    "href": "foodweb.html#food-webs-1",
+    "title": "Food Webs",
+    "section": "Food webs",
+    "text": "Food webs\n\n\n\n\n\nFood webs are a valuable way to represent the complexity of biodiversity within a local wildlife community, by taking into account species and their interactions.\nFood chains illustrate predator prey interactions where (A): primary producers are at the bottom of the food web (green, plants), followed by primary consumers (yellow, herbivorous arthropods), secondary consumers (orange, omnivores like quail), tertiary consumers (red, carnivores like foxes), and apex predators at the top (purple, top carnivores like mountain lions)2. Communities are made up of many food chains, and can get complex fast. (B) With hundreds of species (dots) and interactions (links between dots), food webs are a useful tool to capture those complex interactions."
+  },
+  {
+    "objectID": "foodweb.html#how-we-build-a-food-web-1",
+    "href": "foodweb.html#how-we-build-a-food-web-1",
+    "title": "Food Webs",
+    "section": "How we build a food web",
+    "text": "How we build a food web\nHow do we estimate a dynamic food web model for a given community within the Sierra Nevada? There are many different vegetation types present in the Central Sierra, to build a food webs for a given forest community within the Central Sierra we follow these five steps:"
   }
 ]
