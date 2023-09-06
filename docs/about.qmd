@@ -35,6 +35,9 @@ We are a group of scientists from the United States Forest Service Pacific SW Re
 
 <p><a href="mailto:wildliferesilience@gmail.com">Send email</a></p>
 
+
+Website development and programming: Mark Shulist
+
 <!-- ::: columns -->
 
 <!-- ::: {.column width="100%"} -->

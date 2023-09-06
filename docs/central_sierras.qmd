@@ -98,7 +98,7 @@ Examining wildlife communities at the watershed scale is important because this 
 
 ### Lake Tahoe basin
 
-Lake Tahoe basin is located between two biogeographic provinces, the Great Basin and the Sierra Nevada, and supports high biodiversity. There are over 1,200 species of plants and animals in the basin. The basin also has a steep elevational gradient which means that it spans four life zones: lower montane, upper montane, subalpine, and alpine. Eight major vegetation types are common within the Lake Tahoe basin (A) and they range in their density across the elevational gradient (B[^3]).
+Lake Tahoe basin supports high biodiversity, including over 1,200 species of plants and animals. The basin also has a steep elevational gradient which means that it spans four life zones: lower montane, upper montane, subalpine, and alpine. Eight major vegetation types are common within the Lake Tahoe basin (A) and they range in their density across the elevational gradient (B[^3]).
 
 [^3]: The vegetation types that occur in the Lake Tahoe basin vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in figure B correspond to vegetation type colors in figure A.
 

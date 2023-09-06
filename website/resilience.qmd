@@ -18,7 +18,7 @@ In California, both state and federal agencies are spending billions of dollars 
 
 ## The link between forest resilience and biodiversity
 
-Forests are very biodiverse, in fact, the world's forests harbor the vast majority of terrestrial species[@thestat2020b]. Species provide critical ecosystem services including: pollination, seed dispersal, and pest and disease control. Importantly, biodiversity provides the raw material for ecosystems to respond to change, bounce back or completely regenerate after a major disturbance. 
+Forests are very biodiverse, in fact, the world's forests harbor the vast majority of terrestrial species [@thestat2020b]. Species provide critical ecosystem services including: pollination, seed dispersal, and pest and disease control. Importantly, biodiversity provides the raw material for ecosystems to respond to change, bounce back or completely regenerate after a major disturbance. 
 
 ::: callout-tip
 ## Definitions

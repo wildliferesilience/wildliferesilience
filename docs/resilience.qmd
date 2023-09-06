@@ -18,7 +18,7 @@ In California, both state and federal agencies are spending billions of dollars 
 
 ## The link between forest resilience and biodiversity
 
-Forests are very biodiverse, in fact, the world's forests harbor the vast majority of terrestrial species[@thestat2020b]. Species provide critical ecosystem services including: pollination, seed dispersal, and pest and disease control. Importantly, biodiversity provides the raw material for ecosystems to respond to change, bounce back or completely regenerate after a major disturbance. 
+Forests are very biodiverse, in fact, the world's forests harbor the vast majority of terrestrial species [@thestat2020b]. Species provide critical ecosystem services including: pollination, seed dispersal, and pest and disease control. Importantly, biodiversity provides the raw material for ecosystems to respond to change, bounce back or completely regenerate after a major disturbance. 
 
 ::: callout-tip
 ## Definitions
@@ -36,6 +36,8 @@ Forests are very biodiverse, in fact, the world's forests harbor the vast majori
 One goal of conservation and management is to support the health and resilience of forested landscapes. Biodiversity is important for enhancing both. However, evaluating resilience alone or links between biodiversity, health and resilience is challenging. To address this challenge, the Wildlife Resilience Project is developing metrics to bring biodiversity and forest structure together to quantify and evaluate wildlife community health and resilience. 
 
 To learn more, see [Biodiversity](biodiversity.qmd). <!-- <iframe src="pdf/Metrics_Wildlife_Community_Resilience_Summary.pdf" width="100%" height="1000px"> -->
+
+![](images/ForestType_Collage.png){fig-align="center"}
 
 ***Resilience is a dynamic process,*** below is a diagram that illustrates resilience in a complex system (green surface). As the system changes (for example, a forest grows), its current 'position' is defined by a ball traveling to different positions along the surface. Deeper 'troughs' represent increased resilience (forests that are less likely to transition). If a disturbance can push the system sufficiently far (e.g. push a ball out of a trough) (a large fire) then the system can move to a new state (follow the dashed arrow to the new trough on the right) (for example, a forest transitioning to a meadow or chaparral).
 
