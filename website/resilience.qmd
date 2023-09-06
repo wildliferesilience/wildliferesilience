@@ -37,6 +37,8 @@ One goal of conservation and management is to support the health and resilience 
 
 To learn more, see [Biodiversity](biodiversity.qmd). <!-- <iframe src="pdf/Metrics_Wildlife_Community_Resilience_Summary.pdf" width="100%" height="1000px"> -->
 
+![](images/ForestType_Collage.png){fig-align="center"}
+
 ***Resilience is a dynamic process,*** below is a diagram that illustrates resilience in a complex system (green surface). As the system changes (for example, a forest grows), its current 'position' is defined by a ball traveling to different positions along the surface. Deeper 'troughs' represent increased resilience (forests that are less likely to transition). If a disturbance can push the system sufficiently far (e.g. push a ball out of a trough) (a large fire) then the system can move to a new state (follow the dashed arrow to the new trough on the right) (for example, a forest transitioning to a meadow or chaparral).
 
 [![](images/Roopnarine_Angielczyk_2016_Resilience_Image.png){fig-alt="Figure from Roopnarine and Angielczyk 2016." fig-align="center"}](https://www.researchgate.net/publication/309242056_The_Stability_of_Ecological_Communities_as_an_Agent_of_Evolutionary_Selection)
