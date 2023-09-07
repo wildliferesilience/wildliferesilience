@@ -12,7 +12,7 @@ format:
 
 Resilient Sierra Nevada forests are healthy forests that can bounce back after disturbances like drought, fire, pests and disease. Ensuring forests are resilient is beneficial because they support/facilitate clean water, clean air, places to recreate, fire protection, and economic opportunities.
 
-Naturally forests have evolved to be resilient but over the last decade, the increase in wildfire places much of Sierra Nevada at risk, such that disturbances may overwhelm their ability to respond. In the face of climate-driven increases in fire conditions exacerbated by a long history of forest fuel buildup due to fire suppression, federal and state governments, industry, forest communities and NGOs are all working together to increase the pace and scale of the restoration of forest resilience.
+Naturally forests have evolved to be resilient but over the last decade, the increase in wildfire threatens much of the Sierra Nevada, such that disturbances may overwhelm their ability to respond. In the face of climate-driven increases in fire conditions exacerbated by a long history of forest fuel buildup due to fire suppression, federal and state governments, industry, forest communities and NGOs are all working together to increase the pace and scale of the restoration of forest resilience.
 
 In California, both state and federal agencies are spending billions of dollars to manage forests for climate and fire resilience. But what does this resilience management mean for the conservation and enhancement of the state's wildlife?
 
@@ -23,11 +23,11 @@ Forests are very biodiverse, in fact, the world's forests harbor the vast majori
 ::: callout-tip
 ## Definitions
 
-**Resilience**: the ability of a community to maintain integrity/character after a disturbance.
+**Resilience**: the ability of a wildlife community to recover and maintain its character after a disturbance.
 
 **Biodiversity**: the variety of life, in all forms. This includes the variety of species, the interactions between these species, and other functions life performs in communities and ecosystems.
 
-**Health**: communities that are supportive of a variety of ecological processes.
+**Health**: healthy wildlife communities are resilient and support of a variety of ecological processes.
 :::
 
 

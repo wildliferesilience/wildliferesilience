@@ -72,7 +72,7 @@ leaflet(tcsi_all) %>%
   htmlwidgets::onRender(jsCode, data = tcsi_all@data)
 ```
 
-## Tahoe-Central Sierra Landsapce
+## Tahoe-Central Sierra Landscape
 
 The Tahoe-Central Sierra (TCSI) landscape is a 1 million ha section of Central California forested land. The TCSI is home to a high diversity of vegetation communities, flora, and fauna.
 
