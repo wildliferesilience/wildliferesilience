@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -61,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="index.css">
 </head>
 
 <body class="nav-fixed">
@@ -134,12 +134,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#the-project" id="toc-the-project" class="nav-link active" data-scroll-target="#the-project">The project</a>
+  <li><a href="#about-us-and-the-project" id="toc-about-us-and-the-project" class="nav-link active" data-scroll-target="#about-us-and-the-project">About Us and The Project</a>
   <ul class="collapse">
   <li><a href="#overall-project-objectives" id="toc-overall-project-objectives" class="nav-link" data-scroll-target="#overall-project-objectives">Overall Project Objectives</a></li>
   <li><a href="#questions-for-you" id="toc-questions-for-you" class="nav-link" data-scroll-target="#questions-for-you">Questions for you</a></li>
   </ul></li>
-  <li><a href="#who-we-are" id="toc-who-we-are" class="nav-link" data-scroll-target="#who-we-are">Who we are</a>
+  <li><a href="#meet-the-team" id="toc-meet-the-team" class="nav-link" data-scroll-target="#meet-the-team">Meet the team</a>
   <ul class="collapse">
   <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
   </ul></li>
@@ -166,23 +166,29 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="the-project" class="level2">
-<h2 class="anchored" data-anchor-id="the-project">The project</h2>
+<section id="about-us-and-the-project" class="level2">
+<h2 data-anchor-id="about-us-and-the-project">About Us and The Project</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/ForestType_Collage.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
 <p>In December of 2020 the <a href="https://wcb.ca.gov/">California Wildlife Conservation Board</a> funded a planning and technical assistance project to develop “Metrics of Wildlife Community Resilience for Sierra Nevada Forests.” This project allowed us to conduct a series of workshops, outreach meetings and underlying scientific, data and computational work to develop the links between wildlife, plant communities and forest resilience. We are using this site to communicate the resulting work the broadest audience possible.</p>
 <section id="overall-project-objectives" class="level3">
-<h3 class="anchored" data-anchor-id="overall-project-objectives">Overall Project Objectives</h3>
+<h3 data-anchor-id="overall-project-objectives">Overall Project Objectives</h3>
 <p>To develop metrics to assess the current and future resilience of forest wildlife communities to stressors associated with climate change that will help inform land managers how different management actions may influence wildlife community resilience into the future. These metrics will ultimately contribute to the management, conservation and restoration of Sierra Nevada wildlife communities.</p>
 </section>
 <section id="questions-for-you" class="level3">
-<h3 class="anchored" data-anchor-id="questions-for-you">Questions for you</h3>
+<h3 data-anchor-id="questions-for-you">Questions for you</h3>
 <ul>
-<li>How would wildlife community resilience metrics be useful in your work and/or study system?</li>
-<li>What would make them more useful to you? (e.g., specific scenario examples) -Any comments, questions, or suggestions?</li>
+<li>How would metrics of wildlife community resilience be useful in your work and/or study system? For example, is there a specific spatial scale or group of species that you’re interested in?</li>
+<li>What would make them more useful to you? (e.g., specific scenario examples)</li>
+<li>Any general comments, questions, or suggestions?</li>
 </ul>
 </section>
 </section>
-<section id="who-we-are" class="level2">
-<h2 class="anchored" data-anchor-id="who-we-are">Who we are</h2>
+<section id="meet-the-team" class="level2">
+<h2 data-anchor-id="meet-the-team">Meet the team</h2>
 <p>We are a group of scientists from the United States Forest Service Pacific SW Research Lab, The USFS National Forest System and the California Academy of Sciences. Our collaborative transdisciplinary team includes (listed alphabetically):</p>
 <ul>
 <li><a href="https://www.calacademy.org/staff/ibss/ornithology-and-mammalogy/jack-dumbacher">Dr.&nbsp;Jack Dumbacher</a> (Curator of Ornithology and Mammalogy, California Academy of Sciences).</li>
@@ -195,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://scholar.google.com/citations?hl=en&amp;user=1uCsxdkAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Dr.&nbsp;Rebecca Wilcox</a> (Metrics of Wildlife Resilience Post-doc, California Academy of Sciences).</li>
 </ul>
 <section id="contact" class="level3">
-<h3 class="anchored" data-anchor-id="contact">Contact</h3>
+<h3 data-anchor-id="contact">Contact</h3>
 <p>
 <a href="mailto:wildliferesilience@gmail.com">Send email</a>
 </p>
@@ -231,13 +237,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
