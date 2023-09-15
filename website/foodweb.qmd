@@ -64,9 +64,7 @@ Food chains illustrate predator prey interactions where (A): primary producers a
 ::: {.column width="50%"}
 **Step 2: Assign species to guilds:** for each species we collect information on their behaviors, habits, predators, prey, and body size. Using this information we place each species into **guilds** with similar species.
 
-Guilds represent groups of species that are similar -- and perform similar functions within the community. For example, lodgepole chipmunk (left) and yellow-pine (right) chipmunks are small mammals who have similar behaviors, diets, predators, prey, habitats, and body size and are placed into a guild together.
-
-![](SVG_images/Chipmunk.svg)
+Guilds represent groups of species that are similar -- and perform similar functions within the community. For example, lodgepole chipmunk and yellow-pine chipmunks are small mammals who have similar behaviors, diets, predators, prey, habitats, and body size and are placed into a guild together.
 
 To assign species into guilds we leverage information from scientific literature, trait databases, and expert opinions.
 
