@@ -28,13 +28,13 @@ Two main forest types in the [Lake Tahoe basin](central_sierras.qmd) (A) are Sie
 
 ![](SVG_images/LTB_map.jpg){fig-align="center"}
 
-Constructing food webs of two forest wildlife communities that we know well has two goals: (1) validate our metrics, do metrics match our understanding of the system? Are we able to create metrics that measure the system holistically. (2) Depending on if metrics are similar or differ, this can help us understand/predict how these systems respond to disturbances.
+Constructing food webs of two forest wildlife communities that we know well has two goals: (1) validate our metrics, do metrics match our understanding of the system? Are we able to create metrics that measure the system holistically? (2) Determine if metrics are similar or different, doing so will provide insights into whether communities my respond differently to disturbances.
 
 ## Community composition
 
 ::: columns
 ::: {.column width="50%"}
-***Species (A) and guild richness (B - functional groups)*** are higher in Sierran mixed conifer forests compared to red fir forests[^1]. However, just because red fir forest is less biodiverse (less species & guild richness), doesn't mean it's less valuable, they are different.
+***Species (A) and guild richness (B - functional groups)*** are higher in Sierran mixed conifer forests compared to red fir forests.[^1] However, just because red fir forest is less biodiverse (less species & guild richness), doesn't mean it's less valuable, they are different.
 
 The two forest types occur in different life zones and support some different species. For example, Clark's nutcrackers are important seed dispersers of conifers, and they are found in higher elevation red fir forests. While Sierran mixed conifer forests are home stripped and spotted skunks, who are mesocarnivores, which can be important in maintaining food web stability.
 :::
@@ -44,12 +44,12 @@ The two forest types occur in different life zones and support some different sp
 
 ::: {.column width="40%"}
 ::: imgcap
-![](SVG_images/SR_GR_combo.svg)
+![](SVG_images/Richness_RFR_SMC.svg)
 :::
 :::
 :::
 
-[^1]: Figure on right shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red).
+[^1]: Figure on right shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
 
 <br> <br>
 
@@ -57,9 +57,9 @@ The two forest types occur in different life zones and support some different sp
 
 ::: columns
 ::: {.column width="50%"}
-***Functional similarity*** is generally higher in red fir forests compared to Sierran mixed conifer forests (A) and the opposite is true for functional dissimilarity (B[^3]).
+***Functional similarity*** is generally higher in red fir forests compared to Sierran mixed conifer forests (A) and the opposite is true for functional dissimilarity (B).[^3]
 
-[^3]: Figure shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red).
+[^3]: Figure shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
 
 This suggests that because species generally perform more similar functions, that red fir forests will be more stable (able to maintain function) in the face of random species loss. Conversely, functional dissimilarity is higher in Sierran mixed conifer suggesting that the diversity of functions is higher in that community.
 :::
@@ -69,7 +69,7 @@ This suggests that because species generally perform more similar functions, tha
 
 ::: {.column width="40%"}
 ::: imgcap
-![](SVG_images/Function_combo.svg)
+![](SVG_images/Function_RFR_SMC.svg)
 :::
 :::
 :::
@@ -78,7 +78,7 @@ This suggests that because species generally perform more similar functions, tha
 
 ::: columns
 ::: {.column width="50%"}
-While similar, on average ***maximum chain length*** (calculated as the mean guild maximum chain length (mcl)) is higher in Sierran mixed conifer compared to red fir forest[^2].
+While similar, on average ***maximum chain length*** (calculated as the mean guild maximum chain length (mcl)) is higher in Sierran mixed conifer compared to red fir forest.[^2]
 
 This difference suggests that SMC may be less resilient to the loss of top (apex) predators compared to red fir forests.
 :::
@@ -88,12 +88,12 @@ This difference suggests that SMC may be less resilient to the loss of top (apex
 
 ::: {.column width="40%"}
 ::: imgcap
-![](SVG_images/MCL_plot.svg){width="80%"}
+![](SVG_images/MCL_RFR_SMC.svg){width="100%"}
 :::
 :::
 :::
 
-[^2]: Figure on the right shows, for consumer guilds, the mean guild values (dots) and boxplot produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red).
+[^2]: Figure on the right shows, for consumer guilds, the mean guild values (dots) and boxplot produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
 
 <br> <br>
 
@@ -101,7 +101,7 @@ This difference suggests that SMC may be less resilient to the loss of top (apex
 ::: {.column width="50%"}
 ***Modularity*** is similar and generally high for both forest types[^4].
 
-High modularity (a high number of subcommunities) can be good because it means that if a random species is lost, then their loss will be less likely to have cascading impacts on the rest of the community. However, high modularity can also occur when there has been a simplification of the system - such as the loss of top predators. This is the case for the central sierras, where predators including grizzly bears, wolves, and wolverines went extinct when westward expansion by pioneers occurred in the late 1800s and early 1900s.
+High modularity (a high number of subcommunities) can be good because it means that if a random species is lost, then their loss will be less likely to have cascading impacts on the rest of the community. However, high modularity can also occur when there has been a simplification of the system - such as the loss of top predators. This is the case for the central sierras, where predators including grizzly bears and wolverines went extinct when westward expansion by pioneers occurred in the late 1800s and early 1900s.
 :::
 
 ::: {.column width="10%"}
@@ -109,7 +109,7 @@ High modularity (a high number of subcommunities) can be good because it means t
 
 ::: {.column width="40%"}
 ::: imgcap
-![](SVG_images/Modularity_combo.svg)
+![](SVG_images/Modularity_RFR_SMC.svg)
 :::
 :::
 
