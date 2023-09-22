@@ -85,7 +85,7 @@ Species richness is a very commonly used metric, and management often seeks to i
 
 ***For example, on the right, the two tertiary consumers (pink and purple) are not very similar in their predator prey interactions (colored arrows). We measure pairwise similarity to calculate a metric for the whole community.***
 
-Communities with high similarity (or redundancy) are considered to be more resilient to random species loss. This is because if one species is lost then there is a high likelihood that there is another species in the community that will perform that role (e.g., a guild mate), and overall wildlife community function is less likely to decline.
+**Take home:** communities with high similarity (or redundancy) are considered to be more resilient to random species loss. This is because if one species is lost then there is a high likelihood that there is another species in the community that will perform that role (e.g., a guild mate), and overall wildlife community function is less likely to decline.
 :::
 
 ::: {.column width="10%"}
@@ -104,7 +104,7 @@ Communities with high similarity (or redundancy) are considered to be more resil
 ::: {.column width="50%"}
 **Maximum chain length,** describes the number of links between a consumer species and a primary producer.
 
-Wildlife communities with long chain lengths, have top predators. These top predators can be more susceptible to anthropogenic change, and their loss may have cascading impacts on the rest of the community.
+**Take home:** wildlife communities with long chain lengths, have top predators. These top predators can be more susceptible to anthropogenic change, and their loss may have cascading impacts on the rest of the community.
 :::
 
 ::: {.column width="10%"}
@@ -125,7 +125,7 @@ Wildlife communities with long chain lengths, have top predators. These top pred
 
 ***Sub communities are made up of species who tend to interact with each other more than with other species within the community (indicated by the blue and pink polygons).***
 
-Communities with high modularity are hypothesized to be more stable and less vulnerable to random species loss. This is because if a species is lost, its impact is generally isolated to that subcommunity, and may not have cascading effects on the rest of the community.
+**Take home:** communities with high modularity are hypothesized to be more stable and less vulnerable to random species loss. This is because if a species is lost, its impact is generally isolated to that subcommunity, and may not have cascading effects on the rest of the community.
 :::
 
 ::: {.column width="10%"}
@@ -138,4 +138,4 @@ Communities with high modularity are hypothesized to be more stable and less vul
 :::
 :::
 
-***Currently*** we are estimating food webs at multiple spatial scales in the [Central Sierra](central_sierras.qmd "Central Sierras") with the potential for multiple applications relating to describing communities, management, and climate change.
+***To compare these related metrics*** we are currenlty estimating food webs at multiple spatial scales in the [Central Sierra](central_sierras.qmd "Central Sierras") with the potential for multiple applications relating to describing communities, management, and climate change.

@@ -56,7 +56,7 @@
 <polyline points='192.83,325.19 192.83,322.45 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
 <text x='103.34' y='335.99' text-anchor='middle' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.67px' lengthAdjust='spacingAndGlyphs'>SMC</text>
 <text x='192.83' y='335.99' text-anchor='middle' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.67px' lengthAdjust='spacingAndGlyphs'>RFR</text>
-<text x='148.08' y='351.42' text-anchor='middle' style='font-size: 14.00px; font-family: "Arial";' textLength='97.26px' lengthAdjust='spacingAndGlyphs'>Vegetation type</text>
+<text x='148.08' y='351.42' text-anchor='middle' style='font-size: 14.00px; font-family: "Arial";' textLength='70.01px' lengthAdjust='spacingAndGlyphs'>Forest type</text>
 <text transform='translate(15.52,163.96) rotate(-90)' text-anchor='middle' style='font-size: 14.00px; font-family: "Arial";' textLength='64.57px' lengthAdjust='spacingAndGlyphs'>Modularity</text>
 </g>
 </svg>

@@ -20,7 +20,7 @@ format:
 
 **Metrics that quantify entire communities** can provide useful information to track, manage and promote a system's health, and its ability to be resistant in the face of disturbance and threats associated with climate change.
 
-Two main forest types in the [Lake Tahoe basin](central_sierras.qmd) are Sierran mixed conifer and red fir forests. As climate warms, it is predicted that red fir forests will decline and likely transition to Sierran mixed conifer (hereafter mixed conifer). Constructing food webs of these two forest wildlife communities that we know well has two goals: (1) validate our metrics, do metrics match our understanding of the system? Are we able to create metrics that measure the system holistically? (2) Determine if metrics are similar or different, doing so will provide insights into what may be into what structure and function may be lost.
+Two main forest types in the [Lake Tahoe basin](central_sierras.qmd) are Sierran mixed conifer (hereafter mixed conifer) and red fir forests. As climate warms, it is predicted that red fir forests will decline and likely transition to mixed conifer. Constructing food webs of these two forest wildlife communities that we know well has two goals: (1) validate our metrics, do metrics match our understanding of the system? Are we able to create metrics that measure the system holistically? (2) Determine if metrics are similar or different, doing so will provide insights into what may be into what structure and function may be lost.
 
 ## How does the composition, structure, and fucntion of mixed conifer and red fir forest wildlife communities differ?
 
@@ -108,7 +108,7 @@ This suggests that multiple species may perform similar functions and that this 
 
 ::: columns
 ::: {.column width="50%"}
-While similar, on average ***maximum chain length*** (calculated as the mean guild maximum chain length (mcl)) is higher in Sierran mixed conifer compared to red fir forest.[^3]
+While similar, on average ***maximum chain length*** (calculated as the mean guild maximum chain length (mcl)) is higher in mixed conifer compared to red fir forest.[^3]
 
 In general longer chain lengths are associated with less stable systems, because the loss of a top (apex) predator can have cascading impacts on the rest of the community.
 :::
@@ -129,7 +129,7 @@ In general longer chain lengths are associated with less stable systems, because
 
 ::: columns
 ::: {.column width="50%"}
-***Modularity*** is similar and generally high for both forest types[^4].
+***Modularity*** is similar and generally high for both forest types.[^4]
 
 High modularity (a high number of subcommunities) can be good because it means that if a random species is lost, then their loss will be less likely to have cascading impacts on the rest of the community. However, high modularity can also occur when there has been a simplification of the system - such as the loss of top predators. This is the case for the Central Sierra, where predators including grizzly bears and wolverines went extinct when westward expansion by pioneers occurred in the late 1800s and early 1900s.
 :::
@@ -142,8 +142,9 @@ High modularity (a high number of subcommunities) can be good because it means t
 ![](SVG_images/Modularity_RFR_SMC.svg)
 :::
 :::
+:::
 
-
+[^4]: Figure shows mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
 
 <br> <br>
 
@@ -153,11 +154,11 @@ Overall these metrics suggest that the wildlife communities in mixed conifer and
 
 ![](images/Applications_Collage_reduced.png)
 
-**Composition:** Understanding patterns in wildlife community composition is important to understand what abiotic factors might explain variation in these patterns. Further, it's important for managers to understand how they can manage to support diverse wildlife communities.
+**Forest composition:** With variation in management strategies and climate change, forest composition is expected to change into the future. Identifying patterns in forest composition (e.g., vegetation type) and associated wildlife communities will be an important tool for managers to understand how to support diverse communities into the future. 
 
-**Structure:** Forest structure is important because it has important implications for fire Evaluating how communities vary based on structure (canopy density and age) will be important for communicating to managers how best to manage for dynamic landscapes.
+**Structure:** Forest structure is important for fire management. Understanding patterns in forest structure and how that influences communities will be important for communicating to managers how best to manage for dynamic landscapes that also support biodiversity.
 
-**Landscape management:** How to manage forested landscapes into the future is a large task. Evaluating how communities are impacted by different types of management will be critical to understand how decisions now can support resilient wildlife communities into the future. Further, performing this work on large spatial scales (e.g., the aforementioned [TCSI](central_sierras.qmd)) will help us to understand how wildlife communities expand across larger landscapes.
+**Landscape management:** Evaluating how communities are impacted by different types of management will be critical to understand how decisions now can support resilient wildlife communities into the future. Further, performing this work on large spatial scales (e.g., the aforementioned [TCSI](central_sierras.qmd)) will help us understand how management influences wildlife communities across larger landscapes.
 
 :::
 

@@ -122,6 +122,6 @@
 <text x='319.51' y='334.75' text-anchor='middle' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.67px' lengthAdjust='spacingAndGlyphs'>RFR</text>
 <text transform='translate(195.52,163.34) rotate(-90)' text-anchor='middle' style='font-size: 14.00px; font-family: "Arial";' textLength='88.68px' lengthAdjust='spacingAndGlyphs'>Guild richness</text>
 <text x='181.80' y='15.11' style='font-size: 14.00px; font-weight: bold; font-family: "Arial";' textLength='10.11px' lengthAdjust='spacingAndGlyphs'>B</text>
-<text x='180.00' y='356.40' text-anchor='middle' style='font-size: 14.00px; font-family: "Arial";' textLength='97.26px' lengthAdjust='spacingAndGlyphs'>Vegetation type</text>
+<text x='180.00' y='356.40' text-anchor='middle' style='font-size: 14.00px; font-family: "Arial";' textLength='70.01px' lengthAdjust='spacingAndGlyphs'>Forest type</text>
 </g>
 </svg>
