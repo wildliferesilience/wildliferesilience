@@ -20,23 +20,53 @@ format:
 
 **Metrics that quantify entire communities** can provide useful information to track, manage and promote a system's health, and its ability to be resistant in the face of disturbance and threats associated with climate change.
 
-Two main forest types in the [Lake Tahoe basin](central_sierras.qmd) are Sierran mixed conifer (B) and red fir (C) forests. These two forests differ in species composition, historic fire regimes, elevational range, and life zone (e.g., climate). As climate warms, it is predicted that red fir forests will decline and likely transition to Sierran mixed conifer. Constructing food webs of these two forest wildlife communities that we know well has two goals: (1) validate our metrics, do metrics match our understanding of the system? Are we able to create metrics that measure the system holistically? (2) Determine if metrics are similar or different, doing so will provide insights into what may be into what structure and function may be lost.
+Two main forest types in the [Lake Tahoe basin](central_sierras.qmd) are Sierran mixed conifer and red fir forests. As climate warms, it is predicted that red fir forests will decline and likely transition to Sierran mixed conifer (hereafter mixed conifer). Constructing food webs of these two forest wildlife communities that we know well has two goals: (1) validate our metrics, do metrics match our understanding of the system? Are we able to create metrics that measure the system holistically? (2) Determine if metrics are similar or different, doing so will provide insights into what may be into what structure and function may be lost.
 
-## How does the composition, structure, and function of Sierran mixed conifer and red fir forest wildlife communities differ?
+## How does the composition, structure, and fucntion of mixed conifer and red fir forest wildlife communities differ?
 
-Pic of SMC with hover: Sierran mixed conifer forest is the most widespread forest type in the basin, is characterized as a dynamic system (high productivity and dispersal), and a historically short fire rotation.
+::: container
+<a href="central_sierras.qmd" class="tile">
 
-Pic of RFR: Red fir forest is considered to be a static system (low energy system, often above snow line) and it has a historically moderate fire rotation.
+::: popout
+<h2>Mixed conifer</h2>
 
-![](images/ForestType_Collage.png){fig-align="center"}
+<img src="images/SMC_pic.png" alt="resilience"/>
+
+::: overlay
+::: text
+The most widespread forest type in the basin, is characterized as a dynamic system (high productivity and dispersal), and a historically short fire rotation.
+:::
+:::
+:::
+
+
+</a>
+
+<a href="central_sierras.qmd" class="tile">
+
+::: popout
+<h2>Red fir</h2>
+
+<img src="images/Red_fir.png" alt="food web"/>
+
+::: overlay
+::: text
+Considered to be a static system (low energy system, often above snow line) and historically had a moderate fire rotation.
+:::
+:::
+:::
+
+</a>
+:::
+
 
 ## Community composition
 
 ::: columns
 ::: {.column width="50%"}
-***Species (A) and guild richness (B - functional groups)*** are higher in Sierran mixed conifer forests compared to red fir forests.[^1] However, just because red fir forest is less biodiverse (less species & guild richness), doesn't mean it's less valuable, they are different.
+***Species (A) and guild richness (B - functional groups)*** are higher in mixed conifer forests compared to red fir forests.[^1] This matches our knowledge of the systems, and, just because red fir forest is less biodiverse (less species & guild richness), doesn't mean it's less valuable, they are different.
 
-The two forest types occur in different life zones and support some different species. For example, Clark's nutcrackers are important seed dispersers of conifers, and they are found in higher elevation red fir forests. While Sierran mixed conifer forests are home stripped and spotted skunks, who are mesocarnivores, which can be important in maintaining food web stability.
+The two forest types occur in different life zones and support some different species. For example, Clark's nutcrackers are important seed dispersers of conifers, and they are found in higher elevation red fir forests. While Mixed conifer forests are home stripped and spotted skunks, who are mesocarnivores, which can be important in maintaining food web stability.
 :::
 
 ::: {.column width="10%"}
@@ -49,7 +79,7 @@ The two forest types occur in different life zones and support some different sp
 :::
 :::
 
-[^1]: Figure on right shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
+[^1]: Figure on right shows mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
 
 <br> <br>
 
@@ -57,17 +87,22 @@ The two forest types occur in different life zones and support some different sp
 
 ::: columns
 ::: {.column width="50%"}
-***Functional similarity*** is generally similar in the two forests.[^2]
+***Functional similarity*** is generally alike in the two forests.[^2]
 
 This suggests that multiple species may perform similar functions and that this redundancy may allow communities to be more resilient in the face of random species loss.
+:::
 
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
 ::: imgcap
 ![](SVG_images/Function_RFR_SMC.svg)
 :::
 :::
 :::
 
-[^2]: Figure shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
+[^2]: Figure shows mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
 
 <br> <br>
 
@@ -78,6 +113,9 @@ While similar, on average ***maximum chain length*** (calculated as the mean gui
 In general longer chain lengths are associated with less stable systems, because the loss of a top (apex) predator can have cascading impacts on the rest of the community.
 :::
 
+::: {.column width="10%"}
+:::
+
 ::: {.column width="40%"}
 ::: imgcap
 ![](SVG_images/MCL_RFR_SMC.svg){width="100%"}
@@ -85,7 +123,7 @@ In general longer chain lengths are associated with less stable systems, because
 :::
 :::
 
-[^3]: Figure on the right shows, for consumer guilds, the mean guild values (dots) and boxplot produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
+[^3]: Figure shows mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
 
 <br> <br>
 
@@ -105,23 +143,23 @@ High modularity (a high number of subcommunities) can be good because it means t
 :::
 :::
 
+
+
 <br> <br>
+
+Overall these metrics suggest that the wildlife communities in mixed conifer and fed fir forests differ in their composition, but are similar in structure which suggests that they will respond similarly to the loss of random species or top predators. But this is just the start, using these metrics we can start to explore other questions and applications.  
 
 ## Future applications
 
 ![](images/Applications_Collage_reduced.png)
 
-Composition -- how do communities differ and how can management support diverse communities.
+**Composition:** Understanding patterns in wildlife community composition is important to understand what abiotic factors might explain variation in these patterns. Further, it's important for managers to understand how they can manage to support diverse wildlife communities.
 
-**Structure:** Evaluating how communities (composition) vary based on structure (canopy density and age) will be important for communicating to managers how best to manage for dynamic landscapes.
+**Structure:** Forest structure is important because it has important implications for fire Evaluating how communities vary based on structure (canopy density and age) will be important for communicating to managers how best to manage for dynamic landscapes.
 
-**Landscape management:** How does potential management influence wildlife communites-- as mentioned () wildife communities expand across larger landsape.
-
-Scenarios are a useful tool to simulate how different management scenarios will impact future landscape composition. Evaluating how communities are impacted by different types of management will be critical to understand how decisions now can support resilient wildlife communities into the future.
-:::
-
-[^4]: Figure shows mean values (circles) with standard deviation (error bars) produced from 1000 simulations of species level networks for a Sierran mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2150 m elevation (red).
+**Landscape management:** How to manage forested landscapes into the future is a large task. Evaluating how communities are impacted by different types of management will be critical to understand how decisions now can support resilient wildlife communities into the future. Further, performing this work on large spatial scales (e.g., the aforementioned [TCSI](central_sierras.qmd)) will help us to understand how wildlife communities expand across larger landscapes.
 
 :::
+
 
 <br> <br>
