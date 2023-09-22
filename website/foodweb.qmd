@@ -43,7 +43,7 @@ Food chains illustrate predator prey interactions where (A): primary producers a
 
 ::: columns
 ::: {.column width="50%"}
-**Step 1: Compile a regional list of species that live in central Sierra forests**: this list includes all terrestrial species that live and breed live in central Sierra forests. This includes over 2,000 species of plants, invertebrates, mammals, reptiles, and birds. To compile our lists, we leverage data available in technical reports, USFS surveys, scientific literature, and Global Biodiversity Information Facility.
+**Step 1: Compile a regional list of species that live in central Sierra forests**: this list includes all terrestrial species that live and breed live in central Sierra forests. This includes over 2,000 species of plants, invertebrates, mammals, reptiles, and birds. To compile our lists, we leverage data available in technical reports, USFS surveys, scientific literature, and the Global Biodiversity Information Facility.
 
 *On the right, each dot represents a species in an example community organized by trophic position.*
 :::
@@ -108,7 +108,7 @@ The metanetwork represents all potential interactions between species.
 ::: {.column width="50%"}
 **Step 4: Subset the regional list to taxa that can occur in a specific vegetation type:** for each species there is a probability that it can occur in a given vegetation type based on preference and occurrence patterns. Using these probabilities we can then subset the metanetwork to just include species (and their interactions) that can occur in a given forest type (seral stage & canopy density) at a given elevation. To assign these probabilities we leverage data available from the [California Wildlife Habitat Relationships system](https://wildlife.ca.gov/Data/CWHR), CalFlora, Calsape, and [Jepson eFlora](https://ucjeps.berkeley.edu/eflora/) to name a few.
 
-*For example, Sierran mixed conifer is the primary forest type in the Sierra Nevada. Yellow-pine chipmunks have a higher probability to occur in this forest type, compared to the lodgepole chipmunk.*
+*For example, Sierran mixed conifer is the main forest type in the Sierra Nevada. Yellow-pine chipmunks have a higher probability to occur in this forest type, compared to the lodgepole chipmunk.*
 :::
 
 ::: {.column width="10%"}
@@ -142,7 +142,7 @@ The metanetwork represents all potential interactions between species.
 
 ::: columns
 ::: {.column width="50%"}
-***Food webs get complicated fast.*** Communities are made up of hundreds of interacting species and food webs can get complicated fast. However, measuring characteristics and structure of these species level networks can tell us about the health and resilience of these communities. Therefore, we use a series of [metrics](metrics.qmd "Metrics") to quantify these communities. 
+***Food webs get complicated fast.*** Communities are made up of hundreds of interacting species and food webs can get complicated fast. However, measuring characteristics and structure of these species level networks can tell us about the health and resilience of these communities. Therefore, we use a series of [metrics](metrics.qmd "Metrics") to quantify these communities.
 :::
 
 ::: {.column width="10%"}
@@ -152,4 +152,5 @@ The metanetwork represents all potential interactions between species.
 ![](SVG_images/ComplexFoodWeb.svg)
 :::
 :::
+
 :::

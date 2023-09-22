@@ -17,6 +17,7 @@ format:
 </style>
 ```
 ## Resources
+
 The [Tahoe-Central Sierra Initiative](https://storymaps.arcgis.com/stories/df5a84c6ecd34f88a99328962eb33080) (TCSI) is led by state, federal, nonprofit, and private partners who are working together to restore the resilience of 1 million acres of Sierra Nevada forests and watersheds. The group's focus is to develop and demonstrate innovative planning, investment, and management tools.
 
 ::: columns
@@ -35,7 +36,6 @@ In addition to developing an [Assessment of Current Landscape Conditions](https:
 :::
 
 <br> <br>
-
 
 [Planscape](https://www.planscape.org/ "A decision support tool for planning to maximize wildfire resilience and ecological benefits") is an open source decision support tool to aid in management and planning to maximize ecological benefits and maximize wildfire resilience in California Forests Planscape is a collaboration of state, federal, and nonprofit partners to bring together the best available federal and state science and data to aid in regional planning and prioritizing landscape areas for treatment. Planscape presents data organized in the 10 pillars outlined in the Framework for resilience which was developed by the TCSI group.
 
@@ -57,9 +57,8 @@ Community-based collaborations are an important place for diverse stakeholders t
 
 ### Resilience
 
-For those who are interested in learning more about resilience: 
+For those who are interested in learning more about resilience:
 
-The Stockholm Resilience Center provides a description of, [what is resilience](https://www.stockholmresilience.org/research/research-news/2015-02-19-what-is-resilience.html)? And how to [apply resilience thinking](https://www.stockholmresilience.org/download/18.10119fc11455d3c557d6928/1459560241272/SRC%20Applying%20Resilience%20final.pdf). 
+The Stockholm Resilience Center provides a description of, [what is resilience](https://www.stockholmresilience.org/research/research-news/2015-02-19-what-is-resilience.html)? And how to [apply resilience thinking](https://www.stockholmresilience.org/download/18.10119fc11455d3c557d6928/1459560241272/SRC%20Applying%20Resilience%20final.pdf).
 
 The [Resilience Alliance](https://www.resalliance.org/) works to advance "research and understanding on social-ecological systems for resilient and sustainable futures".
-

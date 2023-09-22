@@ -74,47 +74,41 @@ leaflet(tcsi_all) %>%
 
 ## Tahoe-Central Sierra Landscape
 
-The Tahoe-Central Sierra (TCSI) landscape is a 1 million ha section of Central California forested land. The TCSI is home to a high diversity of vegetation communities, flora, and fauna.
+The Tahoe-Central Sierra (TCSI) landscape is a 1 million ha section of central California forested land. The TCSI is home to a high diversity of vegetation communities, flora, and fauna. The TCSI is an area of active research, discussion, and collaboration where state, federal, nonprofit, and private partners are working together to restore the resilience of this treasured landscape[^1].
+
+[^1]: (see [Resources](resources.qmd) for more information)
 
 The TCSI spans an elevational gradient from 210 - 3400 meters. From the Central Valley to the peaks of the Sierras, the TCSI spans five distinct life zones (i.e., biotic zones). Life zones are areas that have similar abiotic conditions (e.g., climate, soils, etc.), plants and animals. In the TCSI, life zones include: foothill woodland zone, lower montane forest zone, the upper montane forest zone, the subalpine forest zone, and the alpine zone.
 
-There are 14 dominant vegetation types in the TCSI that vary in their occurrence (A) and density across the gradient (B[^1]).
+There are 14 dominant vegetation types in the TCSI that vary in their occurrence (A) and density across the gradient (B).[^2]
 
-[^1]: The vegetation types that occur in the TCSI vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in figure B correspond to vegetation type colors in figure A.
+[^2]: The vegetation types that occur in the TCSI vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in figure B correspond to vegetation type colors in figure A.
 
 ![](SVG_images/TCSI_map_density.svg){fig-align="center" width="100%"}
 
-Considering wildlife communities at the scale of the TCSI landscape is critical because wildlife communities occur at large scales. Therefore, working at a spatial scale that encompass landscape level community processes (e.g., dispersal, connectivity, patch size, habitat diversity, neighborhood effects etc.) and disturbances (e.g., large fires, climate change, large scale management) can impact our evaluations of current communities and predictions into the future.
-
-Further the TCSI landscape is an area of active research[^2] and presents many opportunities to collaborate and interact with an established group of stakeholders.
-
-[^2]: (see [Resources](resources.qmd) for more information)
+Considering wildlife resilience at the scale of the TCSI landscape is critical because wildlife communities occur and interact at these larger scales.
 
 ![](images/IMG_6851.png){fig-align="center"}
 
-## Watershed studies
-
-Examining wildlife communities at the watershed scale is important because this is often the scale at which management (e.g. the application of prescribed fire or mechanical treatments) and disturbances (e.g., beetle kill, wildfire) occurs or can be adequately assessed. Furthermore, pre-existing data from multiple watersheds such as the Lake Tahoe basin and Caples Creek Watershed can be utilized to refine wildlife resilience metrics for specific forested ecosystems and disturbances.
-
 ### Lake Tahoe basin
 
-Lake Tahoe basin supports high biodiversity, including over 1,200 species of plants and animals. The basin also has a steep elevational gradient which means that it spans four life zones: lower montane, upper montane, subalpine, and alpine. Eight major vegetation types are common within the Lake Tahoe basin (A) and they range in their density across the elevational gradient (B[^3]).
+The Lake Tahoe basin is a unique combination of forest and urban communities, increasing the interest and complexity of managing forests in the area. Further, the basin supports high biodiversity, including over 1,200 species of plants and animals and has a steep elevational gradient that spans four of the five lifezones. Eight major vegetation types are common within the Lake Tahoe basin (A) and they range in their density across the elevational gradient (B).[^3]
 
 [^3]: The vegetation types that occur in the Lake Tahoe basin vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in figure B correspond to vegetation type colors in figure A.
 
 ![](SVG_images/LTB_map_Dist.svg){fig-align="center" width="90%"}
 
-When comparing the plants and animals that occur in those eight vegetation types, we've found that generally, overlap in species occurrence is more common for vegetation types in the same life zone. For example, (A) Jeffrey pine (JPN, orange circle), Sierran mixed conifer (SMC, dark green circle), and White fir (WFR, purple circle) forests are commonly found in the lower montane zone (B[^4]) and they have high overlap in the types of plants and animal that occur in those forest types.
+When comparing the plants and animals that occur in those eight vegetation types, we see that generally, overlap in species occurrence is more common for vegetation types in the same life zone. For example, (A) Jeffrey pine (JPN, orange circle), Sierran mixed conifer (SMC, dark green circle), and White fir (WFR, purple circle) forests are commonly found in the lower montane zone (B)[^4] and they have high overlap in the types of plants and animal that occur in those forest types.
 
 [^4]: In this figure, each large circle is a vegetation type, and each small circle is a species (green vertebrates, gold plants). Lines connecting species to vegetation types indicate that the species occurs in that vegetation type. Species may occur in multiple vegetation types (have multiple connecting lines) or occur in one vegetation type.
 
 ![](SVG_images/LTB_Overlap_Dist.svg){fig-align="center" width="100%"}
 
-Given the different (and similar) species present in these different communities, we next use our food web models and metrics to see if communities differ in composition, structure, and function. To see what this looks like see the [applications](applications.qmd) page. 
+Given the different (and similar) species present in these forest communities, we next use our food web models and metrics to see if wildlife communities differ in composition, structure, and function. To see what this looks like see the [applications](applications.qmd) page.
 
 ### Caples Creek
 
-The Caples Creek Ecological Restoration Project (Caples Project) is located in the Eldorado National Forest. Since 2017, project scientists from the USDA Forest Service & California Academy of Sciences have been studying forest health and resilience in mixed conifer forests at Caples. The team has been monitoring the avian and plant response to the intentional application of fire (the 2019 prescribed Caples fire), and are comparing this to a severe wildfire (the 2021 Caldor Fire). 
+The Caples Creek Ecological Restoration Project (Caples Project) is located in the Eldorado National Forest. Since 2017, project scientists from the USDA Forest Service & California Academy of Sciences have been studying forest health and resilience in mixed conifer forests at Caples. The team has been monitoring the avian and plant response to the intentional application of fire (the 2019 prescribed Caples fire), and are comparing this to a severe wildfire (the 2021 Caldor Fire).
 
 Our collaborative team has surveyed over 80 sites in the Caples Watershed each year gathering traditional avian point-count data as well as passive acoustic recordings, vegetation, and fuel measurements. The Caples Project provides a unique opportunity to contrast wildlife resilience metrics for forests treated with fire intentionally applied to enhance forest resilience with forests experiencing severe wildfire---providing a direct measure of the value of prescribed fire at the watershed scale and the effect of different fire severity on wildlife resilience.
 

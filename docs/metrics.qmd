@@ -43,7 +43,7 @@ format:
 
 ***On the right, each dot is a species.***
 
-Having more species is generally good, however, species richness alone does not necessarily mean that a community is more stable.
+Species richness is a very commonly used metric, and management often seeks to increase or maintain native species richness. However, studies have shown that more species *doesn't necessarily* mean that a community is more resilient, suggesting that not all species are created equally (e.g., they have different functions and contributions to wildlife community resilience).
 :::
 
 ::: {.column width="10%"}
@@ -60,7 +60,7 @@ Having more species is generally good, however, species richness alone does not 
 
 ::: columns
 ::: {.column width="50%"}
-**Guild richness**, describes the number of guilds, or functional groups, present in the community. Guilds are groups of species who have similar predator, prey, habits, and body size.
+**Guild richness**, describes the number of guilds, or functional groups, present in the community. Guilds are groups of species who have similar predator, prey, habits, body size, and contributions to wildlife community resilience.
 
 ***On the right, guilds are indicated by the large colored ovals.***
 :::
@@ -81,13 +81,11 @@ Having more species is generally good, however, species richness alone does not 
 
 ::: columns
 ::: {.column width="50%"}
-**Functional similarity**, describes how similar species are in their function within the food web (i.e., their predator and prey relationships). The inverse to similarity is dissimilarity. **Functional dissimilarity** describes how different species are in their functions within a community.
+**Functional similarity**, describes how similar species are in their function within the food web (i.e., their predator and prey relationships).
 
-***For example, on the right , the two tertiary consumers (pink and purple) are very dissimilar in their predator prey interactions (colored arrows). We measure pairwise dissimilarity & similarity to calculate a metric for the whole community.***
+***For example, on the right, the two tertiary consumers (pink and purple) are not very similar in their predator prey interactions (colored arrows). We measure pairwise similarity to calculate a metric for the whole community.***
 
-Communities with high similarity (or redundancy) are considered to be more stable/resilient to random species loss. This is because if one species is lost then there is a high likelihood that there is another species in the community that will perform that role, and overall function will not decline.
-
-If a community has a high functional dissimilarity that suggests that there is a high diversity of processes occurring within that community.
+Communities with high similarity (or redundancy) are considered to be more resilient to random species loss. This is because if one species is lost then there is a high likelihood that there is another species in the community that will perform that role (e.g., a guild mate), and overall wildlife community function is less likely to decline.
 :::
 
 ::: {.column width="10%"}
@@ -127,7 +125,7 @@ Wildlife communities with long chain lengths, have top predators. These top pred
 
 ***Sub communities are made up of species who tend to interact with each other more than with other species within the community (indicated by the blue and pink polygons).***
 
-Communities with high modularity are hypothesized to be more stable and less vulnerable to random species loss because if a species is loss, its impact is generally isolated to that subcommunity, and may not have cascading effects on the rest of the community.
+Communities with high modularity are hypothesized to be more stable and less vulnerable to random species loss. This is because if a species is lost, its impact is generally isolated to that subcommunity, and may not have cascading effects on the rest of the community.
 :::
 
 ::: {.column width="10%"}
