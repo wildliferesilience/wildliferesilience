@@ -10,7 +10,14 @@ format:
 
 ![](images/ForestType_Collage.png){fig-align="center"}
 
-***Sierra Nevada forests*** are important cultural, economic, and ecological systems, however more than a century of fire suppression has only amplified the threats they face as climate change and other stressors snowball. In the face of these threats, one of the goals of forest management is to support the health and resilience of habitats. Resilience is the ability of a system to rebound and maintain its identity after a disturbance such as fire or warming temperatures. 
+***Sierra Nevada forests*** are important cultural, economic, and ecological systems. Fire, pests, and drought are naturally occurring disturbances in these forests. However, more than a century of fire suppression and climate change has amplified the intensity and duration of these disturbances and threaten forests. In the face of these threats, one of the goals of forest management is to support the health and resilience of habitats. 
+
+::: callout-tip
+## Definitions
+
+**Resilience** is the ability of an ecosystem to persist, rebound, or regenerate after disturbance.
+
+:::
 
 Measures of resilience often focus on a few individual species or structural elements with inferred influence on the rest of the community, but what about biodiversity? Inherently, we know that biodiversity and resilience are linked, but quantifying those connections can prove difficult. However, considering all species (trees, mammals, birds, butterflies, etc.) and their interactions is critical to efforts to quantify resilience and improve our ability to understand how wildlife communities will respond to disturbances in the future. 
 
