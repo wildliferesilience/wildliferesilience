@@ -91,7 +91,7 @@ learn more about how we create spatially dynamic food webs for Sierra Nevada for
 ::: popout
 <h2>Metrics</h2>
 
-<img src="images/butterfly.png" alt="metrics"/>
+<img src="SVG_images/Metric_Modularity.svg" alt="metrics"/>
 
 ::: overlay
 ::: text
@@ -105,7 +105,7 @@ learn more about metrics that describe of wildlife communities
 <a href="central_sierras.qmd" class="tile">
 
 ::: popout
-<h2>Central Sierras</h2>
+<h2>Central Sierra</h2>
 
 <img src="images/study_area_logo.png" alt="study area"/>
 
