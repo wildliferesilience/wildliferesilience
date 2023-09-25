@@ -148,7 +148,7 @@ High modularity (a high number of subcommunities) can be good because it means t
 
 <br> <br>
 
-Overall these metrics suggest that the wildlife communities in mixed conifer and fed fir forests differ in their composition, but are similar in structure which suggests that they will respond similarly to the loss of random species or top predators. But this is just the start, using these metrics we can start to explore other questions and applications.  
+Overall these metrics suggest that the wildlife communities in mixed conifer and fed fir forests differ in their composition, but are similar in structure which suggests that they will respond similarly to the loss of random species or top predators. But this is just the start, here we discussed resilience to species loss, but what about to other potential stressors (fire, drought, pests, disease, etc.). Further, using these metrics we can explore questions that address both basic ecological questions (e.g., what are the factors that drive community assembly, and how will they change into the future?) and applied questions (e.g., do wildlife communities differ in their resilience to different management strategies?), both of which will help us to inform management and policy makers to help promote healthy and resilient forests.  
 
 ## Future applications
 
