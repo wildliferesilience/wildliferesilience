@@ -90,7 +90,7 @@ Considering wildlife resilience at the scale of the TCSI landscape is critical b
 
 ![](images/IMG_6851.png){fig-align="center"}
 
-### Lake Tahoe basin
+## Lake Tahoe basin
 
 The Lake Tahoe basin is a unique combination of forest and urban communities, increasing the interest and complexity of managing forests in the area. Further, the basin supports high biodiversity, including over 1,200 species of plants and animals and has a steep elevational gradient that spans four of the five lifezones. Eight major vegetation types are common within the Lake Tahoe basin (A) and they range in their density across the elevational gradient (B).[^3]
 
@@ -106,7 +106,7 @@ When comparing the plants and animals that occur in those eight vegetation types
 
 Given the different (and similar) species present in these forest communities, we next use our food web models and metrics to see if wildlife communities differ in composition, structure, and function. To see what this looks like see the [applications](applications.qmd) page.
 
-### Caples Creek
+## Caples Creek Watershed
 
 The Caples Creek Ecological Restoration Project (Caples Project) is located in the Eldorado National Forest. Since 2017, project scientists from the USDA Forest Service & California Academy of Sciences have been studying forest health and resilience in mixed conifer forests at Caples. The team has been monitoring the avian and plant response to the intentional application of fire (the 2019 prescribed Caples fire), and are comparing this to a severe wildfire (the 2021 Caldor Fire).
 
