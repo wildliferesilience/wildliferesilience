@@ -72,7 +72,7 @@ leaflet(tcsi_all) %>%
   htmlwidgets::onRender(jsCode, data = tcsi_all@data)
 ```
 
-![](images/NobleLake_Pano.png){fig-align="center"}
+
 
 ## Tahoe-Central Sierra Landscape
 
