@@ -41,7 +41,7 @@ Read our [<span id="blog">blog</span>](highlights.qmd) and the [<span id="resour
 ::: popout
 <h2>Resilience</h2>
 
-<img src="images/Roopnarine_Angielczyk_2016_Resilience_Image_transparent.png" alt="resilience"/>
+<img src="images/Resileince_Tree.png" alt="resilience"/>
 
 ::: overlay
 ::: text
@@ -91,7 +91,7 @@ learn more about how we create spatially dynamic food webs for Sierra Nevada for
 ::: popout
 <h2>Metrics</h2>
 
-<img src="SVG_images/Metric_Modularity.svg" alt="metrics"/>
+<img src="SVG_images/Metric_Modularity_wBackground.svg" alt="metrics"/>
 
 ::: overlay
 ::: text
@@ -107,7 +107,7 @@ learn more about metrics that describe of wildlife communities
 ::: popout
 <h2>Central Sierra</h2>
 
-<img src="images/study_area_logo.png" alt="study area"/>
+<img src="images/Tahoe_vista.png" alt="study area"/>
 
 ::: overlay
 ::: text
@@ -141,7 +141,7 @@ learn more about how metrics of wildlife communities can be applied
 ::: popout
 <h2>Highlights</h2>
 
-<img src="https://cdn-icons-png.flaticon.com/512/6114/6114045.png" alt="blog"/>
+<img src="images/Resilient forest.png" alt="blog"/>
 
 ::: overlay
 ::: text
@@ -157,7 +157,7 @@ Learn more about specific topics and highlights related to the project
 ::: popout
 <h2>Resources</h2>
 
-<img src="images/study_area_logo.png" alt="resources"/>
+<img src="https://sierranevada.ca.gov/wp-content/uploads/sites/326/2021/03/TCSI-Pillars.jpg" alt="resources"/>
 
 ::: overlay
 ::: text
@@ -173,7 +173,7 @@ learn more about resilience, research, and collaborations in the central sierra
 ::: popout
 <h2>About</h2>
 
-<img src="https://cdn-icons-png.flaticon.com/512/6114/6114045.png" alt="blog"/>
+<img src="images/ENFMeadows_NearDesolationWildnerness.png" alt="blog"/>
 
 ::: overlay
 ::: text

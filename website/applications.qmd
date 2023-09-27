@@ -16,7 +16,7 @@ format:
     }
 </style>
 ```
-## Applying Food Web Metrics
+## Applying food web metrics
 
 **Metrics that quantify entire communities** can provide useful information to track, manage and promote a system's health, and its ability to be resistant in the face of disturbance and threats associated with climate change.
 

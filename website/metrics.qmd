@@ -16,7 +16,7 @@ format:
     }
 </style>
 ```
-## Food web metrics
+## Examples of food web metrics
 
 ![](images/animal_collage.png){fig-align="center"}
 

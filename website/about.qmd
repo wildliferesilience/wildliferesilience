@@ -6,9 +6,9 @@ format:
         anchor-sections: false
 ---
 
-## About Us and The Project
+## About us and the project
 
-![](images/ForestType_Collage.png){fig-align="center"}
+![](images/Smoky_pano_Caples_DDK_IMG_5455.png){fig-align="center"}
 
 In December of 2020 the [California Wildlife Conservation Board](https://wcb.ca.gov/) funded a planning and technical assistance project to develop "Metrics of Wildlife Community Resilience for Sierra Nevada Forests." This project allowed us to conduct a series of workshops, outreach meetings and underlying scientific, data and computational work to develop the links between wildlife, plant communities and forest resilience. We are using this site to communicate the resulting work the broadest audience possible.
 
