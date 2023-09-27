@@ -20,8 +20,6 @@ format:
 ::: {.column width="90%"}
 ## Food webs
 
-![](images/ForestType_Collage.png){fig-align="center"}
-
 ***Food webs*** are a valuable way to represent the complexity of biodiversity within a local wildlife community, by taking into account species and their interactions.
 
 Food chains illustrate predator prey interactions where (A): primary producers are at the bottom of the food web (green, plants), followed by primary consumers (yellow, herbivorous arthropods), secondary consumers (orange, omnivores like quail), tertiary consumers (red, carnivores like foxes), and apex predators at the top (purple, top carnivores like mountain lions)[^1]. Communities are made up of many food chains (B), and food webs are a useful tool to capture those complex interactions.
@@ -53,7 +51,7 @@ Food chains illustrate predator prey interactions where (A): primary producers a
 
 ::: {.column width="40%"}
 ::: imgcap
-![](images/Foodweb_Step1.svg)
+![](SVG_images/Foodweb_Step1.svg)
 :::
 :::
 :::
@@ -76,7 +74,7 @@ To assign species into guilds we leverage information from scientific literature
 
 ::: {.column width="40%"}
 ::: imgcap
-![](images/Foodweb_Step2.svg)
+![](SVG_images/Foodweb_Step2.svg)
 :::
 :::
 :::
