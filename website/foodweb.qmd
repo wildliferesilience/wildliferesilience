@@ -95,7 +95,7 @@ The metanetwork represents all potential interactions between species.
 
 ::: {.column width="40%"}
 ::: imgcap
-![](images/Foodweb_Step3.svg)
+![](SVG_images/Foodweb_Step3.svg)
 :::
 :::
 :::
@@ -114,7 +114,7 @@ The metanetwork represents all potential interactions between species.
 
 ::: {.column width="40%"}
 ::: imgcap
-![](images/Foodweb_Step4.svg)
+![](SVG_images/Foodweb_Step4.svg)
 :::
 :::
 :::
@@ -131,7 +131,7 @@ The metanetwork represents all potential interactions between species.
 
 ::: {.column width="40%"}
 ::: imgcap
-![](images/Foodweb_Step5.svg)
+![](SVG_images/Foodweb_Step5.svg)
 :::
 :::
 :::
