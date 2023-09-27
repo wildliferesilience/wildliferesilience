@@ -20,7 +20,7 @@ format:
 
 ![](images/animal_collage.png){fig-align="center"}
 
-***Evaluating food web metrics*** for wildlife communities across different forest types allows us to assess current conditions and predict how wildlife communities may respond to different stressors associated with environmental change. The following are a short list of example metrics and what they can tell us about the composition, structure, and resilience of a community.  
+***Evaluating food web metrics*** for wildlife communities across different forest types allows us to assess current conditions and predict how wildlife communities may respond to different stressors associated with environmental change. The following are a short list of example metrics and what they can tell us about the composition, structure, and resilience of a community.
 
 ## Community composition
 
@@ -62,7 +62,7 @@ Species richness is a very commonly used metric, and management often seeks to i
 ::: {.column width="50%"}
 **Guild richness**, describes the number of guilds, or functional groups, present in the community. Guilds are groups of species who have similar predator, prey, habits, body size, and contributions to wildlife community resilience.
 
-***On the right, guilds are indicated by the large colored ovals.***
+***On the right, guilds are indicated by the large colored shapes.***
 :::
 
 ::: {.column width="10%"}
