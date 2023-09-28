@@ -1,12 +1,20 @@
 ---
 title: "Biodiversity"
+format: 
+    html:
+        css: index.css
+        anchor-sections: false
 ---
 
-**Biodiversity** is the variety of life, in all forms. This encompasses all different species from viruses, microbes, and fungi to plants and animals, the genetic information they contain, the variety of structures, forms, and functions they realize, and critically the roles they play in the communities and ecosystems they form.
+## Why care about biodiversity?
+
+![](images/Plant_Picture_Collage.png){fig-align="center"}
+
+**Biodiversity** is the variety of life, in all forms. This encompasses all different species (from viruses, microbes, and fungi to plants and animals) and ecosystems (communities and interactions between species) in the world.
 
 Biodiversity is in crisis, therefore it is important to have integrative tools that better equip us to evaluate and support healthy, resilient, biodiverse communities as we plan major interventions to enhance forest resilience.
 
-## Classic biodiversity metrics
+## How to measure biodiversity
 Biologists perform biodiversity inventories focused on *species*.  Species metrics have long formed the basis of conservation and management research and policy.
 
 ::: callout-tip
@@ -18,12 +26,15 @@ Biologists perform biodiversity inventories focused on *species*.  Species metri
 
 **Species diversity**: Diversity measures summarize both *richness* and distribution of numbers for each species in a community (known as their *relative abundance*).
 
+![](SVG_images/mushroom.svg){fig-align="center"}
 :::
 
 ## Wildlife diversity
 
-Sierra Nevada forests are home to charismatic species, including mountain lions, fishers, martins, spotted owls, and goshawks. Forests that include many of these species and a variety of other species are recognized as *healthy* and *biodiverse*. But are they resilient?
+![](images/animal_collage.png){fig-align="center"}
 
-It turns out that biodiversity is more than species diversity, it encompasses different levels of living diversity from variation within individuals (in behavior or physiology), to genetic variation within species, to differences between species, to the differences that distinguish the structure and function of entire ecological communities and ecosystems.
+Sierra Nevada forests are home to charismatic species, including mountain lions, fishers, martins, spotted owls, goshawks, and dark-eyed juncos. Forests that include many of these species and a variety of other species are recognized as *healthy* and *biodiverse*. But are they resilient?
 
-Our work utilizes both classic biodiversity data (e.g. a list of species for a given locality, and if available their relative abundance) as well as information on the role or 'jobs' they perform in that location to move beyond classic metrics.  Using these data we are constructing novel measures to characterize the functions diverse species in their communities. For more see [food webs](foodweb.qmd).
+Biodiversity is more than species diversity, it encompasses different levels of living diversity from variation between individuals, to differences between species, to the differences that distinguish the structure and function of entire ecological communities and ecosystems.
+
+Our work utilizes both classic biodiversity data (e.g. a list of species for a given locality, and if available their relative abundance) as well as information on the role, job or function they perform in that location to move beyond classic metrics. Using these data we are constructing novel measures to characterize the functions of diverse species in their communities. For more see [food webs](foodweb.qmd).

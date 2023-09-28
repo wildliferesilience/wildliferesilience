@@ -1,5 +1,9 @@
 ---
 title: "Metrics"
+format: 
+    html:
+        css: index.css
+        anchor-sections: false
 ---
 
 ```{=html}
@@ -12,9 +16,14 @@ title: "Metrics"
     }
 </style>
 ```
-***Evaluating food web metrics*** for wildlife communities across different forest types allows us to assess current conditions and predict how wildlife communities may respond to different stressors associated with environmental change. The following are a short list of example metrics and what they can tell us about the composition, structure, and resilience of a community.  
+## Examples of food web metrics
 
-# Richness
+![](images/animal_collage.png){fig-align="center"}
+
+***Evaluating food web metrics*** for wildlife communities across different forest types allows us to assess current conditions and predict how wildlife communities may respond to different stressors associated with environmental change. The following are a short list of example metrics and what they can tell us about the composition, structure, and resilience of a community.
+
+## Community composition
+
 ```{=html}
 <!-- Three basic metrics include **guild richness**, and **functional** **dissimilarity**, vs **functional similarity**.
 
@@ -30,7 +39,11 @@ title: "Metrics"
 ```
 ::: columns
 ::: {.column width="50%"}
-**Species richness**, describes the number of species in a community. More species is generally good, however, species richness alone does not necessarily mean that a community is more stable.
+**Species richness**, describes the number of species in a community.
+
+***On the right, each dot is a species.***
+
+Species richness is a very commonly used metric, and management often seeks to increase or maintain native species richness. However, studies have shown that more species *doesn't necessarily* mean that a community is more resilient, suggesting that not all species are created equally (e.g., they have different functions and contributions to wildlife community resilience).
 :::
 
 ::: {.column width="10%"}
@@ -47,7 +60,9 @@ title: "Metrics"
 
 ::: columns
 ::: {.column width="50%"}
-**Guild richness**, describes the number of guilds, or functional groups, present in the community. Guilds are groups of species who have similar predator, prey, habits, and body size. Here, guilds are indicated by the large colored ovals.
+**Guild richness**, describes the number of guilds, or functional groups, present in the community. Guilds are groups of species who have similar predator, prey, habits, body size, and contributions to wildlife community resilience.
+
+***On the right, guilds are indicated by the large colored shapes.***
 :::
 
 ::: {.column width="10%"}
@@ -62,13 +77,15 @@ title: "Metrics"
 
 <br> <br>
 
-# More metrics
+## Community structure and function
 
 ::: columns
 ::: {.column width="50%"}
-**Functional similarity**, describes how similar species are in their function within the food web (i.e., their predator and prey relationships - species one (pink links) to species two (purple links)). Communities with high similarity (or redundancy) are considered to be more stable/resilient to random species loss. This is because if one species is lost then there is a high likelihood that there is another species in the community that will perform that role, and overall function will not decline.
+**Functional similarity**, describes how similar species are in their function within the food web (i.e., their predator and prey relationships).
 
-The inverse to similarity is dissimilarity. **Functional dissimilarity** describes how different species are in their functions within a community. If a community has a high functional dissimilarity that suggests that there is a high diversity of processes occurring within that community.
+***For example, on the right, the two tertiary consumers (pink and purple) are not very similar in their predator prey interactions (colored arrows). We measure pairwise similarity to calculate a metric for the whole community.***
+
+**Take home:** communities with high similarity (or redundancy) are considered to be more resilient to random species loss. This is because if one species is lost then there is a high likelihood that there is another species in the community that will perform that role (e.g., a guild mate), and overall wildlife community function is less likely to decline.
 :::
 
 ::: {.column width="10%"}
@@ -85,7 +102,9 @@ The inverse to similarity is dissimilarity. **Functional dissimilarity** describ
 
 ::: columns
 ::: {.column width="50%"}
-**Maximum chain length,** describes the number of links between a consumer species and a primary producer. Wildlife communities with long chain lengths, have top predators. These top predators can be more susceptible to anthropogenic change, and their loss may have cascading impacts on the rest of the community.
+**Maximum chain length,** describes the number of links between a consumer species and a primary producer.
+
+**Take home:** wildlife communities with long chain lengths, have top predators. These top predators can be more susceptible to anthropogenic change, and their loss may have cascading impacts on the rest of the community.
 :::
 
 ::: {.column width="10%"}
@@ -102,9 +121,11 @@ The inverse to similarity is dissimilarity. **Functional dissimilarity** describ
 
 ::: columns
 ::: {.column width="50%"}
-**Modularity,** describes the number of sub communities present in a community. Sub communities are made up of species who tend to interact with each other more than with other species within the community (indicated by the blue and pink polygons). Communities with high modularity are hypothesized to be more stable and less vulnerable to random species loss because if a species is loss, it's impact is generally isolated to that subcommunity, and may not have cascading effects on the rest of the community.
+**Modularity,** describes the number of sub communities present in a community.
 
-Currently we are estimating food webs at multiple spatial scales in the [Central Sierras](central_sierras.qmd "Central Sierras") with the potential for multiple applications relating to describing communities, management, and climate change.
+***Sub communities are made up of species who tend to interact with each other more than with other species within the community (indicated by the blue and pink polygons).***
+
+**Take home:** communities with high modularity are hypothesized to be more stable and less vulnerable to random species loss. This is because if a species is lost, its impact is generally isolated to that subcommunity, and may not have cascading effects on the rest of the community.
 :::
 
 ::: {.column width="10%"}
@@ -116,3 +137,5 @@ Currently we are estimating food webs at multiple spatial scales in the [Central
 :::
 :::
 :::
+
+***To compare these related metrics*** we are currenlty estimating food webs at multiple spatial scales in the [Central Sierra](central_sierras.qmd "Central Sierras") with the potential for multiple applications relating to describing communities, management, and climate change.

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.2.475">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
 </style>
@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -55,13 +54,13 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-submit-button-title": "Submit"
   }
 }</script>
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="index.css">
 </head>
 
 <body class="nav-fixed">
@@ -75,55 +74,53 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title"></span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
+    <a class="nav-link" href="./index.html">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resilience.html" rel="" target="">
+    <a class="nav-link" href="./resilience.html">
  <span class="menu-text">Resilience</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./biodiversity.html" rel="" target="">
+    <a class="nav-link" href="./biodiversity.html">
  <span class="menu-text">Biodiversity</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./foodweb.html" rel="" target="">
+    <a class="nav-link" href="./foodweb.html">
  <span class="menu-text">Food Webs</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./metrics.html" rel="" target="" aria-current="page">
+    <a class="nav-link active" href="./metrics.html" aria-current="page">
  <span class="menu-text">Metrics</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./central_sierras.html" rel="" target="">
- <span class="menu-text">Central Sierras</span></a>
+    <a class="nav-link" href="./central_sierras.html">
+ <span class="menu-text">Central Sierra</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./applications.html" rel="" target="">
+    <a class="nav-link" href="./applications.html">
  <span class="menu-text">Applications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./highlights.html" rel="" target="">
+    <a class="nav-link" href="./highlights.html">
  <span class="menu-text">Highlights</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resources.html" rel="" target="">
+    <a class="nav-link" href="./resources.html">
  <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
+    <a class="nav-link" href="./about.html">
  <span class="menu-text">About</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
+              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -137,8 +134,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#richness" id="toc-richness" class="nav-link active" data-scroll-target="#richness">Richness</a></li>
-  <li><a href="#more-metrics" id="toc-more-metrics" class="nav-link" data-scroll-target="#more-metrics">More metrics</a></li>
+  <li><a href="#examples-of-food-web-metrics" id="toc-examples-of-food-web-metrics" class="nav-link active" data-scroll-target="#examples-of-food-web-metrics">Examples of food web metrics</a></li>
+  <li><a href="#community-composition" id="toc-community-composition" class="nav-link" data-scroll-target="#community-composition">Community composition</a></li>
+  <li><a href="#community-structure-and-function" id="toc-community-structure-and-function" class="nav-link" data-scroll-target="#community-structure-and-function">Community structure and function</a></li>
   </ul>
 </nav>
     </div>
@@ -170,9 +168,17 @@ ul.task-list li input[type="checkbox"] {
         overflow: hidden;
     }
 </style>
-<p><strong><em>Evaluating food web metrics</em></strong> for wildlife communities across different forest types allows us to assess current conditions and predict how wildlife communities may respond to different stressors associated with environmental change. The following are a short list of example metrics and what they can tell us about the composition, structure, and resilience of a community.&nbsp;&nbsp;</p>
-<section id="richness" class="level1">
-<h1>Richness</h1>
+<section id="examples-of-food-web-metrics" class="level2">
+<h2 data-anchor-id="examples-of-food-web-metrics">Examples of food web metrics</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/animal_collage.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<p><strong><em>Evaluating food web metrics</em></strong> for wildlife communities across different forest types allows us to assess current conditions and predict how wildlife communities may respond to different stressors associated with environmental change. The following are a short list of example metrics and what they can tell us about the composition, structure, and resilience of a community.</p>
+</section>
+<section id="community-composition" class="level2">
+<h2 data-anchor-id="community-composition">Community composition</h2>
 <!-- Three basic metrics include **guild richness**, and **functional** **dissimilarity**, vs **functional similarity**.
 
 ::: callout-tip
@@ -186,7 +192,9 @@ ul.task-list li input[type="checkbox"] {
 ::: -->
 <div class="columns">
 <div class="column" style="width:50%;">
-<p><strong>Species richness</strong>, describes the number of species in a community. More species is generally good, however, species richness alone does not necessarily mean that a community is more stable.</p>
+<p><strong>Species richness</strong>, describes the number of species in a community.</p>
+<p><strong><em>On the right, each dot is a species.</em></strong></p>
+<p>Species richness is a very commonly used metric, and management often seeks to increase or maintain native species richness. However, studies have shown that more species <em>doesn’t necessarily</em> mean that a community is more resilient, suggesting that not all species are created equally (e.g., they have different functions and contributions to wildlife community resilience).</p>
 </div><div class="column" style="width:10%;">
 
 </div><div class="column" style="width:40%;">
@@ -198,7 +206,8 @@ ul.task-list li input[type="checkbox"] {
 <p><br> <br></p>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p><strong>Guild richness</strong>, describes the number of guilds, or functional groups, present in the community. Guilds are groups of species who have similar predator, prey, habits, and body size. Here, guilds are indicated by the large colored ovals.</p>
+<p><strong>Guild richness</strong>, describes the number of guilds, or functional groups, present in the community. Guilds are groups of species who have similar predator, prey, habits, body size, and contributions to wildlife community resilience.</p>
+<p><strong><em>On the right, guilds are indicated by the large colored shapes.</em></strong></p>
 </div><div class="column" style="width:10%;">
 
 </div><div class="column" style="width:40%;">
@@ -209,12 +218,13 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <p><br> <br></p>
 </section>
-<section id="more-metrics" class="level1">
-<h1>More metrics</h1>
+<section id="community-structure-and-function" class="level2">
+<h2 data-anchor-id="community-structure-and-function">Community structure and function</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p><strong>Functional similarity</strong>, describes how similar species are in their function within the food web (i.e., their predator and prey relationships - species one (pink links) to species two (purple links)). Communities with high similarity (or redundancy) are considered to be more stable/resilient to random species loss. This is because if one species is lost then there is a high likelihood that there is another species in the community that will perform that role, and overall function will not decline.</p>
-<p>The inverse to similarity is dissimilarity. <strong>Functional dissimilarity</strong> describes how different species are in their functions within a community. If a community has a high functional dissimilarity that suggests that there is a high diversity of processes occurring within that community.</p>
+<p><strong>Functional similarity</strong>, describes how similar species are in their function within the food web (i.e., their predator and prey relationships).</p>
+<p><strong><em>For example, on the right, the two tertiary consumers (pink and purple) are not very similar in their predator prey interactions (colored arrows). We measure pairwise similarity to calculate a metric for the whole community.</em></strong></p>
+<p><strong>Take home:</strong> communities with high similarity (or redundancy) are considered to be more resilient to random species loss. This is because if one species is lost then there is a high likelihood that there is another species in the community that will perform that role (e.g., a guild mate), and overall wildlife community function is less likely to decline.</p>
 </div><div class="column" style="width:10%;">
 
 </div><div class="column" style="width:40%;">
@@ -226,7 +236,8 @@ ul.task-list li input[type="checkbox"] {
 <p><br> <br></p>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p><strong>Maximum chain length,</strong> describes the number of links between a consumer species and a primary producer. Wildlife communities with long chain lengths, have top predators. These top predators can be more susceptible to anthropogenic change, and their loss may have cascading impacts on the rest of the community.</p>
+<p><strong>Maximum chain length,</strong> describes the number of links between a consumer species and a primary producer.</p>
+<p><strong>Take home:</strong> wildlife communities with long chain lengths, have top predators. These top predators can be more susceptible to anthropogenic change, and their loss may have cascading impacts on the rest of the community.</p>
 </div><div class="column" style="width:10%;">
 
 </div><div class="column" style="width:40%;">
@@ -238,8 +249,9 @@ ul.task-list li input[type="checkbox"] {
 <p><br> <br></p>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p><strong>Modularity,</strong> describes the number of sub communities present in a community. Sub communities are made up of species who tend to interact with each other more than with other species within the community (indicated by the blue and pink polygons). Communities with high modularity are hypothesized to be more stable and less vulnerable to random species loss because if a species is loss, it’s impact is generally isolated to that subcommunity, and may not have cascading effects on the rest of the community.</p>
-<p>Currently we are estimating food webs at multiple spatial scales in the <a href="./central_sierras.html" title="Central Sierras">Central Sierras</a> with the potential for multiple applications relating to describing communities, management, and climate change.</p>
+<p><strong>Modularity,</strong> describes the number of sub communities present in a community.</p>
+<p><strong><em>Sub communities are made up of species who tend to interact with each other more than with other species within the community (indicated by the blue and pink polygons).</em></strong></p>
+<p><strong>Take home:</strong> communities with high modularity are hypothesized to be more stable and less vulnerable to random species loss. This is because if a species is lost, its impact is generally isolated to that subcommunity, and may not have cascading effects on the rest of the community.</p>
 </div><div class="column" style="width:10%;">
 
 </div><div class="column" style="width:40%;">
@@ -248,6 +260,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
+<p><strong><em>To compare these related metrics</em></strong> we are currenlty estimating food webs at multiple spatial scales in the <a href="./central_sierras.html" title="Central Sierras">Central Sierra</a> with the potential for multiple applications relating to describing communities, management, and climate change.</p>
 
 
 </section>
@@ -273,30 +286,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
-      }
-    }
-    return false;
-  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
+    target: function(trigger) {
+      return trigger.previousElementSibling;
     }
   });
   clipboard.on('success', function(e) {
@@ -361,92 +353,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
