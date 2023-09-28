@@ -88,7 +88,7 @@
     "href": "central_sierras.html",
     "title": "Central Sierra",
     "section": "",
-    "text": "Our work takes place in the forests of the Central Sierra Nevada mountain range at the landscape and watershed scales (click the map below for more information).\n\n\nOGR data source with driver: GeoJSON \nSource: \"/Users/rwilcox/Documents/GitHub/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields\n\n\nOGR data source with driver: GeoJSON \nSource: \"/Users/rwilcox/Documents/GitHub/wildliferesilience/website/input/all.geojson\", layer: \"all\"\nwith 3 features\nIt has 9 fields"
+    "text": "Our work takes place in the forests of the Central Sierra Nevada mountain range at the landscape and watershed scales (click the map below for more information).\n\n\nOGR data source with driver: GeoJSON \nSource: \"/Users/dkapan/GitHub/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields\n\n\nOGR data source with driver: GeoJSON \nSource: \"/Users/dkapan/GitHub/wildliferesilience/website/input/all.geojson\", layer: \"all\"\nwith 3 features\nIt has 9 fields"
   },
   {
     "objectID": "central_sierras.html#tahoe-central-sierra-intitiative",
@@ -158,7 +158,7 @@
     "href": "foodweb.html",
     "title": "Food Webs",
     "section": "",
-    "text": "Food webs are a valuable way to represent the complexity of biodiversity within a local wildlife community, by taking into account species and their interactions.\nFood chains illustrate predator prey interactions where (A): primary producers are at the bottom of the food web (green, plants), followed by primary consumers (yellow, herbivorous arthropods), secondary consumers (orange, omnivores like quail), tertiary consumers (red, carnivores like foxes), and apex predators at the top (purple, top carnivores like mountain lions)1. Communities are made up of many food chains (B), and food webs are a useful tool to capture those complex interactions.\n\n\n\n\n\n\n\n\nHow do we estimate a dynamic food web model for a given community within the Sierra Nevada? There are many different vegetation types present in the Central Sierra, to build a food webs for a given forest community within the Central Sierra we follow these five steps:\n:::"
+    "text": "Food webs are a valuable way to represent the complexity of biodiversity within a local wildlife community, by taking into account species and their interactions.\nFood chains illustrate predator prey interactions where (A, below-left): primary producers are at the bottom of the food web (green, plants), followed by primary consumers (yellow, herbivorous arthropods), secondary consumers (orange, omnivores like quail), tertiary consumers (red, carnivores like foxes), and apex predators at the top (purple, top carnivores like mountain lions)1. Communities are made up of many food chains (B, below-right), and food webs are a useful tool to capture those complex interactions.\n\n\n\n\n\n\n\n\nHow do we estimate a dynamic food web model for a given community within the Sierra Nevada? There are many different vegetation types present in the Central Sierra, to build a food webs for a given forest community within the Central Sierra we follow these five steps:\n:::"
   },
   {
     "objectID": "foodweb.html#footnotes",
@@ -206,8 +206,8 @@
     "objectID": "resilience.html#why-care-about-resilience",
     "href": "resilience.html#why-care-about-resilience",
     "title": "Wildlife Resilience",
-    "section": "Why care about resilience?",
-    "text": "Why care about resilience?\nResilient Sierra Nevada forests are healthy forests that can bounce back after disturbances like drought, fire, pests and disease. Ensuring forests are resilient is beneficial because they support/facilitate clean water, clean air, places to recreate, fire protection, and economic opportunities.\nNaturally forests have evolved to be resilient but over the last decade, the increase in wildfire places much of Sierra Nevada at risk, such that disturbances may overwhelm their ability to respond. In the face of climate-driven increases in fire conditions exacerbated by a long history of forest fuel buildup due to fire suppression, federal and state governments, industry, forest communities and NGOs are all working together to increase the pace and scale of the restoration of forest resilience.\nIn California, both state and federal agencies are spending billions of dollars to manage forests for climate and fire resilience. But what does this resilience management mean for the conservation and enhancement of the state’s wildlife?"
+    "section": "",
+    "text": "Naturally Sierra Nevada forests have evolved with fire, disease, pests, and drought. Resilient forests can persist, rebound, or regenerate after these disturbances. Ensuring forests are resilient is beneficial because healthy forests provide clean water, clean air, places to recreate, fire protection, and economic opportunities. However, more than a century of fire suppression and climate change has amplified the intensity and duration of these disturbances such that they may overwhelm the ability of forests to bounce back.\nIn the face of these mega disturbances, federal and state governments, industry, forest communities, private groups, and NGOs are all working together to increase the pace and scale of the restoration of forest resilience. But what does this resilience management mean for the conservation and enhancement of the state’s wildlife?"
   },
   {
     "objectID": "resilience.html#the-link-between-resilience-and-biodiversity",
@@ -404,5 +404,82 @@
     "title": "Central Sierra",
     "section": "Caples Creek Watershed",
     "text": "Caples Creek Watershed\nThe Caples Creek Ecological Restoration Project (Caples Project) is located in the Eldorado National Forest. Since 2017, project scientists from the USDA Forest Service & California Academy of Sciences have been studying forest health and resilience in mixed conifer forests at Caples. The team has been monitoring the avian and plant response to the intentional application of fire (the 2019 prescribed Caples fire), and are comparing this to a severe wildfire (the 2021 Caldor Fire).\nOur collaborative team has surveyed over 80 sites in the Caples Watershed each year gathering traditional avian point-count data as well as passive acoustic recordings, vegetation, and fuel measurements. The Caples Project provides a unique opportunity to contrast wildlife resilience metrics for forests treated with fire intentionally applied to enhance forest resilience with forests experiencing severe wildfire—providing a direct measure of the value of prescribed fire at the watershed scale and the effect of different fire severity on wildlife resilience.\n\n\n\n\n\nLoss of resilience and its recovery: Above, shows the loss of forest resilience due to burnable biomass buildup from our study area, the Caples creek watershed (top) and impact of controlled fire just outside the watershed (middle). After the Caples Fire, a variety of burn-severities create forest heterogeneity (bottom) that may increase forest resilience to factors promoting future fires © Durrell D. Kapan, California Academy of Sciences."
+  },
+  {
+    "objectID": "foodweb.html#what-are-food-webs-and-why-are-they-useful",
+    "href": "foodweb.html#what-are-food-webs-and-why-are-they-useful",
+    "title": "Food Webs",
+    "section": "",
+    "text": "Food webs are a valuable way to represent the complexity of biodiversity within a local wildlife community, by taking into account species and their interactions.\nFood chains illustrate predator prey interactions where (A, below-left): primary producers are at the bottom of the food web (green, plants), followed by primary consumers (yellow, herbivorous arthropods), secondary consumers (orange, omnivores like quail), tertiary consumers (red, carnivores like foxes), and apex predators at the top (purple, top carnivores like mountain lions)1. Communities are made up of many food chains (B, below-right), and food webs are a useful tool to capture those complex interactions."
+  },
+  {
+    "objectID": "foodweb.html#how-we-build-a-food-web",
+    "href": "foodweb.html#how-we-build-a-food-web",
+    "title": "Food Webs",
+    "section": "",
+    "text": "How do we estimate a dynamic food web model for a given community within the Sierra Nevada? There are many different vegetation types present in the Central Sierra, to build a food webs for a given forest community within the Central Sierra we follow these five steps:"
+  },
+  {
+    "objectID": "central_sierras.html#the-central-sierra",
+    "href": "central_sierras.html#the-central-sierra",
+    "title": "Central Sierra",
+    "section": "",
+    "text": "Our work takes place in the forests of the Central Sierra Nevada mountain range at the landscape and watershed scales (click the map below for more information).\n\n\nOGR data source with driver: GeoJSON \nSource: \"/Users/dkapan/GitHub/wildliferesilience/website/input/TCSI_boundary.geojson\", layer: \"TCSI_boundary\"\nwith 87 features\nIt has 2 fields\n\n\nOGR data source with driver: GeoJSON \nSource: \"/Users/dkapan/GitHub/wildliferesilience/website/input/all.geojson\", layer: \"all\"\nwith 3 features\nIt has 9 fields"
+  },
+  {
+    "objectID": "central_sierras.html#footnotes",
+    "href": "central_sierras.html#footnotes",
+    "title": "Central Sierra",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\n(see Resources for more information)↩︎\nThe vegetation types that occur in the TCSI vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in figure B correspond to vegetation type colors in figure A.↩︎\nThe vegetation types that occur in the Lake Tahoe basin vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in figure B correspond to vegetation type colors in figure A.↩︎\nIn this figure, each large circle is a vegetation type, and each small circle is a species (green vertebrates, gold plants). Lines connecting species to vegetation types indicate that the species occurs in that vegetation type. Species may occur in multiple vegetation types (have multiple connecting lines) or occur in one vegetation type.↩︎"
+  },
+  {
+    "objectID": "resources.html#resources",
+    "href": "resources.html#resources",
+    "title": "Resources",
+    "section": "",
+    "text": "The Tahoe-Central Sierra Initiative (TCSI) is led by state, federal, nonprofit, and private partners who are working together to restore the resilience of 1 million acres of Sierra Nevada forests and watersheds. The group’s focus is to develop and demonstrate innovative planning, investment, and management tools.\n\n\nIn addition to developing an Assessment of Current Landscape Conditions and a Blueprint for Resilience, they created a Framework for Resilience - which promotes socio-ecological resilience across forested landscapes in the Sierra Nevada. Within this framework, they outline the 10 pillars of resilience (right). Each pillar describes a landscape benefit that is provided when a socio-ecological system is resilient. Our community food web work aims to contribute to the biodiversity conservation pillar, so that we can better understand how biodiversity contributes to resilient socio-ecological systems.\n\n\n\n\n\n\n\n\n \nPlanscape is an open source decision support tool to aid in management and planning to maximize ecological benefits and maximize wildfire resilience in California Forests Planscape is a collaboration of state, federal, and nonprofit partners to bring together the best available federal and state science and data to aid in regional planning and prioritizing landscape areas for treatment. Planscape presents data organized in the 10 pillars outlined in the Framework for resilience which was developed by the TCSI group.\nPlanscape app (preview)\nThe Planscape app provides a read-only ability to explore and build maps of data from the 10 pillars of resilience outlined in the TCSI framework for resilience.\n\n\nCommunity-based collaborations are an important place for diverse stakeholders to work together to create fire-safe communities, sustainable local economies, and promote healthy and resilient forests. Here is a short list of such groups working in the Central Sierra:\nLake Tahoe West\nSouth Fork American River (SOFAR) Cohesive Strategy\nNorth Yuba Partnership\nAmador-Calaveras Consensus Group\n\n\n\nFor those who are interested in learning more about resilience:\nThe Stockholm Resilience Center provides a description of, what is resilience? And how to apply resilience thinking.\nThe Resilience Alliance works to advance “research and understanding on social-ecological systems for resilient and sustainable futures”."
+  },
+  {
+    "objectID": "metrics.html#examples-of-food-web-metrics",
+    "href": "metrics.html#examples-of-food-web-metrics",
+    "title": "Metrics",
+    "section": "",
+    "text": "Evaluating food web metrics for wildlife communities across different forest types allows us to assess current conditions and predict how wildlife communities may respond to different stressors associated with environmental change. The following are a short list of example metrics and what they can tell us about the composition, structure, and resilience of a community."
+  },
+  {
+    "objectID": "index.html#the-wildlife-resilience-project",
+    "href": "index.html#the-wildlife-resilience-project",
+    "title": "Home",
+    "section": "",
+    "text": "Sierra Nevada forests are important cultural, economic, and ecological systems. Fire, disease, pests, and drought are naturally occurring disturbances in these forests. However, more than a century of fire suppression and climate change has amplified the intensity and duration of these disturbances and threaten forests. In the face of these mega disturbances, one of the goals of forest management is to support the health and resilience of habitats.\n\n\n\n\n\n\nDefinition\n\n\n\nResilience is the ability of an ecosystem to persist, rebound, or regenerate after disturbance.\n\n\nMeasures of resilience often focus on structural elements (e.g., tree density) or on a few individual species (e.g., top predators or keystone species) with inferred influence on the rest of the community, but what about biodiversity? Inherently, we know that biodiversity and resilience are linked, but quantifying those connections can prove difficult. Considering all species (trees, mammals, birds, butterflies, etc.) and their interactions is critical to efforts to quantify resilience and improve our ability to understand how wildlife communities will respond to disturbances in the future.\n\n\n\n\n\nIntegrating biodiversity into plans for resilience management will provide a more holistic picture of wildlife communities and will be critical for how we track, regenerate, and steward forests to be more resilient into the future. To achieve this, our team from the United States Forest Service and the California Academy of Sciences is working to measure wildlife communities’ resilience by borrowing methods from paleontology1 to develop models of interacting wildlife species for different Sierra Nevada forests. This work is made possible by generous funding from the Wildlife Conservation Board2.\nThis website gives an overview of the basic background and process to create metrics of wildlife resilience for a large region in the central Sierra Nevada. To learn more follow the links on this page.\n\n\n\n\n\n\n\n\nlearn more about forest resilience\n\n\n\n\n\n\n\n\n\n\nlearn more about biodiversity\n\n\n\n\n\n\n\n\n\n\nlearn more about how we create spatially dynamic food webs for Sierra Nevada forests\n\n\n\n\n\n\n\n\n\n\n\n\nlearn more about metrics that describe of wildlife communities\n\n\n\n\n\n\n\n\n\n\nlearn more about where the research takes place\n\n\n\n\n\n\n\n\n\n\nlearn more about how metrics of wildlife communities can be applied\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more about specific topics and highlights related to the project\n\n\n\n\n\n\n\n\n\n\nlearn more about resilience, research, and collaborations in the central sierra\n\n\n\n\n\n\n\n\n\n\nlearn more about our collaborative team"
+  },
+  {
+    "objectID": "about.html#about-us-and-the-project",
+    "href": "about.html#about-us-and-the-project",
+    "title": "About",
+    "section": "",
+    "text": "In December of 2020 the California Wildlife Conservation Board funded a planning and technical assistance project to develop “Metrics of Wildlife Community Resilience for Sierra Nevada Forests.” This project allowed us to conduct a series of workshops, outreach meetings and underlying scientific, data and computational work to develop the links between wildlife, plant communities and forest resilience. We are using this site to communicate the resulting work the broadest audience possible.\n\n\nTo develop metrics to assess the current and future resilience of forest wildlife communities to stressors associated with climate change that will help inform land managers how different management actions may influence wildlife community resilience into the future. These metrics will ultimately contribute to the management, conservation and restoration of Sierra Nevada wildlife communities.\n\n\n\n\nHow would metrics of wildlife community resilience be useful in your work and/or study system? For example, is there a specific spatial scale or group of species that you’re interested in?\nWhat would make them more useful to you? (e.g., specific scenario examples)\nAny general comments, questions, or suggestions?"
+  },
+  {
+    "objectID": "applications.html#applying-food-web-metrics",
+    "href": "applications.html#applying-food-web-metrics",
+    "title": "Applications",
+    "section": "",
+    "text": "Metrics that quantify entire communities can provide useful information to track, manage and promote a system’s health, and its ability to be resistant in the face of disturbance and threats associated with climate change.\nTwo main forest types in the Lake Tahoe basin are Sierran mixed conifer (hereafter mixed conifer) and red fir forests. As climate warms, it is predicted that red fir forests will decline and likely transition to mixed conifer. Constructing food webs of these two forest wildlife communities that we know well has two goals: (1) validate our metrics, do metrics match our understanding of the system? Are we able to create metrics that measure the system holistically? (2) Determine if metrics are similar or different, doing so will provide insights into what may be into what structure and function may be lost."
+  },
+  {
+    "objectID": "applications.html#footnotes",
+    "href": "applications.html#footnotes",
+    "title": "Applications",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nFigure on right shows mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).↩︎\nFigure shows mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).↩︎\nFigure shows mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).↩︎\nFigure shows mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).↩︎"
+  },
+  {
+    "objectID": "biodiversity.html#why-care-about-biodiversity",
+    "href": "biodiversity.html#why-care-about-biodiversity",
+    "title": "Biodiversity",
+    "section": "",
+    "text": "Biodiversity is the variety of life, in all forms. This encompasses all different species (from viruses, microbes, and fungi to plants and animals) and ecosystems (communities and interactions between species) in the world.\nBiodiversity is in crisis, therefore it is important to have integrative tools that better equip us to evaluate and support healthy, resilient, biodiverse communities as we plan major interventions to enhance forest resilience."
   }
 ]
