@@ -1,0 +1,16 @@
+---
+title: "Sep 28, 2023"
+date: "9/28/2023"
+linkTitle: "Sep 28, 2023"
+author: "Durrell D. Kapan"
+---
+
+# Sep, 2023
+
+<!-- add info here -->
+
+## Website Soft Launch
+
+With the continued support of the Wildlife Conservation Board and the hard work of intern Mark Schulist we are now launching this Wildlife Resilience website, overall the organization of the website follows the development of the metrics of wildlife resilience project. Please check back here for announcements, updates and other news. Great work intern Mark Schulist, post-doc Rebecca Wilcox and the entire Team!
+
+[![Wildlife Resilience Home Page](images/websitescreenshot.jpg)](https://wildliferesilience.github.io/wildliferesilience/)

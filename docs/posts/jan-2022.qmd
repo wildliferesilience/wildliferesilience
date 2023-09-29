@@ -1,0 +1,14 @@
+---
+title: "January 7, 2022"
+date: "1/7/2022"
+linkTitle: "January 7, 2022"
+author: "Durrell D. Kapan"
+---
+
+# January 2022
+
+<!-- add info here -->
+
+## First in person meeting! Welcome Angela!
+
+Co Principal Investigator Angela White from the USFS Pacific SW Research Station visited the team (Rebecca, Peter & Durrell) at the California Academy of Sciences to discuss data resources and outline work for the coming year. We had a productive visit, with the rest of the team joining us remotely. During this visit, we developed the overall workflow to make specific food webs from TCSI species and species interaction data and began working out how to incorporate the prospective Landis forest dynamic/climate scenario simulation model output (e.g. forest cover) to predict on-the-ground vegetation (e.g. shrub, tree, and forbs species). We also began building the ecosystem modeling framework to take food-webs formed from cover, vegetation and wildlife predictions to ecosystem simulations based on information about species ecology and interactions.
