@@ -39,7 +39,6 @@ The most widespread forest type in the basin, is characterized as a dynamic syst
 :::
 :::
 
-
 </a>
 
 <a href="central_sierras.qmd" class="tile">
@@ -58,7 +57,6 @@ Considered to be a static system (low energy system, often above snow line) and 
 
 </a>
 :::
-
 
 ## Community composition
 
@@ -148,18 +146,16 @@ High modularity (a high number of subcommunities) can be good because it means t
 
 <br> <br>
 
-Overall these metrics suggest that the wildlife communities in mixed conifer and fed fir forests differ in their composition, but are similar in structure which suggests that they will respond similarly to the loss of random species or top predators. But this is just the start, here we discussed resilience to species loss, but what about to other potential stressors (fire, drought, pests, disease, etc.). Further, using these metrics we can explore questions that address both basic ecological questions (e.g., what are the factors that drive community assembly, and how will they change into the future?) and applied questions (e.g., do wildlife communities differ in their resilience to different management strategies?), both of which will help us to inform management and policy makers to help promote healthy and resilient forests.  
+Overall these metrics suggest that the wildlife communities in mixed conifer and fed fir forests differ in their composition, but are similar in structure which suggests that they will respond similarly to the loss of random species or top predators. But this is just the start, here we discussed resilience to species loss, but what about to other potential stressors (fire, drought, pests, disease, etc.). Further, using these metrics we can explore questions that address both basic ecological questions (e.g., what are the factors that drive community assembly, and how will they change into the future?) and applied questions (e.g., do wildlife communities differ in their resilience to different management strategies?), both of which will help us to inform management and policy makers to help promote healthy and resilient forests.
 
 ## Future applications
 
 ![](images/Applications_Collage_reduced.png)
 
-**Forest composition:** With variation in management strategies and climate change, forest composition is expected to change into the future. Identifying patterns in forest composition (e.g., vegetation type) and associated wildlife communities will be an important tool for managers to understand how to support diverse communities into the future. 
+**Forest composition:** With variation in management strategies and climate change, forest composition is expected to change into the future. Identifying patterns in forest composition (e.g., vegetation type) and associated wildlife communities will be an important tool for managers to understand how to support diverse communities into the future.
 
 **Structure:** Forest structure is important for fire management. Understanding patterns in forest structure and how that influences communities will be important for communicating to managers how best to manage for dynamic landscapes that also support biodiversity.
 
 **Landscape management:** Evaluating how communities are impacted by different types of management will be critical to understand how decisions now can support resilient wildlife communities into the future. Further, performing this work on large spatial scales (e.g., the aforementioned [TCSI](central_sierras.qmd)) will help us understand how management influences wildlife communities across larger landscapes.
-
-
 
 <br> <br>

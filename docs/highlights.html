@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.475">
+<meta name="generator" content="quarto-1.3.433">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -57,7 +57,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script>
@@ -70,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -90,6 +91,7 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
@@ -106,53 +108,55 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title"></span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resilience.html">
+    <a class="nav-link" href="./resilience.html" rel="" target="">
  <span class="menu-text">Resilience</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./biodiversity.html">
+    <a class="nav-link" href="./biodiversity.html" rel="" target="">
  <span class="menu-text">Biodiversity</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./foodweb.html">
+    <a class="nav-link" href="./foodweb.html" rel="" target="">
  <span class="menu-text">Food Webs</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./metrics.html">
+    <a class="nav-link" href="./metrics.html" rel="" target="">
  <span class="menu-text">Metrics</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./central_sierras.html">
+    <a class="nav-link" href="./central_sierras.html" rel="" target="">
  <span class="menu-text">Central Sierra</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./applications.html">
+    <a class="nav-link" href="./applications.html" rel="" target="">
  <span class="menu-text">Applications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./highlights.html" aria-current="page">
+    <a class="nav-link active" href="./highlights.html" rel="" target="" aria-current="page">
  <span class="menu-text">Highlights</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resources.html">
+    <a class="nav-link" href="./resources.html" rel="" target="">
  <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
+    <a class="nav-link" href="./about.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -169,7 +173,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#highlights" id="toc-highlights" class="nav-link active" data-scroll-target="#highlights">Highlights</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(15)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -202,11 +206,350 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1639555200000" data-listing-file-modified-sort="1692395296372" data-listing-reading-time-sort="4.905">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1695884400000" data-listing-file-modified-sort="1695946779414" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/Sep-2023.html"> <p class="card-img-top"><img src="posts/images/websitescreenshot.jpg"  class="thumbnail-image card-img"/></p> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Sep-2023.html">
+<h3 class="no-anchor listing-title">
+Sep 28, 2023
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+With the continued support of the Wildlife Conservation Board and the hard work of intern Mark Schulist we are now launching this Wildlife Resilience website, overall the…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Sep-2023.html">
+<div class="listing-date">
+Sep 28, 2023
+</div>
+<div class="listing-author">
+Durrell D. Kapan
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1686380400000" data-listing-file-modified-sort="1695946412804" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/Jun-2023.html"> <p class="card-img-top"><img src="posts/images/IMG_6232.jpeg"  class="thumbnail-image card-img"/></p> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Jun-2023.html">
+<h3 class="no-anchor listing-title">
+Jun 10, 2023
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Du…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Jun-2023.html">
+<div class="listing-date">
+Jun 10, 2023
+</div>
+<div class="listing-author">
+Durrell D. Kapan
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1680246000000" data-listing-file-modified-sort="1695945745516" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/Mar-2023.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Mar-2023.html">
+<h3 class="no-anchor listing-title">
+Mar 31, 2023
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Rebecca finished this new outreach document for distrubution.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Mar-2023.html">
+<div class="listing-date">
+Mar 31, 2023
+</div>
+<div class="listing-author">
+Durrell D. Kapan
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1680246000000" data-listing-file-modified-sort="1695945900715" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/May-2023.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./posts/May-2023.html">
+<h3 class="no-anchor listing-title">
+May 17, 2023
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+On May 17, 2023, Rebecca presented "Metrics of wildlife community resilience" to the Lake Tahoe…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/May-2023.html">
+<div class="listing-date">
+Mar 31, 2023
+</div>
+<div class="listing-author">
+Durrell D. Kapan
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1672992000000" data-listing-file-modified-sort="1695945191276" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/Jan-26, 2023.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Jan-26, 2023.html">
+<h3 class="no-anchor listing-title">
+Jan 06, 2023
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+All wildlife resilience team members met at the USFS office in Davis California to address current progress and make goals for the coming year.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Jan-26, 2023.html">
+<div class="listing-date">
+Jan 6, 2023
+</div>
+<div class="listing-author">
+Durrell D. Kapan
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1670832000000" data-listing-file-modified-sort="1695944728587" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/Dec-2022.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Dec-2022.html">
+<h3 class="no-anchor listing-title">
+Dec 09, 2022
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Co-PIs Dr.&nbsp;Peter Roopnarine (curator of Paleontology and Geology) and Dr.&nbsp;Jack Dumbacher (Curator of Ornithology and Mammology) and post-doc Dr.&nbsp;Rebecca Wilcox attended the a convening on Grasslands hosted by the California Academy of Sciences on December 8-9, 2022. Convening attendees shared…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Dec-2022.html">
+<div class="listing-date">
+Dec 12, 2022
+</div>
+<div class="listing-author">
+Durrell D. Kapan
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1670832000000" data-listing-file-modified-sort="1695944760969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/Jan-2023.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Jan-2023.html">
+<h3 class="no-anchor listing-title">
+Dec 09, 2022
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Co-PIs Dr.&nbsp;Peter Roopnarine (curator of Paleontology and Geology) and Dr.&nbsp;Jack Dumbacher (Curator of Ornithology and Mammology) and post-doc Dr.&nbsp;Rebecca Wilcox attended the a convening on Grasslands hosted by the California Academy of Sciences on December 8-9, 2022. Convening attendees shared…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Jan-2023.html">
+<div class="listing-date">
+Dec 12, 2022
+</div>
+<div class="listing-author">
+Durrell D. Kapan
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1668844800000" data-listing-file-modified-sort="1695944350696" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/Nov-2022.html"> <p class="card-img-top"><img src="posts/images/Biodiversity_CiS_Fall2022.png"  class="thumbnail-image card-img"/></p> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Nov-2022.html">
+<h3 class="no-anchor listing-title">
+Nov 19, 2022
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Rebecca worked with California Academy of Sciences (CAS) Curator of Botany Sarah Jacobs to teach a course entitled “Biodiversity in the Park”, for the Careers in…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Nov-2022.html">
+<div class="listing-date">
+Nov 19, 2022
+</div>
+<div class="listing-author">
+Rebecca Wilcox
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1667199600000" data-listing-file-modified-sort="1695944088374" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/Oct-28, 2022.html"> <p class="card-img-top"><img src="posts/images/Resilient forest.jpg"  class="thumbnail-image card-img"/></p> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Oct-28, 2022.html">
+<h3 class="no-anchor listing-title">
+Oct 31, 2022
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Rebecca, Becky, Pat and Angela toured forests in the TCSI landscape and the Lake Tahoe basin to observe the impacts of disturbances (e.g., fire) and management (mechanical…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Oct-28, 2022.html">
+<div class="listing-date">
+Oct 31, 2022
+</div>
+<div class="listing-author">
+Durrell D. Kapan
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1666767600000" data-listing-file-modified-sort="1695943896650" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/Oct-2022.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Oct-2022.html">
+<h3 class="no-anchor listing-title">
+Oct 26, 2022
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Rebecca presented "Biodiversity and Sustainability of…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Oct-2022.html">
+<div class="listing-date">
+Oct 26, 2022
+</div>
+<div class="listing-author">
+Durrell D. Kapan
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1664521200000" data-listing-file-modified-sort="1695943618181" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/Sep-2022.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Sep-2022.html">
+<h3 class="no-anchor listing-title">
+Sep 30, 2022
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Becky, Pat and Rebecca attended the California Wildfire and…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Sep-2022.html">
+<div class="listing-date">
+Sep 30, 2022
+</div>
+<div class="listing-author">
+Rebecca C. Wilcox
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="11" data-listing-date-sort="1641542400000" data-listing-file-modified-sort="1695942546332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/jan-2022.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./posts/jan-2022.html">
+<h3 class="no-anchor listing-title">
+January 7, 2022
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Co Principal Investigator Angela White from the USFS Pacific SW Research Station visited the team (Rebecca, Peter &amp; Durrell) at the California Academy of Sciences to discuss…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/jan-2022.html">
+<div class="listing-date">
+Jan 7, 2022
+</div>
+<div class="listing-author">
+Durrell D. Kapan
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-listing-date-sort="1639468800000" data-listing-file-modified-sort="1695946818987" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<div class="thumbnail">
+<p><a href="./posts/dec-2021.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
 <div class="body">
 <a href="./posts/dec-2021.html">
 <h3 class="no-anchor listing-title">
-December 2021
+December 14, 2021
 </h3>
 <div class="listing-subtitle">
 
@@ -219,19 +562,22 @@ We had a busy year despite the mandatory social distancing! This year our interd
 <div class="metadata">
 <a href="./posts/dec-2021.html">
 <div class="listing-date">
-Dec 15, 2021
+Dec 14, 2021
 </div>
 <div class="listing-author">
-Durrell Kapan
+Durrell D. Kapan
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1636963200000" data-listing-file-modified-sort="1692395296372" data-listing-reading-time-sort="0.355">
+<div class="quarto-post image-right" data-index="13" data-listing-date-sort="1636531200000" data-listing-file-modified-sort="1695946821393" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/nov-2021.html"> <p class="card-img-top"><img src="posts/images/RCW.jpeg"  class="thumbnail-image card-img"/></p> </a></p>
+</div>
 <div class="body">
 <a href="./posts/nov-2021.html">
 <h3 class="no-anchor listing-title">
-November 2021
+November 10, 2021
 </h3>
 <div class="listing-subtitle">
 
@@ -244,19 +590,22 @@ We are excited to welcome Dr.&nbsp;Rebecca Wilcox, a community ecologist special
 <div class="metadata">
 <a href="./posts/nov-2021.html">
 <div class="listing-date">
-Nov 15, 2021
+Nov 10, 2021
 </div>
 <div class="listing-author">
-Durrell Kapan
+Durrell D. Kapan
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1610697600000" data-listing-file-modified-sort="1692395296372" data-listing-reading-time-sort="0.385">
+<div class="quarto-post image-right" data-index="14" data-listing-date-sort="1609920000000" data-listing-file-modified-sort="1695946819004" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/jan-2021.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
 <div class="body">
 <a href="./posts/jan-2021.html">
 <h3 class="no-anchor listing-title">
-January 2021
+January 6, 2021
 </h3>
 <div class="listing-subtitle">
 
@@ -269,10 +618,10 @@ Happy New Year! The California Wildlife Conservation Board (WCB) funded our “M
 <div class="metadata">
 <a href="./posts/jan-2021.html">
 <div class="listing-date">
-Jan 15, 2021
+Jan 6, 2021
 </div>
 <div class="listing-author">
-Durrell Kapan
+Durrell D. Kapan
 </div>
 </a>
 </div>
@@ -309,9 +658,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -376,6 +739,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {

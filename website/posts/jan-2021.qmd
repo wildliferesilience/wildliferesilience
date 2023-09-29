@@ -1,8 +1,8 @@
 ---
-date: "1/15/2021"
-title: "January 2021"
-linkTitle: "January 2021"
-author: "Durrell Kapan"
+date: "1/6/2021"
+title: "January 6, 2021"
+linkTitle: "January 6, 2021"
+author: "Durrell D. Kapan"
 ---
 # January 2021
 <!-- add info here -->
