@@ -1,15 +1,16 @@
 ---
-title: "Sep 30, 2022"
+title: "California Wildfire and Forest Resilience Task Force"
 date: "9/30/2022"
-linkTitle: "Sep 30, 2022"
+linkTitle: "California Wildfire and Forest Resilience Task Force"
 author: "Rebecca C. Wilcox"
+categories:
+  - outreach
+  - meetings
 ---
 
-# September 2022
+## California Wildfire and Forest Resilience Task Force meeting in Grass Valley CA
 
 <!-- add info here -->
-
-## California Wildfire and Forest Resilience Task Force meeting in Grass Valley CA
 
 Becky, Pat and Rebecca attended the California Wildfire and Forest Resilience Task Force meeting in Grass Valley CA (September 27th-28th). Rebecca tabled and presented outreach material and talked with folks interested in forest resilience.
 

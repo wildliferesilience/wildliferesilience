@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Durrell D. Kapan">
-<meta name="dcterms.date" content="2021-01-06">
+<meta name="dcterms.date" content="2021-02-14">
 
-<title>- January 6, 2021</title>
+<title>- Diving into resilience</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -139,10 +158,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#january-2021" id="toc-january-2021" class="nav-link active" data-scroll-target="#january-2021">January 2021</a>
-  <ul class="collapse">
-  <li><a href="#getting-started-with-the-metrics-of-wildlife-resilience-project" id="toc-getting-started-with-the-metrics-of-wildlife-resilience-project" class="nav-link" data-scroll-target="#getting-started-with-the-metrics-of-wildlife-resilience-project">Getting started with the Metrics of Wildlife Resilience project!</a></li>
-  </ul></li>
+  <li><a href="#diving-into-resilience" id="toc-diving-into-resilience" class="nav-link active" data-scroll-target="#diving-into-resilience">Diving into resilience</a></li>
   </ul>
 </nav>
     </div>
@@ -151,8 +167,12 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">January 6, 2021</h1>
-</div>
+<h1 class="title">Diving into resilience</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">deep dive</div>
+    <div class="quarto-category">resilience</div>
+  </div>
+  </div>
 
 
 
@@ -168,7 +188,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">January 6, 2021</p>
+      <p class="date">February 14, 2021</p>
     </div>
   </div>
   
@@ -178,18 +198,31 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="january-2021" class="level1">
-<h1>January 2021</h1>
+<section id="diving-into-resilience" class="level2">
+<h2 class="anchored" data-anchor-id="diving-into-resilience">Diving into resilience</h2>
 <!-- add info here -->
-<section id="getting-started-with-the-metrics-of-wildlife-resilience-project" class="level2">
-<h2 class="anchored" data-anchor-id="getting-started-with-the-metrics-of-wildlife-resilience-project">Getting started with the Metrics of Wildlife Resilience project!</h2>
-<p>Happy New Year! The <a href="https://wcb.ca.gov/">California Wildlife Conservation Board (WCB)</a> funded our “Metrics of Wildlife Community Resilience for Sierra Nevada Forests.” This support will make it possible to conduct a series of workshops, outreach meetings and importantly hire a post-doc to work with our team to develop the underlying theory, data and computer code to connect wildlife, plant communities and forest resilience. Thank you WCB!</p>
+<p>Resilience in a complex system is illustrated by the green surface below taken from Roopnarine &amp; <strong>Angielczyk</strong> <span class="citation" data-cites="chapter2016">(<a href="#ref-chapter2016" role="doc-biblioref"><span>“Chapter 13: The Stability of Ecological Communities as an Agent of Evolutionary Selection”</span> 2016</a>)</span>. As the system evolves, it’s current ‘state’ or ‘regime’ is defined by a ball travelling to different positions along the surface. Deeper ‘troughs’ represent increased resilience. If a disturbance can push the system sufficiently far (e.g.&nbsp;push a ball out of a trough) then the system can move to a new state or regime (follow the dashed arrow to the new trough on the right). The new state of the system may or may not be more resilient.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.researchgate.net/publication/309242056_The_Stability_of_Ecological_Communities_as_an_Agent_of_Evolutionary_Selection"><img src="images/Roopnarine_Angielczyk_2016_Resilience_Image_transparent.png" class="img-fluid figure-img" alt="Figure from Roopnarine and Angielczyk 2016."></a></p>
+<figcaption class="figure-caption">Surface illustrating resilience</figcaption>
+</figure>
+</div>
+<p>It is also important to understand that resilience is simply a property of a system: the simple definition we utilize here focuses on a wildlife communities: “<strong>Resilience</strong>: is the ability of a wildlife community to persist, rebound, or regenerate after disturbance,” can apply to many different living systems.</p>
+<p>Resilience is not always good or desirable, many ecosystems can get caught in highly resilient states or regimes that human societies do not value. Several examples include lakes, or coastal estuaries, or even coral reefs and other ecosystems receiving high loads of fertilizing runoff sometimes combined with overfishing can flip these systems from oxygenated, clear and full of fish to anoxic, choked with algae. There are many examples, though it can be difficult to tease apart various interacting factors without in-depth investigations, for instance see <span class="citation" data-cites="ibelings2007">(<a href="#ref-ibelings2007" role="doc-biblioref">Ibelings et al. 2007</a>)</span>.</p>
+
 
 
 </section>
-</section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-chapter2016" class="csl-entry" role="listitem">
+<span>“Chapter 13: The Stability of Ecological Communities as an Agent of Evolutionary Selection.”</span> 2016. In, 307–33. University of Chicago Press. <a href="https://doi.org/10.7208/chicago/9780226426198.003.0017">https://doi.org/10.7208/chicago/9780226426198.003.0017</a>.
+</div>
+<div id="ref-ibelings2007" class="csl-entry" role="listitem">
+Ibelings, Bas W., Rob Portielje, Eddy H. R. R. Lammens, Ruurd Noordhuis, Marcel S. van den Berg, Willemien Joosse, and Marie Louise Meijer. 2007. <span>“Resilience of Alternative Stable States During the Recovery of Shallow Lakes from Eutrophication: Lake Veluwe as a Case Study.”</span> <em>Ecosystems</em> 10 (1): 4–16. <a href="https://doi.org/10.1007/s10021-006-9009-4">https://doi.org/10.1007/s10021-006-9009-4</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

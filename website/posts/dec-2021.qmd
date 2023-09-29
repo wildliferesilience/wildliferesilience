@@ -1,13 +1,11 @@
 ---
 date: "12/14/2021"
-title: "December 14, 2021"
-linkTitle: "December 14, 2021"
+title: "Working on Wildlife Resilience during a pandemic!"
+linkTitle: "Working on Wildlife Resilience during a pandemic!"
 author: "Durrell D. Kapan"
+categories:
+  - update
 ---
-
-# December 2021
-
-<!-- add info here -->
 
 ## Working on Wildlife Resilience during a pandemic!
 
@@ -17,7 +15,7 @@ We had a busy year despite the mandatory social distancing! This year our interd
 |----------------------------|--------------------|--------------------|-------------------------|
 | **Scientific Name**        | **Common Name**    | **Number of prey** | **Number of predators** |
 | *Haliaeetus leucocephalus* | Bald Eagle         | 104                | 1                       |
-| *Accipiter cooperii*       | Cooper\'s Hawk     | 89                 | 4                       |
+| *Accipiter cooperii*       | Cooper's Hawk      | 89                 | 4                       |
 | *Aquila chrysaetos*        | Golden Eagle       | 80                 | 0                       |
 | *Accipiter striatus*       | Sharp-shinned Hawk | 78                 | 1                       |
 | *Bubo virginianus*         | Great-horned Owl   | 74                 | 4                       |

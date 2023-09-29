@@ -23,7 +23,7 @@ Forests are very biodiverse, in fact, the world's forests harbor the vast majori
 ::: callout-tip
 ## Definitions
 
-**Resilience**: is the ability of a wildlife community to persist, rebound, or regenerate after disturbance.
+**Resilience** is the ability of an ecosystem to persist, rebound, or regenerate after disturbance.
 
 **Biodiversity**: the variety of life, in all forms. This includes the variety of species, the interactions between these species, and other functions life performs in communities and ecosystems.
 

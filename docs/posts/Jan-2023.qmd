@@ -1,14 +1,15 @@
 ---
-title: "Dec 09, 2022"
+title: "Grasslands Convening"
 date: "12/12/2022"
-linkTitle: "Dec 09, 2022"
+linkTitle: "Grasslands Convening"
 author: "Durrell D. Kapan"
+categories:
+  - meetings
+  - outreach
 ---
 
-# Dec 09, 2022
+## Grasslands Convening
 
 <!-- add info here -->
-
-## Grasslands Convening
 
 Co-PIs [Dr. Peter Roopnarine (curator of Paleontology and Geology)](https://www.calacademy.org/staff/ibss/invertebrate-zoology-and-geology/peter-roopnarine) and [Dr. Jack Dumbacher (Curator of Ornithology and Mammology)](http://www.jackdumbacher.com/) and post-doc Dr. Rebecca Wilcox attended the a convening on Grasslands hosted by the California Academy of Sciences on December 8-9, 2022. Convening attendees shared perspectives on grasslands and the Metrics of Wildlife Resilience team included their developing perspectives on biodiversity and resilience based on project work in Sierra Nevada forests.
