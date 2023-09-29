@@ -22,7 +22,7 @@ format:
 
 ***Our work*** takes place in the forests of the Central Sierra Nevada mountain range at the landscape and watershed scales (click the map below for more information).
 
-```{r study_area}
+```{r}
 #| echo: false
 #| warning: false
 #| message: false
@@ -49,6 +49,7 @@ palette[1] <- "#0000FF00"
 jsCode <- paste0('
  function(el, x, data) {
   var marker = document.getElementsByClassName("leaflet-interactive");
+  console.log(data.url);
   for(var i=0; i < marker.length; i++){
     (function(){
       var v = data.url[i];
