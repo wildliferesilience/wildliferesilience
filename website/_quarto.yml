@@ -14,6 +14,7 @@ filters:
 website:
   title: " "
   reader-mode: false
+  page-navigation: true
   # page-footer: 
   #   background: "#343a40"
   #   center: |
@@ -48,4 +49,3 @@ format:
       body-width: 1500px
       gutter-width: 4em
     bibliography: references.bib
-

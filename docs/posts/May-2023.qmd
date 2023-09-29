@@ -1,16 +1,17 @@
 ---
-title: "May 17, 2023"
-date: "3/31/2023"
-linkTitle: "May 17, 2023"
+title: "Lake Tahoe Biologists Inter-agency Group (BIG) presentation and outreach"
+date: "5/20/2023"
+linkTitle: "Lake Tahoe Biologists Inter-agency Group (BIG) presentation and outreach"
 author: "Durrell D. Kapan"
+categories:
+  - meetings
+  - outreach
 ---
 
-# May, 2023
+## Lake Tahoe Biologists Inter-agency Group (BIG) presentation and outreach
 
 <!-- add info here -->
 
-## Lake Tahoe Biologists Interagency Group (BIG) presentation and outreach
-
-On May 17, 2023, Rebecca presented \"Metrics of wildlife community resilience\" to the Lake Tahoe Biologist\'s Interagency Group (BIG). The BIG group is comprised of state, federal, and non profit biologists who are actively working and managing land in the Lake Tahoe basin.
+On May 17, 2023, Rebecca presented "Metrics of wildlife community resilience" to the Lake Tahoe Biologist's Interagency Group (BIG). The BIG group is comprised of state, federal, and non profit biologists who are actively working and managing land in the Lake Tahoe basin.
 
 The BIG group is organized by the California Tahoe Conservancy and is composed of biologists and managers from state, federal, and NGOs working in the Lake Tahoe Basin. This opportunity expanded our stakeholder group to include biologists with specific expertise in one of our major focal watersheds (the Lake Tahoe Basin). Dr. Wilcox also followed up on this meeting with interested parties who could help provide insights on current research on pollinators in the central Sierras. Dr. Wilcox returned to our group meetings with this stakeholder input to help the team improve various metrics and potential applications of wildlife resilience being developed. Specifically, as we move forward with analyzing the food webs, to consider issues such as evaluating thresholds (e.g., when do communities break down?) and landscape community connectivity (e.g., how can we restore habitat to facilitate connectivity between populations and communities).

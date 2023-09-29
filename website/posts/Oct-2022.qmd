@@ -1,14 +1,14 @@
 ---
-title: "Oct 26, 2022"
+title: "Member talk at the Academy"
 date: "10/26/2022"
 linkTitle: "Oct 26, 2022"
-author: "Durrell D. Kapan"
+author: "Member talk at the Academy"
+categories:
+  - outreach
 ---
-
-# October 25, 2022
-
-<!-- add info here -->
 
 ## Member talk at the Academy
 
-Rebecca presented \"Biodiversity and Sustainability of Sierra Nevada Wildlife Communities\" to California Academy of Sciences members on October 25th. The talk was well received and is building interest in the project at the Academy!
+<!-- add info here -->
+
+Rebecca presented "Biodiversity and Sustainability of Sierra Nevada Wildlife Communities" to California Academy of Sciences members on October 25th. The talk was well received and is building interest in the project at the Academy!

@@ -1,16 +1,16 @@
 ---
-title: "Mar 31, 2023"
+title: "New outreach document"
 date: "3/31/2023"
-linkTitle: "Mar 31, 2023"
+linkTitle: "New outreach document"
 author: "Durrell D. Kapan"
+categories:
+  - announcement
 ---
-
-# Mar 2023
-
-<!-- add info here -->
 
 ## New outreach document
 
-Rebecca finished this new outreach document for distrubution.
+<!-- add info here -->
+
+Rebecca finished this new outreach document for distribution.
 
 ![](images/Metrics_Wildlife_Community_Resilience_Summary.pdf)

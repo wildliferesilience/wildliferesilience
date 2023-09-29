@@ -1,0 +1,22 @@
+---
+title: "Diving into resilience"
+date: "2/14/2021"
+linkTitle: "Diving into resilience"
+author: "Durrell D. Kapan"
+bibliography: references.bib
+categories:
+  - deep dive
+  - resilience
+---
+
+## Diving into resilience
+
+<!-- add info here -->
+
+Resilience in a complex system is illustrated by the green surface below taken from Roopnarine & **Angielczyk** [@chapter2016]. As the system evolves, it's current 'state' or 'regime' is defined by a ball travelling to different positions along the surface. Deeper 'troughs' represent increased resilience. If a disturbance can push the system sufficiently far (e.g. push a ball out of a trough) then the system can move to a new state or regime (follow the dashed arrow to the new trough on the right). The new state of the system may or may not be more resilient.
+
+[![Surface illustrating resilience](images/Roopnarine_Angielczyk_2016_Resilience_Image_transparent.png){fig-alt="Figure from Roopnarine and Angielczyk 2016."}](https://www.researchgate.net/publication/309242056_The_Stability_of_Ecological_Communities_as_an_Agent_of_Evolutionary_Selection)
+
+It is also important to understand that resilience is simply a property of a system: the simple definition we utilize here focuses on a wildlife communities: "**Resilience**: is the ability of a wildlife community to persist, rebound, or regenerate after disturbance," can apply to many different living systems.
+
+Resilience is not always good or desirable, many ecosystems can get caught in highly resilient states or regimes that human societies do not value. Several examples include lakes, or coastal estuaries, or even coral reefs and other ecosystems receiving high loads of fertilizing runoff sometimes combined with overfishing can flip these systems from oxygenated, clear and full of fish to anoxic, choked with algae. There are many examples, though it can be difficult to tease apart various interacting factors without in-depth investigations, for instance see [@ibelings2007].

@@ -1,14 +1,14 @@
 ---
-title: "Jan 06, 2023"
+title: "Full team meeting Davis, CA"
 date: "1/6/2023"
-linkTitle: "Jan 06, 2023"
+linkTitle: "Full team meeting Davis, CA"
 author: "Durrell D. Kapan"
+categories:
+  - meetings
 ---
 
-# Jan 06, 2023
+## Full team meeting Davis, CA
 
 <!-- add info here -->
-
-## Full team meeting Davis, CA
 
 All wildlife resilience team members met at the USFS office in Davis California to address current progress and make goals for the coming year.

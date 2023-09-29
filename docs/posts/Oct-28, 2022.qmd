@@ -1,16 +1,16 @@
 ---
-title: "Oct 31, 2022"
+title: "Field trip TCSI and LTB forests: disturbance impacts and management treatments"
 date: "10/31/2022"
-linkTitle: "Oct 31, 2022"
+linkTitle: "Field trip TCSI and LTB forests: disturbance impacts and management treatments"
 author: "Durrell D. Kapan"
+categories:
+  - field trips
 ---
-
-# October 28, 2022
-
-<!-- add info here -->
 
 ## Field trip TCSI and LTB forests: disturbance impacts and management treatments
 
-Rebecca, Becky, Pat and Angela toured forests in the TCSI landscape and the Lake Tahoe basin to observe the impacts of disturbances (e.g., fire) and management (mechanical vs hand thinning) on forest communities. The field trip started in the footprint of the Caldor fire where we observed the impacts of a recent, high severity fire. Next, we drove to Lake Tahoe where we observed the regeneration of shrubs and trees following the Angora fire. Lastly, we went to the McKinney Creek Management Unit to observe the impacts of mechanical and hand thinning treatments on stand structure and understory vegetation. Field trips like these are a critical time to step away from models and computers in order to gain perspective on what\'s happening in the forests. Further, it was a fruitful time to generate questions and predictions for how these various disturbances and treatments might differently impact food webs and wildlife community resilience.
+<!-- add info here -->
 
-![Project members co-PI Becky Estes (left), Post-doc Rebecca Wilcox (center) and co-PI Pat Manley (right).](images/Resilient forest.jpg){fig-align="left"}
+Rebecca, Becky, Pat and Angela toured forests in the TCSI landscape and the Lake Tahoe basin to observe the impacts of disturbances (e.g., fire) and management (mechanical vs hand thinning) on forest communities. The field trip started in the footprint of the Caldor fire where we observed the impacts of a recent, high severity fire. Next, we drove to Lake Tahoe where we observed the regeneration of shrubs and trees following the Angora fire. Lastly, we went to the McKinney Creek Management Unit to observe the impacts of mechanical and hand thinning treatments on stand structure and understory vegetation. Field trips like these are a critical time to step away from models and computers in order to gain perspective on what's happening in the forests. Further, it was a fruitful time to generate questions and predictions for how these various disturbances and treatments might differently impact food webs and wildlife community resilience.
+
+![Project members co-PI Becky Estes (left), Post-doc Rebecca Wilcox (center) and co-PI Pat Manley (right).](images/Resilient%20forest.jpg){fig-align="left"}
