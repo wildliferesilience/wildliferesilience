@@ -22,11 +22,7 @@ Measures of resilience often focus on structural elements (e.g., tree density) o
 
 ![](images/IMG_6851.png){fig-align="center"}
 
-***Integrating biodiversity into plans for resilience management*** will provide a more holistic picture of wildlife communities and will be critical for how we track, regenerate, and steward forests to be more resilient into the future. To achieve this, our team from the United States Forest Service and the California Academy of Sciences is working to measure wildlife communities' resilience by borrowing methods from paleontology[^1] to develop models of interacting wildlife species for different Sierra Nevada forests. This work is made possible by generous funding from the Wildlife Conservation Board[^2].
-
-[^1]: Utilizing a method pioneered by Academy curator of Geology and Paleontology Dr. Peter Roopnarine, for an example see [@Roopnarine2018-jw]
-
-[^2]: (see [About](about.qmd) for more information)
+***Integrating biodiversity into plans for resilience management*** will provide a more holistic picture of wildlife communities and will be critical for how we track, regenerate, and steward forests to be more resilient into the future. To achieve this, our team from the United States Forest Service and the California Academy of Sciences is working to measure wildlife communities' resilience by borrowing methods from paleontology [@Roopnarine2018-jw] to develop models of interacting wildlife species for different Sierra Nevada forests. This work is made possible by generous funding from the Wildlife Conservation Board (see [About](about.qmd) for more information).
 
 This website gives an overview of the basic background and process to create metrics of wildlife resilience for a large region in the central Sierra Nevada. To learn more follow the links on this page.
 

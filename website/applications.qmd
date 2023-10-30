@@ -22,7 +22,7 @@ format:
 
 Two main forest types in the [Lake Tahoe basin](central_sierras.qmd) are Sierran mixed conifer (hereafter mixed conifer) and red fir forests. As climate warms, it is predicted that red fir forests will decline and likely transition to mixed conifer. Constructing food webs of these two forest wildlife communities that we know well has two goals: (1) validate our metrics, do metrics match our understanding of the system? Are we able to create metrics that measure the system holistically? (2) Determine if metrics are similar or different, doing so will provide insights into what may be into what structure and function may be lost.
 
-## How does the composition, structure, and fucntion of mixed conifer and red fir forest wildlife communities differ?
+## How does the composition, structure, and funnction of mixed conifer and red fir forest wildlife communities differ?
 
 ::: container
 <a href="central_sierras.qmd" class="tile">
@@ -62,7 +62,7 @@ Considered to be a static system (low energy system, often above snow line) and 
 
 ::: columns
 ::: {.column width="50%"}
-***Species (A) and guild richness (B - functional groups)*** are higher in mixed conifer forests compared to red fir forests.[^1] This matches our knowledge of the systems, and, just because red fir forest is less biodiverse (lower species & guild richness), doesn't mean it's less valuable, they are different.
+***Species (Fig 1A) and guild richness (Fig 1B - functional groups)*** are higher in mixed conifer forests compared to red fir forests. This matches our knowledge of the systems, and, just because red fir forest is less biodiverse (lower species & guild richness), doesn't mean it's less valuable, they are different.
 
 The two forest types occur in different life zones and support some different species. For example, Clark's nutcrackers are important seed dispersers of conifers, and they are found in higher elevation red fir forests. While Mixed conifer forests are home to striped and spotted skunks, who are mesocarnivores, which can be important in maintaining food web stability.
 :::
@@ -71,13 +71,25 @@ The two forest types occur in different life zones and support some different sp
 :::
 
 ::: {.column width="40%"}
-::: imgcap
-![](SVG_images/Richness_RFR_SMC.svg)
+</a>
+
+<a href="applications.qmd" class="tile">
+
+::: popout
+
+<img src="SVG_images/Richness_RFR_SMC.svg" alt="food web"/>
+
+::: overlay
+::: text
+Figure 1: Mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
 :::
 :::
 :::
 
-[^1]: Figure on right shows mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
+</a>
+
+:::
+:::
 
 <br> <br>
 
@@ -85,7 +97,7 @@ The two forest types occur in different life zones and support some different sp
 
 ::: columns
 ::: {.column width="50%"}
-***Functional similarity*** is generally alike in the two forests.[^2]
+***Functional similarity*** is generally alike in the two forests.[^1]
 
 This suggests that multiple species may perform similar functions and that this redundancy may allow communities to be more resilient in the face of random species loss.
 :::
@@ -100,13 +112,11 @@ This suggests that multiple species may perform similar functions and that this 
 :::
 :::
 
-[^2]: Figure shows mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
-
 <br> <br>
 
 ::: columns
 ::: {.column width="50%"}
-While similar, on average ***maximum chain length*** (calculated as the mean guild maximum chain length (mcl)) is higher in mixed conifer compared to red fir forest.[^3]
+While similar, on average ***maximum chain length*** (calculated as the mean guild maximum chain length (mcl)) is higher in mixed conifer compared to red fir forest.[^1]
 
 In general longer chain lengths are associated with less stable systems, because the loss of a top (apex) predator can have cascading impacts on the rest of the community.
 :::
@@ -121,13 +131,11 @@ In general longer chain lengths are associated with less stable systems, because
 :::
 :::
 
-[^3]: Figure shows mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
-
 <br> <br>
 
 ::: columns
 ::: {.column width="50%"}
-***Modularity*** is similar and generally high for both forest types.[^4]
+***Modularity*** is similar and generally high for both forest types.[^1]
 
 High modularity (a high number of subcommunities) can be good because it means that if a random species is lost, then their loss will be less likely to have cascading impacts on the rest of the community. However, high modularity can also occur when there has been a simplification of the system - such as the loss of top predators. This is the case for the Central Sierra, where predators including grizzly bears and wolverines went extinct when westward expansion by pioneers occurred in the late 1800s and early 1900s.
 :::
@@ -141,8 +149,6 @@ High modularity (a high number of subcommunities) can be good because it means t
 :::
 :::
 :::
-
-[^4]: Figure shows mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
 
 <br> <br>
 
