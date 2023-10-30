@@ -97,7 +97,7 @@ Figure 1: Mean values (circles) with standard deviation (error bars) produced fr
 
 ::: columns
 ::: {.column width="50%"}
-***Functional similarity*** is generally alike in the two forests.[^1]
+***Functional similarity*** is generally alike in the two forests (Figure 2).
 
 This suggests that multiple species may perform similar functions and that this redundancy may allow communities to be more resilient in the face of random species loss.
 :::
@@ -106,9 +106,23 @@ This suggests that multiple species may perform similar functions and that this 
 :::
 
 ::: {.column width="40%"}
-::: imgcap
-![](SVG_images/Function_RFR_SMC.svg)
+</a>
+
+<a href="applications.qmd" class="tile">
+
+::: popout
+
+<img src="SVG_images/Function_RFR_SMC.svg" alt="food web"/>
+
+::: overlay
+::: text
+Figure 2: Mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
 :::
+:::
+:::
+
+</a>
+
 :::
 :::
 
@@ -116,7 +130,7 @@ This suggests that multiple species may perform similar functions and that this 
 
 ::: columns
 ::: {.column width="50%"}
-While similar, on average ***maximum chain length*** (calculated as the mean guild maximum chain length (mcl)) is higher in mixed conifer compared to red fir forest.[^1]
+While similar, on average ***maximum chain length*** (calculated as the mean guild maximum chain length (mcl)) is higher in mixed conifer compared to red fir forest (Figure 3).
 
 In general longer chain lengths are associated with less stable systems, because the loss of a top (apex) predator can have cascading impacts on the rest of the community.
 :::
@@ -125,9 +139,23 @@ In general longer chain lengths are associated with less stable systems, because
 :::
 
 ::: {.column width="40%"}
-::: imgcap
-![](SVG_images/MCL_RFR_SMC.svg){width="100%"}
+</a>
+
+<a href="applications.qmd" class="tile">
+
+::: popout
+
+<img src="SVG_images/MCL_RFR_SMC.svg" alt="food web"/>
+
+::: overlay
+::: text
+Figure 3: Mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
 :::
+:::
+:::
+
+</a>
+
 :::
 :::
 
@@ -135,7 +163,7 @@ In general longer chain lengths are associated with less stable systems, because
 
 ::: columns
 ::: {.column width="50%"}
-***Modularity*** is similar and generally high for both forest types.[^1]
+***Modularity*** is similar and generally high for both forest types (Figure 4).
 
 High modularity (a high number of subcommunities) can be good because it means that if a random species is lost, then their loss will be less likely to have cascading impacts on the rest of the community. However, high modularity can also occur when there has been a simplification of the system - such as the loss of top predators. This is the case for the Central Sierra, where predators including grizzly bears and wolverines went extinct when westward expansion by pioneers occurred in the late 1800s and early 1900s.
 :::
@@ -144,9 +172,23 @@ High modularity (a high number of subcommunities) can be good because it means t
 :::
 
 ::: {.column width="40%"}
-::: imgcap
-![](SVG_images/Modularity_RFR_SMC.svg)
+</a>
+
+<a href="applications.qmd" class="tile">
+
+::: popout
+
+<img src="SVG_images/Modularity_RFR_SMC.svg" alt="food web"/>
+
+::: overlay
+::: text
+Figure 4: Mean values (circles) with standard deviation (error bars) produced from over 500 simulations of species level networks for a mixed conifer forest, mid seral stage, moderate canopy cover at 1900 m of elevation (blue), and a red fir forest, mid seral stage, moderate canopy cover at 2250 m elevation (red).
 :::
+:::
+:::
+
+</a>
+
 :::
 :::
 
