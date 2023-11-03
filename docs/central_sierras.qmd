@@ -86,7 +86,7 @@ There are 14 dominant vegetation types in the TCSI that vary in their occurrence
 <a href="central_sierras.qmd" class="tile">
 
 ::: popout
-<img src="SVG_images/TCSI_map_density.svg" alt="resilience" fig-align="center" width="100%"/>
+![](SVG_images/TCSI_map_density.svg){alt="resilience" fig-align="center" width="100%"}
 
 ::: overlay
 ::: text
@@ -110,7 +110,7 @@ The Lake Tahoe basin is a unique combination of forest and urban communities, in
 <a href="central_sierras.qmd" class="tile">
 
 ::: popout
-<img src="SVG_images/LTB_map_Dist.svg" alt="resilience" fig-align="center" width="100%"/>
+![](SVG_images/LTB_map_Dist.svg){alt="resilience" fig-align="center" width="100%"}
 
 ::: overlay
 ::: text
@@ -128,7 +128,7 @@ When comparing the plants and animals that occur in those eight vegetation types
 <a href="central_sierras.qmd" class="tile">
 
 ::: popout
-<img src="SVG_images/LTB_Overlap_Dist.svg" alt="resilience" fig-align="center" width="100%"/>
+![](SVG_images/LTB_Overlap_Dist.svg){alt="resilience" width="100%"}
 
 ::: overlay
 ::: text
