@@ -128,7 +128,7 @@ When comparing the plants and animals that occur in those eight vegetation types
 <a href="central_sierras.qmd" class="tile">
 
 ::: popout
-![](SVG_images/LTB_Overlap_Dist.svg){alt="resilience" width="100%"}
+![](SVG_images/LTB_Overlap_Dist.svg){alt="resilience" fig-align="center" width="100%"}
 
 ::: overlay
 ::: text
