@@ -1,0 +1,57 @@
+---
+title: "Biodiversity research"
+date: "11/19/2023"
+linkTitle: "Biodiversity research"
+author: "Rebecca Wilcox"
+categories:
+  - outreach
+---
+
+## Biodiversity research
+
+<!-- add info here -->
+
+Rebecca worked with California Academy of Sciences (CAS) Curator of Botany Sarah Jacobs to teach a course entitled “Biodiversity Research”, for the [Careers in Science intern program at CAS](https://www.calacademy.org/careers-in-science-cis-intern-program). Careers in Science is an internship at CAS where high school students from communities traditionally underrepresented in STEM take courses and learn about careers in STEM.
+
+In Rebecca’s group students worked with six species that are extant or have low populations in California and play(ed) a critical role within central Sierra food webs. This included: wolverines (Gulo gulo), California grizzly bear (Ursus arctos horribilis), gray wolves (Canis lupus), beavers (Castor canadensis), porcupines (Erethizon dorsatum), and big horned sheep (Ovis canadensis sierrae). Throughout the course students learned about the ecology of these species, and their critical roles as herbivores and apex predators in Sierra Nevada wildlife communities. 
+
+Students used texts from the CAS library to explore how these species were perceived by indigenous peoples and European settlers, and to write species accounts. 
+
+![](images/CiS_books_2023.png){fig-align="center"}
+Students also learned about how museums play a critical role in understanding the history of these species in California. Moe Flannery, curator of the Mammalogy collection at CAS, took the students on a tour of the collection at CAS to learn about specimen collections and how they contribute to biodiversity research.
+
+::: columns
+::: {.column width="40%"}
+![](images/CiS_Collection_2023.png){fig-align="center"}
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+![](images/CiS_Collection2_2023.png){fig-align="center"}
+
+:::
+:::
+
+</a>
+
+Students also used data from the global biodiversity information facility (which compiles museum and other location occurrence data) and qGIS mapping program to explore how the occurrence and distribution of species in California have changed over time. 
+
+::: columns
+::: {.column width="40%"}
+![](images/Wolves_dist_2023.png){}
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+![](images/wolverine_dist_2023.png){}
+
+:::
+:::
+
+</a>
+
+At the end of the course, students presented their findings to their classmates and families. The students talked about how all of the species interacted with each other, how humans have modified these communities historically, and how these systems will continue to change into the future - with the reintroduction of species and restoration of these systems. 

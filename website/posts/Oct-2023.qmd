@@ -1,0 +1,22 @@
+---
+title: "Lake Tahoe Science to Action Conference"
+date: "10/13/2023"
+linkTitle: "Lake Tahoe Science to Action Conference"
+author: "Rebecca Wilcox"
+categories:
+  - meetings
+---
+
+## Lake Tahoe Science to Action Conference
+
+<!-- add info here -->
+
+![](images/LakeTahoe_sunrise.png){fig-align="center"}
+
+Team members Patricia Manley, Angela White and Rebecca Wilcox attended the [Tahoe Science Advisory Council’s](https://www.tahoesciencecouncil.org/) 2023 Science to Action conference in South Lake Tahoe Oct 11th-13th. The aim of the conference was to collect resource managers and researchers working in the Lake Tahoe basin to ensure that both are working together to meet challenges facing the Lake Tahoe basin (e.g., water quality, biodiversity, microplastics, etc.). Pat is a member of the Tahoe Science Council and presented as part of the biodiversity panel, “Biodiversity: What we need to worry about and what can we do about it?” 
+
+Rebecca created and shared a poster entitled, “Biodiversity and resilience of Lake Tahoe communities”. The aim of the poster was to communicate and solicit feedback on the importance of incorporating species interactions and food webs into how we evaluate biodiversity and resilience in Sierra Nevada wildlife communities. The poster also presented results showing the similarities and differences between vegetation types in their animal and plant composition, and outlined food web metrics and their uses. 
+
+![](images/Wilcox_TLB_Poster_Final.png){fig-align="center"}
+
+
