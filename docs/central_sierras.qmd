@@ -81,21 +81,7 @@ The TCSI spans an elevational gradient from 210 - 3400 meters. From the Central 
 
 There are 14 dominant vegetation types in the TCSI that vary in their occurrence (Fig 1A) and density across the gradient (Fig 1B).
 
-</a>
-
-<a href="central_sierras.qmd" class="tile">
-
-::: popout
-![](SVG_images/TCSI_map_density.svg){alt="resilience" fig-align="center" width="100%"}
-
-::: overlay
-::: text
-Figure 1: The vegetation types that occur in the TCSI vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in B correspond to vegetation type colors in A.
-:::
-:::
-:::
-
-</a>
+![Figure 1: The vegetation types that occur in the TCSI vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in B correspond to vegetation type colors in A.](SVG_images/TCSI_map_density.svg){fig-align="center" width="80%"}
 
 Considering wildlife resilience at the scale of the TCSI landscape is critical because wildlife communities occur and interact at these larger scales.
 
@@ -105,25 +91,11 @@ Considering wildlife resilience at the scale of the TCSI landscape is critical b
 
 The Lake Tahoe basin is a unique combination of forest and urban communities, increasing the interest and complexity of managing forests in the area. Further, the basin supports high biodiversity, including over 1,200 species of plants and animals and has a steep elevational gradient that spans four of the five lifezones. Eight major vegetation types are common within the Lake Tahoe basin (Fig 2A) and they range in their density across the elevational gradient (Fig 2B).
 
-![Figure 2: The vegetation types that occur in the Lake Tahoe basin vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in B correspond to vegetation type colors in A.](SVG_images/LTB_map_Dist.svg){alt="resilience" fig-align="center" width="100%"}
+![Figure 2: The vegetation types that occur in the Lake Tahoe basin vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in B correspond to vegetation type colors in A.](SVG_images/LTB_map_Dist.svg){fig-align="center" width="80%"}
 
 When comparing the plants and animals that occur in those eight vegetation types, we see that generally, overlap in species occurrence is more common for vegetation types in the same life zone. For example, (Fig 3A) Jeffrey pine (JPN, orange circle), Sierran mixed conifer (SMC, dark green circle), and White fir (WFR, purple circle) forests are commonly found in the lower montane zone (Fig 3B) and they have high overlap in the types of plants and animal that occur in those forest types.
 
-</a>
-
-<a href="central_sierras.qmd" class="tile">
-
-::: popout
-![](SVG_images/LTB_Overlap_Dist.svg){alt="resilience" fig-align="center" width="100%"}
-
-::: overlay
-::: text
-Figure 3: In A each large circle is a vegetation type, and each small circle is a species (green vertebrates, gold plants). Lines connecting species to vegetation types indicate that the species occurs in that vegetation type. Species may occur in multiple vegetation types (have multiple connecting lines) or occur in one vegetation type. B shows the elevation range of each vegetation types in the Lake Tahoe basin. Colors used for vegetation types in B correspond to vegetation type colors in A.
-:::
-:::
-:::
-
-</a>
+![Figure 3: In A each large circle is a vegetation type, and each small circle is a species (green vertebrates, gold plants). Lines connecting species to vegetation types indicate that the species occurs in that vegetation type. Species may occur in multiple vegetation types (have multiple connecting lines) or occur in one vegetation type. B shows the elevation range of each vegetation types in the Lake Tahoe basin. Colors used for vegetation types in B correspond to vegetation type colors in A.](SVG_images/LTB_Overlap_Dist.svg){fig-align="center" width="80%"}
 
 Given the different (and similar) species present in these forest communities, we next use our food web models and metrics to see if wildlife communities differ in composition, structure, and function. To see what this looks like see the [applications](applications.qmd) page.
 
