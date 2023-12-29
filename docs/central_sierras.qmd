@@ -105,21 +105,7 @@ Considering wildlife resilience at the scale of the TCSI landscape is critical b
 
 The Lake Tahoe basin is a unique combination of forest and urban communities, increasing the interest and complexity of managing forests in the area. Further, the basin supports high biodiversity, including over 1,200 species of plants and animals and has a steep elevational gradient that spans four of the five lifezones. Eight major vegetation types are common within the Lake Tahoe basin (Fig 2A) and they range in their density across the elevational gradient (Fig 2B).
 
-</a>
-
-<a href="central_sierras.qmd" class="tile">
-
-::: popout
-![](SVG_images/LTB_map_Dist.svg){alt="resilience" fig-align="center" width="100%"}
-
-::: overlay
-::: text
-Figure 2: The vegetation types that occur in the Lake Tahoe basin vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in B correspond to vegetation type colors in A.
-:::
-:::
-:::
-
-</a>
+![Figure 2: The vegetation types that occur in the Lake Tahoe basin vary spatially (A) and in their occurrence at different elevations (B). Colors used for vegetation types in B correspond to vegetation type colors in A.](SVG_images/LTB_map_Dist.svg){alt="resilience" fig-align="center" width="100%"}
 
 When comparing the plants and animals that occur in those eight vegetation types, we see that generally, overlap in species occurrence is more common for vegetation types in the same life zone. For example, (Fig 3A) Jeffrey pine (JPN, orange circle), Sierran mixed conifer (SMC, dark green circle), and White fir (WFR, purple circle) forests are commonly found in the lower montane zone (Fig 3B) and they have high overlap in the types of plants and animal that occur in those forest types.
 
