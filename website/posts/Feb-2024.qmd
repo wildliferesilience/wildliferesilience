@@ -1,0 +1,20 @@
+---
+title: "Western Section of The Wildlife Society Meeting"
+date: "2/6/2024"
+linkTitle: "Western Section of The Wildlife Society Meeting"
+author: "Rebecca Wilcox"
+categories:
+  - outreach
+---
+
+## Western Section of The Wildlife Society Meeting
+
+<!-- add info here -->
+
+Rebecca and PI Angela White attended the Western Section of The Wildlife Society Meeting 2024 in Sonoma County. Angela presented her work with post-fire landscapes in a talk entitled, “Using Climate-adapted Landscape Monitoring (CALM) to prioritize management across large landscapes in post-fire restoration and post-fire planning”.  
+
+Rebecca presented work from the wildlife resilience project entitled, “Understanding potential impacts of vegetation type conversion through comparisons of biotic community composition, structure and function”. In the talk she addressed two questions: (1) are communities from eight different vegetation types in the Lake Tahoe basin distinct in their composition, structure and function? And (2) how do abiotic factors (elevation-based energy and fire return interval) influence distinctness?
+
+![](images/TWS_2024_TitleSlide.png){fig-align="center"}
+
+The conference was a great opportunity to interact with managers and researchers working with wildlife in the Western United States, to present the food web work as a dynamic and holistic way to measure Sierra Nevada forest communities, and show how food web metrics can be an important way to understand current community dynamics. 
