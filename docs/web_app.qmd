@@ -1,0 +1,14 @@
+---
+title: "Web App"
+format: 
+    html:
+        css: web_app.css
+        anchor-sections: false
+---
+<iframe
+  id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="100%"
+  height="1000px"
+  src="https://elimia.shinyapps.io/wildlife_resilience/">
+</iframe>

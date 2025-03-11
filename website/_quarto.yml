@@ -36,7 +36,7 @@ website:
       - highlights.qmd
       - resources.qmd
       - about.qmd
-
+      - web_app.qmd
 
 format:
   html:

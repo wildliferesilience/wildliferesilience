@@ -30,10 +30,11 @@ format:
 library(dplyr)
 library(leaflet)
 library(leafem)
-library(rgdal)
+# library(rgdal)
+library(sf)
 
 # TCSI_outline <- readLines("input/TCSI_boundary.geojson") %>% paste(collapse = "\n")
-TCSI_outline <- readOGR("input/TCSI_boundary.geojson")
+TCSI_outline <- sf::st_read("input/TCSI_boundary.geojson")
 tahoe_outline <- readLines("input/tahoe_outline.geojson") %>% paste(collapse = "\n")
 caples_outline <- readLines("input/caples_boundary.geojson") %>% paste(collapse = "\n")
 
@@ -41,7 +42,7 @@ TCSI_popup <- "Tahoe Central Sierra Initiative"
 tahoe_popup <- "Lake Tahoe Basin"
 caples_popup <- "Caples Creek Watershed"
 
-tcsi_all <- readOGR("input/all.geojson")
+tcsi_all <- sf::st_read("input/all.geojson") # readOGR("input/all.geojson")
 
 palette <- hcl.colors(256, palette = "fall")
 palette[1] <- "#0000FF00"
@@ -70,7 +71,7 @@ leaflet(tcsi_all) %>%
   addPolygons(weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = ~color, label = ~name, labelOptions = labelOptions(textsize = "1.25em"), options = pathOptions(pane = ~pane)) %>%
   # addGeoJSON(TCSI_outline, weight = 0, fillOpacity = 0.5, opacity = 1, fillColor = "green", label = TCSI_popup) %>%
   setView(lng = -121, lat = 38.5, zoom = 08) %>%
-  htmlwidgets::onRender(jsCode, data = tcsi_all@data)
+  htmlwidgets::onRender(jsCode, data = tcsi_all)
 ```
 
 ## Tahoe-Central Sierra Landscape
