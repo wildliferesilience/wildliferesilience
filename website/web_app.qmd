@@ -9,6 +9,6 @@ format:
   id="inlineFrameExample"
   title="Inline Frame Example"
   width="100%"
-  height="1000px"
+  height="1600px"
   src="https://elimia.shinyapps.io/wildlife_resilience/">
 </iframe>
