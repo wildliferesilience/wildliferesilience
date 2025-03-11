@@ -1,9 +1,5 @@
 ---
 title: "Central Sierra"
-# note we should get the TCSI boundary
-# and each watershed in the study area (LTB, King, Sagehen, Caples)
-# and then get the layers for each habitat divided by elevation.
-# and work from there
 format:
   html: 
     css: index.css
