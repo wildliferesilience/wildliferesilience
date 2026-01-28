@@ -9,6 +9,6 @@ format:
   id="inlineFrameExample"
   title="Inline Frame Example"
   width="100%"
-  height="92%px"
+  height="160%"
   src="https://wildliferesilience.shinyapps.io/foodwebs/">
 </iframe>
