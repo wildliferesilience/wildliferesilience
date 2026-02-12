@@ -1,0 +1,81 @@
+{
+  "labels": [
+    { "name": "text", "color": "0E8A16", "description": "Text/copy change" },
+    { "name": "note", "color": "D4C5F9", "description": "Contextual note or question" },
+    { "name": "new-feature", "color": "1D76DB", "description": "New feature request" },
+    { "name": "bug-fix", "color": "D93F0B", "description": "Bug fix" },
+    { "name": "website", "color": "FBCA04", "description": "Affects the static website" },
+    { "name": "web-app", "color": "F9D0C4", "description": "Affects the web app" },
+    { "name": "high", "color": "B60205", "description": "High severity" },
+    { "name": "low", "color": "C2E0C6", "description": "Low severity" },
+    { "name": "infra", "color": "5319E7", "description": "Build, CI/CD, repo structure" },
+    { "name": "cleanup", "color": "BFDADC", "description": "Technical debt and cleanup" }
+  ],
+  "issues": [
+    {
+      "title": "Fix citation formatting for LANDIS and food web references on Tab 3",
+      "labels": ["text", "web-app", "high"],
+      "body": "## Text change\n\n**Area:** Web App — Tab 3\n\n**Current text:**\n> LANDIS Scenarios: Maxwell et al. 2022. Assessing the effectiveness of landscape-scale forest adaptation actions to improve resilience under projected climate change. Food web data outputs: Wilcox, et. al. in prep. Climate and management impacts on community-level processes.\n\n**Suggested text:**\n> Maxwell, C. J., Scheller, R. M., Wilson, K. N., & Manley, P. N. (2022). Assessing the effectiveness of landscape-scale forest adaptation actions to improve resilience under projected climate change. *Frontiers in Forests and Global Change*, 5, 740869. https://doi.org/10.3389/ffgc.2022.740869\n>\n> Wilcox, R. C., D. D. Kapan, A. M. White, P. N. Manley, J. P. Dumbacher, B. L. Estes, and P. D. Roopnarine. (In review). Ecological modeling of temperate forest community food webs with implications for conservation. Submitted to *Ecosphere*.\n\n**Why:** Use proper citation data and formatting (full author lists, journal name, DOI).\n\n**Severity:** High\n**Reporter:** Durrell"
+    },
+    {
+      "title": "Add notes field to Tab 3; consider snowline change context",
+      "labels": ["note", "web-app", "low"],
+      "body": "## Note\n\n**Area:** Web App — Tab 3\n\nOn Tab 3 we show the map with the snowline — will it change in 80 years? We need a way to surface contextual notes like this for users.\n\nConsider adding a notes or annotation field on Tab 3 where we can provide interpretive context alongside the map data.\n\n**Severity:** Low\n**Reporter:** Durrell"
+    },
+    {
+      "title": "Add pop-up crib sheet for metrics definitions",
+      "labels": ["new-feature", "low"],
+      "body": "## Feature request\n\n**Area:** Other — Tabs 1–3, or possibly a dedicated new page\n\nA readily available pop-up crib sheet on the metrics. Could be a replacement for the metrics page, but ideally we want to be able to see it hovering over the browser (or app) to refer to while viewing other tabs.\n\n**Use case:** Users need quick reference to metric definitions without navigating away from the data they're looking at.\n\n**Severity:** Low\n**Reporter:** Durrell"
+    },
+    {
+      "title": "Add metrics selector on Tab 3 for cross-scenario comparison",
+      "labels": ["new-feature", "web-app", "low"],
+      "body": "## Feature request\n\n**Area:** Web App — Tab 3 (mostly), possibly Tab 2\n\nA metrics selector on Tab 3 so we can view the SAME metrics across different scenarios. This would allow direct comparison of how a given metric changes under different management or climate scenarios.\n\n**Note:** This adds another layer of UI complexity. Should await the publication of the 500ha food web paper before implementing.\n\n**Severity:** Low\n**Reporter:** Durrell"
+    },
+    {
+      "title": "Fix typo: \"funnction\" → \"function\" on applications page",
+      "labels": ["text", "website", "high"],
+      "body": "## Text change\n\n**Area:** Website\n**Link:** https://wildliferesilience.github.io/wildliferesilience/applications.html\n\n**Current text:**\n> How does the composition, structure, and funnction of mixed conifer and red fir forest wildlife communities differ?\n\n**Suggested text:**\n> How does the composition, structure, and function of mixed conifer and red fir forest wildlife communities differ?\n\n**Why:** Spelling fix (\"funnction\" → \"function\").\n\n**Severity:** High\n**Reporter:** Durrell"
+    },
+    {
+      "title": "Remove duplicate website/ folder",
+      "labels": ["cleanup", "high"],
+      "body": "## Cleanup\n\nThe `website/` folder is a near-exact duplicate of `docs/` — same `.qmd` source files, same images, same `_quarto.yml` (which itself points `output-dir: ../docs`). This adds ~150MB of redundancy to the repo.\n\n**Action:**\n- Verify nothing in `website/` is unique (diff against `docs/`)\n- Delete `website/` entirely\n- Keep `docs/` as the single source of truth\n\n**Source:** Repo scan, Feb 2026"
+    },
+    {
+      "title": "Set up GitHub Actions for Quarto build and deploy",
+      "labels": ["infra", "new-feature", "high"],
+      "body": "## Infrastructure\n\nNo CI/CD exists — no `.github/workflows/` directory at all. The site is currently built locally and HTML is committed directly to the repo.\n\n**Proposed workflow:**\n1. On push to `main`: Quarto renders `.qmd` → HTML\n2. Deploy to GitHub Pages via `actions/deploy-pages`\n3. Stop committing built HTML to the repo\n\n**Benefits:**\n- `.qmd` source files are the only thing in version control\n- No more mixed source/output in `docs/`\n- Consistent builds (no \"works on my machine\")\n- Enables branch previews later\n\n**Dependencies:** Resolve the docs/ folder structure first (see related issue).\n\n**Source:** Repo scan, Feb 2026"
+    },
+    {
+      "title": "Fix .gitignore — exclude build artifacts and large files",
+      "labels": ["infra", "high"],
+      "body": "## Infrastructure\n\nThe current `.gitignore` is missing critical exclusions. All HTML output, Quarto cache, and large binary files are tracked in git.\n\n**Missing exclusions:**\n```\n# Quarto build output\n*.html\n_site/\n_cache/\n.quarto/\n*_files/\n_freeze/\n\n# Large binary files (consider Git LFS)\n*.svg\n*.tif\n*.tiff\n\n# Generated exports\ndocs/converted/\n```\n\n**Currently tracked that shouldn't be:**\n- 13 `.html` files in `docs/` (build output)\n- 2 stale `_site/` folders\n- `.quarto/` cache directories\n- `PlantPollinator_Picture_Collage.svg` (32MB)\n- `LTB_map_RFR_SMC.svg` (27MB)\n- `TCSI_boundary.tif` (66MB)\n- `.RData` (1.3MB) at repo root\n- 10+ `.DS_Store` files\n\n**Note:** After updating `.gitignore`, run `git rm -r --cached .` and recommit to stop tracking these files. Consider Git LFS for large assets that do need to be in the repo.\n\n**Source:** Repo scan, Feb 2026"
+    },
+    {
+      "title": "Restructure docs/ to separate Quarto source from build output",
+      "labels": ["infra", "high"],
+      "body": "## Infrastructure\n\nThe `docs/` folder currently contains both `.qmd` source files and their `.html` output side-by-side. This is because `_quarto.yml` sets `output-dir: ../docs`, which outputs into the same directory as the sources.\n\n**Current state:**\n```\ndocs/\n  about.qmd       ← source\n  about.html      ← output\n  about_files/    ← output\n  _site/          ← stale output\n  _quarto.yml     ← config\n  ...\n```\n\n**Proposed structure (with GH Actions):**\n```\ndocs/              ← source only (.qmd, _quarto.yml, images, input data)\n  _quarto.yml\n  about.qmd\n  images/\n  input/\n```\nHTML output is built by CI and deployed directly — never committed.\n\n**Blocked by:** GitHub Actions setup (see related issue).\n\n**Source:** Repo scan, Feb 2026"
+    },
+    {
+      "title": "Delete stale _site/ folders",
+      "labels": ["cleanup", "high"],
+      "body": "## Cleanup\n\nTwo stale `_site/` directories exist with outdated builds from July 2023:\n- `docs/_site/` (7.6MB)\n- `website/_site/` (7.6MB)\n\nThese contain orphaned pages (`research_highlights.html`, `study_site.html`) that aren't in the current navbar and serve no purpose.\n\n**Action:** Delete both `_site/` directories.\n\n**Source:** Repo scan, Feb 2026"
+    },
+    {
+      "title": "Fix broken link and typo in foodweb.qmd",
+      "labels": ["text", "website", "high"],
+      "body": "## Text change\n\n**Area:** Website — `docs/foodweb.qmd`\n\n**Issue 1 — Missing protocol on link:**\n```markdown\n[*Puma concolor* - Moutain lion](phylopic.org/images/...)\n```\nShould be:\n```markdown\n[*Puma concolor* - Mountain lion](https://www.phylopic.org/images/...)\n```\n\n**Issue 2 — Typo:** \"Moutain\" → \"Mountain\"\n\n**Source:** Repo scan, Feb 2026"
+    },
+    {
+      "title": "Remove orphaned pages and stale references",
+      "labels": ["cleanup", "website", "low"],
+      "body": "## Cleanup\n\n**Area:** Website — `docs/`\n\nSeveral files exist that aren't referenced in the navbar or are remnants of old structure:\n\n- `biodiversityII.qmd` / `biodiversityII.html` — not in navbar\n- `footer.qmd` — 16 bytes, utility file with no page content\n- `study_area.rmarkdown` — legacy R Markdown format, superseded by `central_sierras.qmd`\n- `central_sierras.rmarkdown` — legacy format alongside the `.qmd` version\n- `test.py` — old test file (~2KB)\n- `docs/exportdocx.sh` + `docs/converted/` — docx export pipeline (12MB of .docx files in repo)\n- Commented-out link to non-existent `study_area.qmd` in `index.qmd`\n\n**Action:** Review each, delete what's no longer needed, update any stale references.\n\n**Source:** Repo scan, Feb 2026"
+    },
+    {
+      "title": "Resolve diverged local and remote branches",
+      "labels": ["infra", "high"],
+      "body": "## Infrastructure\n\n`git status` shows local `main` and `origin/main` have diverged:\n- 2 local commits ahead\n- 6 remote commits ahead\n\n**Local-only commits:**\n```\n7854598 Merge branch 'main' of https://github.com/wildliferesilience/wildliferesilience\n368d230 updated project ID\n```\n\n**Remote-only commits:**\n```\ndb460cb Updated web app iframe height\n30a9fcc Merge branch 'main'\nb55132e Updated web app iframe height\n6585751 Delete CNAME\nc9c3d84 Create CNAME\n687e2c3 Updated Web App tab iframe with new wildliferesilience shinyapps.io app\n```\n\n**Action:** Pull and merge (or rebase) before pushing any new work.\n\n**Source:** Repo scan, Feb 2026"
+    }
+  ]
+}
